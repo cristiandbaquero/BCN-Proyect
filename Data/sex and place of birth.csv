@@ -1,0 +1,3067 @@
+,District_Code,Sex,District,Neighborhood,Neighborhood_Code,Population,Place_of_birth
+0,1,Women,Ciutat Vella,el Raval,1,6076,Barcelona city
+1,1,Women,Ciutat Vella,el Barri Gòtic,2,2210,Barcelona city
+2,1,Women,Ciutat Vella,la Barceloneta,3,2928,Barcelona city
+3,1,Women,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",4,3370,Barcelona city
+4,2,Women,Eixample,el Fort Pienc,5,7744,Barcelona city
+5,2,Women,Eixample,la Sagrada Família,6,12768,Barcelona city
+6,2,Women,Eixample,la Dreta de l'Eixample,7,11187,Barcelona city
+7,2,Women,Eixample,l'Antiga Esquerra de l'Eixample,8,10487,Barcelona city
+8,2,Women,Eixample,la Nova Esquerra de l'Eixample,9,14615,Barcelona city
+9,2,Women,Eixample,Sant Antoni,10,9404,Barcelona city
+10,3,Women,Sants-Montjuïc,el Poble Sec,11,7966,Barcelona city
+11,3,Women,Sants-Montjuïc,la Marina del Prat Vermell,12,395,Barcelona city
+12,3,Women,Sants-Montjuïc,la Marina de Port,13,7990,Barcelona city
+13,3,Women,Sants-Montjuïc,la Font de la Guatlla,14,2345,Barcelona city
+14,3,Women,Sants-Montjuïc,Hostafrancs,15,3676,Barcelona city
+15,3,Women,Sants-Montjuïc,la Bordeta,16,5209,Barcelona city
+16,3,Women,Sants-Montjuïc,Sants - Badal,17,5774,Barcelona city
+17,3,Women,Sants-Montjuïc,Sants,18,10851,Barcelona city
+18,4,Women,Les Corts,les Corts,19,13196,Barcelona city
+19,4,Women,Les Corts,la Maternitat i Sant Ramon,20,6341,Barcelona city
+20,4,Women,Les Corts,Pedralbes,21,3253,Barcelona city
+21,5,Women,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",22,1425,Barcelona city
+22,5,Women,Sarrià-Sant Gervasi,Sarrià,23,8101,Barcelona city
+23,5,Women,Sarrià-Sant Gervasi,les Tres Torres,24,5624,Barcelona city
+24,5,Women,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,25,8590,Barcelona city
+25,5,Women,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,26,15567,Barcelona city
+26,5,Women,Sarrià-Sant Gervasi,el Putxet i el Farró,27,9390,Barcelona city
+27,6,Women,Gràcia,Vallcarca i els Penitents,28,4551,Barcelona city
+28,6,Women,Gràcia,el Coll,29,1984,Barcelona city
+29,6,Women,Gràcia,la Salut,30,3945,Barcelona city
+30,6,Women,Gràcia,la Vila de Gràcia,31,13252,Barcelona city
+31,6,Women,Gràcia,el Camp d'en Grassot i Gràcia Nova,32,10222,Barcelona city
+32,7,Women,Horta-Guinardó,el Baix Guinardó,33,7053,Barcelona city
+33,7,Women,Horta-Guinardó,Can Baró,34,2512,Barcelona city
+34,7,Women,Horta-Guinardó,el Guinardó,35,10249,Barcelona city
+35,7,Women,Horta-Guinardó,la Font d'en Fargues,36,3108,Barcelona city
+36,7,Women,Horta-Guinardó,el Carmel,37,7502,Barcelona city
+37,7,Women,Horta-Guinardó,la Teixonera,38,2774,Barcelona city
+38,7,Women,Horta-Guinardó,Sant Genís dels Agudells,39,1731,Barcelona city
+39,7,Women,Horta-Guinardó,Montbau,40,1432,Barcelona city
+40,7,Women,Horta-Guinardó,la Vall d'Hebron,41,1582,Barcelona city
+41,7,Women,Horta-Guinardó,la Clota,42,216,Barcelona city
+42,7,Women,Horta-Guinardó,Horta,43,7856,Barcelona city
+43,8,Women,Nou Barris,Vilapicina i la Torre Llobeta,44,6744,Barcelona city
+44,8,Women,Nou Barris,Porta,45,6166,Barcelona city
+45,8,Women,Nou Barris,el Turó de la Peira,46,3513,Barcelona city
+46,8,Women,Nou Barris,Can Peguera,47,722,Barcelona city
+47,8,Women,Nou Barris,la Guineueta,48,4215,Barcelona city
+48,8,Women,Nou Barris,Canyelles,49,1931,Barcelona city
+49,8,Women,Nou Barris,les Roquetes,50,3602,Barcelona city
+50,8,Women,Nou Barris,Verdun,51,2792,Barcelona city
+51,8,Women,Nou Barris,la Prosperitat,52,6197,Barcelona city
+52,8,Women,Nou Barris,la Trinitat Nova,53,1901,Barcelona city
+53,8,Women,Nou Barris,Torre Baró,54,696,Barcelona city
+54,8,Women,Nou Barris,Ciutat Meridiana,55,1890,Barcelona city
+55,8,Women,Nou Barris,Vallbona,56,337,Barcelona city
+56,9,Women,Sant Andreu,la Trinitat Vella,57,2023,Barcelona city
+57,9,Women,Sant Andreu,Baró de Viver,58,770,Barcelona city
+58,9,Women,Sant Andreu,el Bon Pastor,59,3511,Barcelona city
+59,9,Women,Sant Andreu,Sant Andreu,60,17747,Barcelona city
+60,9,Women,Sant Andreu,la Sagrera,61,7445,Barcelona city
+61,9,Women,Sant Andreu,el Congrés i els Indians,62,4193,Barcelona city
+62,9,Women,Sant Andreu,Navas,63,6026,Barcelona city
+63,10,Women,Sant Martí,el Camp de l'Arpa del Clot,64,9984,Barcelona city
+64,10,Women,Sant Martí,el Clot,65,7146,Barcelona city
+65,10,Women,Sant Martí,el Parc i la Llacuna del Poblenou,66,3688,Barcelona city
+66,10,Women,Sant Martí,la Vila Olímpica del Poblenou,67,2391,Barcelona city
+67,10,Women,Sant Martí,el Poblenou,68,9705,Barcelona city
+68,10,Women,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,69,3579,Barcelona city
+69,10,Women,Sant Martí,el Besòs i el Maresme,70,5000,Barcelona city
+70,10,Women,Sant Martí,Provençals del Poblenou,71,5881,Barcelona city
+71,10,Women,Sant Martí,Sant Martí de Provençals,72,6891,Barcelona city
+72,10,Women,Sant Martí,la Verneda i la Pau,73,6933,Barcelona city
+73,1,Women,Ciutat Vella,el Raval,1,1012,Rest of Catalonia
+74,1,Women,Ciutat Vella,el Barri Gòtic,2,430,Rest of Catalonia
+75,1,Women,Ciutat Vella,la Barceloneta,3,299,Rest of Catalonia
+76,1,Women,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",4,631,Rest of Catalonia
+77,2,Women,Eixample,el Fort Pienc,5,1355,Rest of Catalonia
+78,2,Women,Eixample,la Sagrada Família,6,2177,Rest of Catalonia
+79,2,Women,Eixample,la Dreta de l'Eixample,7,2185,Rest of Catalonia
+80,2,Women,Eixample,l'Antiga Esquerra de l'Eixample,8,2080,Rest of Catalonia
+81,2,Women,Eixample,la Nova Esquerra de l'Eixample,9,2969,Rest of Catalonia
+82,2,Women,Eixample,Sant Antoni,10,1567,Rest of Catalonia
+83,3,Women,Sants-Montjuïc,el Poble Sec,11,1100,Rest of Catalonia
+84,3,Women,Sants-Montjuïc,la Marina del Prat Vermell,12,34,Rest of Catalonia
+85,3,Women,Sants-Montjuïc,la Marina de Port,13,931,Rest of Catalonia
+86,3,Women,Sants-Montjuïc,la Font de la Guatlla,14,403,Rest of Catalonia
+87,3,Women,Sants-Montjuïc,Hostafrancs,15,650,Rest of Catalonia
+88,3,Women,Sants-Montjuïc,la Bordeta,16,818,Rest of Catalonia
+89,3,Women,Sants-Montjuïc,Sants - Badal,17,1157,Rest of Catalonia
+90,3,Women,Sants-Montjuïc,Sants,18,2028,Rest of Catalonia
+91,4,Women,Les Corts,les Corts,19,2762,Rest of Catalonia
+92,4,Women,Les Corts,la Maternitat i Sant Ramon,20,1418,Rest of Catalonia
+93,4,Women,Les Corts,Pedralbes,21,650,Rest of Catalonia
+94,5,Women,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",22,204,Rest of Catalonia
+95,5,Women,Sarrià-Sant Gervasi,Sarrià,23,1293,Rest of Catalonia
+96,5,Women,Sarrià-Sant Gervasi,les Tres Torres,24,801,Rest of Catalonia
+97,5,Women,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,25,1282,Rest of Catalonia
+98,5,Women,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,26,2416,Rest of Catalonia
+99,5,Women,Sarrià-Sant Gervasi,el Putxet i el Farró,27,1545,Rest of Catalonia
+100,6,Women,Gràcia,Vallcarca i els Penitents,28,711,Rest of Catalonia
+101,6,Women,Gràcia,el Coll,29,254,Rest of Catalonia
+102,6,Women,Gràcia,la Salut,30,646,Rest of Catalonia
+103,6,Women,Gràcia,la Vila de Gràcia,31,2593,Rest of Catalonia
+104,6,Women,Gràcia,el Camp d'en Grassot i Gràcia Nova,32,1812,Rest of Catalonia
+105,7,Women,Horta-Guinardó,el Baix Guinardó,33,1217,Rest of Catalonia
+106,7,Women,Horta-Guinardó,Can Baró,34,296,Rest of Catalonia
+107,7,Women,Horta-Guinardó,el Guinardó,35,1384,Rest of Catalonia
+108,7,Women,Horta-Guinardó,la Font d'en Fargues,36,343,Rest of Catalonia
+109,7,Women,Horta-Guinardó,el Carmel,37,596,Rest of Catalonia
+110,7,Women,Horta-Guinardó,la Teixonera,38,253,Rest of Catalonia
+111,7,Women,Horta-Guinardó,Sant Genís dels Agudells,39,235,Rest of Catalonia
+112,7,Women,Horta-Guinardó,Montbau,40,202,Rest of Catalonia
+113,7,Women,Horta-Guinardó,la Vall d'Hebron,41,222,Rest of Catalonia
+114,7,Women,Horta-Guinardó,la Clota,42,15,Rest of Catalonia
+115,7,Women,Horta-Guinardó,Horta,43,908,Rest of Catalonia
+116,8,Women,Nou Barris,Vilapicina i la Torre Llobeta,44,899,Rest of Catalonia
+117,8,Women,Nou Barris,Porta,45,720,Rest of Catalonia
+118,8,Women,Nou Barris,el Turó de la Peira,46,394,Rest of Catalonia
+119,8,Women,Nou Barris,Can Peguera,47,42,Rest of Catalonia
+120,8,Women,Nou Barris,la Guineueta,48,471,Rest of Catalonia
+121,8,Women,Nou Barris,Canyelles,49,179,Rest of Catalonia
+122,8,Women,Nou Barris,les Roquetes,50,293,Rest of Catalonia
+123,8,Women,Nou Barris,Verdun,51,269,Rest of Catalonia
+124,8,Women,Nou Barris,la Prosperitat,52,653,Rest of Catalonia
+125,8,Women,Nou Barris,la Trinitat Nova,53,176,Rest of Catalonia
+126,8,Women,Nou Barris,Torre Baró,54,95,Rest of Catalonia
+127,8,Women,Nou Barris,Ciutat Meridiana,55,218,Rest of Catalonia
+128,8,Women,Nou Barris,Vallbona,56,51,Rest of Catalonia
+129,9,Women,Sant Andreu,la Trinitat Vella,57,200,Rest of Catalonia
+130,9,Women,Sant Andreu,Baró de Viver,58,119,Rest of Catalonia
+131,9,Women,Sant Andreu,el Bon Pastor,59,495,Rest of Catalonia
+132,9,Women,Sant Andreu,Sant Andreu,60,2369,Rest of Catalonia
+133,9,Women,Sant Andreu,la Sagrera,61,1006,Rest of Catalonia
+134,9,Women,Sant Andreu,el Congrés i els Indians,62,519,Rest of Catalonia
+135,9,Women,Sant Andreu,Navas,63,781,Rest of Catalonia
+136,10,Women,Sant Martí,el Camp de l'Arpa del Clot,64,1547,Rest of Catalonia
+137,10,Women,Sant Martí,el Clot,65,969,Rest of Catalonia
+138,10,Women,Sant Martí,el Parc i la Llacuna del Poblenou,66,591,Rest of Catalonia
+139,10,Women,Sant Martí,la Vila Olímpica del Poblenou,67,474,Rest of Catalonia
+140,10,Women,Sant Martí,el Poblenou,68,1263,Rest of Catalonia
+141,10,Women,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,69,538,Rest of Catalonia
+142,10,Women,Sant Martí,el Besòs i el Maresme,70,586,Rest of Catalonia
+143,10,Women,Sant Martí,Provençals del Poblenou,71,743,Rest of Catalonia
+144,10,Women,Sant Martí,Sant Martí de Provençals,72,896,Rest of Catalonia
+145,10,Women,Sant Martí,la Verneda i la Pau,73,928,Rest of Catalonia
+146,1,Women,Ciutat Vella,el Raval,1,544,Andalusia
+147,1,Women,Ciutat Vella,el Barri Gòtic,2,203,Andalusia
+148,1,Women,Ciutat Vella,la Barceloneta,3,394,Andalusia
+149,1,Women,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",4,332,Andalusia
+150,2,Women,Eixample,el Fort Pienc,5,523,Andalusia
+151,2,Women,Eixample,la Sagrada Família,6,889,Andalusia
+152,2,Women,Eixample,la Dreta de l'Eixample,7,523,Andalusia
+153,2,Women,Eixample,l'Antiga Esquerra de l'Eixample,8,560,Andalusia
+154,2,Women,Eixample,la Nova Esquerra de l'Eixample,9,859,Andalusia
+155,2,Women,Eixample,Sant Antoni,10,604,Andalusia
+156,3,Women,Sants-Montjuïc,el Poble Sec,11,662,Andalusia
+157,3,Women,Sants-Montjuïc,la Marina del Prat Vermell,12,26,Andalusia
+158,3,Women,Sants-Montjuïc,la Marina de Port,13,1076,Andalusia
+159,3,Women,Sants-Montjuïc,la Font de la Guatlla,14,240,Andalusia
+160,3,Women,Sants-Montjuïc,Hostafrancs,15,268,Andalusia
+161,3,Women,Sants-Montjuïc,la Bordeta,16,490,Andalusia
+162,3,Women,Sants-Montjuïc,Sants - Badal,17,641,Andalusia
+163,3,Women,Sants-Montjuïc,Sants,18,721,Andalusia
+164,4,Women,Les Corts,les Corts,19,723,Andalusia
+165,4,Women,Les Corts,la Maternitat i Sant Ramon,20,581,Andalusia
+166,4,Women,Les Corts,Pedralbes,21,137,Andalusia
+167,5,Women,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",22,56,Andalusia
+168,5,Women,Sarrià-Sant Gervasi,Sarrià,23,219,Andalusia
+169,5,Women,Sarrià-Sant Gervasi,les Tres Torres,24,118,Andalusia
+170,5,Women,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,25,251,Andalusia
+171,5,Women,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,26,394,Andalusia
+172,5,Women,Sarrià-Sant Gervasi,el Putxet i el Farró,27,287,Andalusia
+173,6,Women,Gràcia,Vallcarca i els Penitents,28,285,Andalusia
+174,6,Women,Gràcia,el Coll,29,179,Andalusia
+175,6,Women,Gràcia,la Salut,30,237,Andalusia
+176,6,Women,Gràcia,la Vila de Gràcia,31,707,Andalusia
+177,6,Women,Gràcia,el Camp d'en Grassot i Gràcia Nova,32,553,Andalusia
+178,7,Women,Horta-Guinardó,el Baix Guinardó,33,572,Andalusia
+179,7,Women,Horta-Guinardó,Can Baró,34,348,Andalusia
+180,7,Women,Horta-Guinardó,el Guinardó,35,785,Andalusia
+181,7,Women,Horta-Guinardó,la Font d'en Fargues,36,270,Andalusia
+182,7,Women,Horta-Guinardó,el Carmel,37,2039,Andalusia
+183,7,Women,Horta-Guinardó,la Teixonera,38,584,Andalusia
+184,7,Women,Horta-Guinardó,Sant Genís dels Agudells,39,308,Andalusia
+185,7,Women,Horta-Guinardó,Montbau,40,158,Andalusia
+186,7,Women,Horta-Guinardó,la Vall d'Hebron,41,175,Andalusia
+187,7,Women,Horta-Guinardó,la Clota,42,18,Andalusia
+188,7,Women,Horta-Guinardó,Horta,43,962,Andalusia
+189,8,Women,Nou Barris,Vilapicina i la Torre Llobeta,44,790,Andalusia
+190,8,Women,Nou Barris,Porta,45,1020,Andalusia
+191,8,Women,Nou Barris,el Turó de la Peira,46,473,Andalusia
+192,8,Women,Nou Barris,Can Peguera,47,88,Andalusia
+193,8,Women,Nou Barris,la Guineueta,48,714,Andalusia
+194,8,Women,Nou Barris,Canyelles,49,461,Andalusia
+195,8,Women,Nou Barris,les Roquetes,50,933,Andalusia
+196,8,Women,Nou Barris,Verdun,51,669,Andalusia
+197,8,Women,Nou Barris,la Prosperitat,52,1468,Andalusia
+198,8,Women,Nou Barris,la Trinitat Nova,53,300,Andalusia
+199,8,Women,Nou Barris,Torre Baró,54,143,Andalusia
+200,8,Women,Nou Barris,Ciutat Meridiana,55,486,Andalusia
+201,8,Women,Nou Barris,Vallbona,56,73,Andalusia
+202,9,Women,Sant Andreu,la Trinitat Vella,57,458,Andalusia
+203,9,Women,Sant Andreu,Baró de Viver,58,87,Andalusia
+204,9,Women,Sant Andreu,el Bon Pastor,59,438,Andalusia
+205,9,Women,Sant Andreu,Sant Andreu,60,1875,Andalusia
+206,9,Women,Sant Andreu,la Sagrera,61,829,Andalusia
+207,9,Women,Sant Andreu,el Congrés i els Indians,62,307,Andalusia
+208,9,Women,Sant Andreu,Navas,63,521,Andalusia
+209,10,Women,Sant Martí,el Camp de l'Arpa del Clot,64,766,Andalusia
+210,10,Women,Sant Martí,el Clot,65,628,Andalusia
+211,10,Women,Sant Martí,el Parc i la Llacuna del Poblenou,66,352,Andalusia
+212,10,Women,Sant Martí,la Vila Olímpica del Poblenou,67,107,Andalusia
+213,10,Women,Sant Martí,el Poblenou,68,536,Andalusia
+214,10,Women,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,69,285,Andalusia
+215,10,Women,Sant Martí,el Besòs i el Maresme,70,916,Andalusia
+216,10,Women,Sant Martí,Provençals del Poblenou,71,595,Andalusia
+217,10,Women,Sant Martí,Sant Martí de Provençals,72,1016,Andalusia
+218,10,Women,Sant Martí,la Verneda i la Pau,73,1459,Andalusia
+219,1,Women,Ciutat Vella,el Raval,1,210,Aragon
+220,1,Women,Ciutat Vella,el Barri Gòtic,2,85,Aragon
+221,1,Women,Ciutat Vella,la Barceloneta,3,61,Aragon
+222,1,Women,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",4,143,Aragon
+223,2,Women,Eixample,el Fort Pienc,5,387,Aragon
+224,2,Women,Eixample,la Sagrada Família,6,752,Aragon
+225,2,Women,Eixample,la Dreta de l'Eixample,7,445,Aragon
+226,2,Women,Eixample,l'Antiga Esquerra de l'Eixample,8,393,Aragon
+227,2,Women,Eixample,la Nova Esquerra de l'Eixample,9,780,Aragon
+228,2,Women,Eixample,Sant Antoni,10,434,Aragon
+229,3,Women,Sants-Montjuïc,el Poble Sec,11,297,Aragon
+230,3,Women,Sants-Montjuïc,la Marina del Prat Vermell,12,3,Aragon
+231,3,Women,Sants-Montjuïc,la Marina de Port,13,266,Aragon
+232,3,Women,Sants-Montjuïc,la Font de la Guatlla,14,158,Aragon
+233,3,Women,Sants-Montjuïc,Hostafrancs,15,182,Aragon
+234,3,Women,Sants-Montjuïc,la Bordeta,16,213,Aragon
+235,3,Women,Sants-Montjuïc,Sants - Badal,17,296,Aragon
+236,3,Women,Sants-Montjuïc,Sants,18,440,Aragon
+237,4,Women,Les Corts,les Corts,19,678,Aragon
+238,4,Women,Les Corts,la Maternitat i Sant Ramon,20,327,Aragon
+239,4,Women,Les Corts,Pedralbes,21,119,Aragon
+240,5,Women,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",22,24,Aragon
+241,5,Women,Sarrià-Sant Gervasi,Sarrià,23,183,Aragon
+242,5,Women,Sarrià-Sant Gervasi,les Tres Torres,24,117,Aragon
+243,5,Women,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,25,227,Aragon
+244,5,Women,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,26,415,Aragon
+245,5,Women,Sarrià-Sant Gervasi,el Putxet i el Farró,27,272,Aragon
+246,6,Women,Gràcia,Vallcarca i els Penitents,28,195,Aragon
+247,6,Women,Gràcia,el Coll,29,79,Aragon
+248,6,Women,Gràcia,la Salut,30,128,Aragon
+249,6,Women,Gràcia,la Vila de Gràcia,31,471,Aragon
+250,6,Women,Gràcia,el Camp d'en Grassot i Gràcia Nova,32,482,Aragon
+251,7,Women,Horta-Guinardó,el Baix Guinardó,33,400,Aragon
+252,7,Women,Horta-Guinardó,Can Baró,34,89,Aragon
+253,7,Women,Horta-Guinardó,el Guinardó,35,461,Aragon
+254,7,Women,Horta-Guinardó,la Font d'en Fargues,36,110,Aragon
+255,7,Women,Horta-Guinardó,el Carmel,37,265,Aragon
+256,7,Women,Horta-Guinardó,la Teixonera,38,112,Aragon
+257,7,Women,Horta-Guinardó,Sant Genís dels Agudells,39,104,Aragon
+258,7,Women,Horta-Guinardó,Montbau,40,90,Aragon
+259,7,Women,Horta-Guinardó,la Vall d'Hebron,41,99,Aragon
+260,7,Women,Horta-Guinardó,la Clota,42,3,Aragon
+261,7,Women,Horta-Guinardó,Horta,43,310,Aragon
+262,8,Women,Nou Barris,Vilapicina i la Torre Llobeta,44,378,Aragon
+263,8,Women,Nou Barris,Porta,45,365,Aragon
+264,8,Women,Nou Barris,el Turó de la Peira,46,212,Aragon
+265,8,Women,Nou Barris,Can Peguera,47,21,Aragon
+266,8,Women,Nou Barris,la Guineueta,48,207,Aragon
+267,8,Women,Nou Barris,Canyelles,49,64,Aragon
+268,8,Women,Nou Barris,les Roquetes,50,87,Aragon
+269,8,Women,Nou Barris,Verdun,51,120,Aragon
+270,8,Women,Nou Barris,la Prosperitat,52,279,Aragon
+271,8,Women,Nou Barris,la Trinitat Nova,53,41,Aragon
+272,8,Women,Nou Barris,Torre Baró,54,8,Aragon
+273,8,Women,Nou Barris,Ciutat Meridiana,55,56,Aragon
+274,8,Women,Nou Barris,Vallbona,56,6,Aragon
+275,9,Women,Sant Andreu,la Trinitat Vella,57,33,Aragon
+276,9,Women,Sant Andreu,Baró de Viver,58,9,Aragon
+277,9,Women,Sant Andreu,el Bon Pastor,59,70,Aragon
+278,9,Women,Sant Andreu,Sant Andreu,60,547,Aragon
+279,9,Women,Sant Andreu,la Sagrera,61,391,Aragon
+280,9,Women,Sant Andreu,el Congrés i els Indians,62,175,Aragon
+281,9,Women,Sant Andreu,Navas,63,298,Aragon
+282,10,Women,Sant Martí,el Camp de l'Arpa del Clot,64,507,Aragon
+283,10,Women,Sant Martí,el Clot,65,323,Aragon
+284,10,Women,Sant Martí,el Parc i la Llacuna del Poblenou,66,194,Aragon
+285,10,Women,Sant Martí,la Vila Olímpica del Poblenou,67,96,Aragon
+286,10,Women,Sant Martí,el Poblenou,68,233,Aragon
+287,10,Women,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,69,122,Aragon
+288,10,Women,Sant Martí,el Besòs i el Maresme,70,135,Aragon
+289,10,Women,Sant Martí,Provençals del Poblenou,71,195,Aragon
+290,10,Women,Sant Martí,Sant Martí de Provençals,72,318,Aragon
+291,10,Women,Sant Martí,la Verneda i la Pau,73,355,Aragon
+292,1,Women,Ciutat Vella,el Raval,1,57,Principality of Asturias
+293,1,Women,Ciutat Vella,el Barri Gòtic,2,28,Principality of Asturias
+294,1,Women,Ciutat Vella,la Barceloneta,3,25,Principality of Asturias
+295,1,Women,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",4,40,Principality of Asturias
+296,2,Women,Eixample,el Fort Pienc,5,54,Principality of Asturias
+297,2,Women,Eixample,la Sagrada Família,6,105,Principality of Asturias
+298,2,Women,Eixample,la Dreta de l'Eixample,7,74,Principality of Asturias
+299,2,Women,Eixample,l'Antiga Esquerra de l'Eixample,8,92,Principality of Asturias
+300,2,Women,Eixample,la Nova Esquerra de l'Eixample,9,120,Principality of Asturias
+301,2,Women,Eixample,Sant Antoni,10,63,Principality of Asturias
+302,3,Women,Sants-Montjuïc,el Poble Sec,11,62,Principality of Asturias
+303,3,Women,Sants-Montjuïc,la Marina del Prat Vermell,12,1,Principality of Asturias
+304,3,Women,Sants-Montjuïc,la Marina de Port,13,48,Principality of Asturias
+305,3,Women,Sants-Montjuïc,la Font de la Guatlla,14,20,Principality of Asturias
+306,3,Women,Sants-Montjuïc,Hostafrancs,15,27,Principality of Asturias
+307,6,Women,Gràcia,el Coll,29,10,Balearic islands
+308,3,Women,Sants-Montjuïc,la Bordeta,16,33,Principality of Asturias
+309,3,Women,Sants-Montjuïc,Sants - Badal,17,35,Principality of Asturias
+310,3,Women,Sants-Montjuïc,Sants,18,66,Principality of Asturias
+311,4,Women,Les Corts,les Corts,19,96,Principality of Asturias
+312,4,Women,Les Corts,la Maternitat i Sant Ramon,20,46,Principality of Asturias
+313,4,Women,Les Corts,Pedralbes,21,18,Principality of Asturias
+314,5,Women,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",22,1,Principality of Asturias
+315,5,Women,Sarrià-Sant Gervasi,Sarrià,23,47,Principality of Asturias
+316,5,Women,Sarrià-Sant Gervasi,les Tres Torres,24,29,Principality of Asturias
+317,5,Women,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,25,32,Principality of Asturias
+318,5,Women,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,26,91,Principality of Asturias
+319,5,Women,Sarrià-Sant Gervasi,el Putxet i el Farró,27,53,Principality of Asturias
+320,6,Women,Gràcia,Vallcarca i els Penitents,28,32,Principality of Asturias
+321,6,Women,Gràcia,el Coll,29,16,Principality of Asturias
+322,6,Women,Gràcia,la Salut,30,18,Principality of Asturias
+323,6,Women,Gràcia,la Vila de Gràcia,31,104,Principality of Asturias
+324,6,Women,Gràcia,el Camp d'en Grassot i Gràcia Nova,32,54,Principality of Asturias
+325,7,Women,Horta-Guinardó,el Baix Guinardó,33,35,Principality of Asturias
+326,7,Women,Horta-Guinardó,Can Baró,34,14,Principality of Asturias
+327,7,Women,Horta-Guinardó,el Guinardó,35,62,Principality of Asturias
+328,7,Women,Horta-Guinardó,la Font d'en Fargues,36,7,Principality of Asturias
+329,7,Women,Horta-Guinardó,el Carmel,37,34,Principality of Asturias
+330,7,Women,Horta-Guinardó,la Teixonera,38,16,Principality of Asturias
+331,7,Women,Horta-Guinardó,Sant Genís dels Agudells,39,15,Principality of Asturias
+332,7,Women,Horta-Guinardó,Montbau,40,5,Principality of Asturias
+333,7,Women,Horta-Guinardó,la Vall d'Hebron,41,15,Principality of Asturias
+334,7,Women,Horta-Guinardó,la Clota,42,1,Principality of Asturias
+335,7,Women,Horta-Guinardó,Horta,43,30,Principality of Asturias
+336,8,Women,Nou Barris,Vilapicina i la Torre Llobeta,44,27,Principality of Asturias
+337,8,Women,Nou Barris,Porta,45,33,Principality of Asturias
+338,8,Women,Nou Barris,el Turó de la Peira,46,26,Principality of Asturias
+339,8,Women,Nou Barris,Can Peguera,47,4,Principality of Asturias
+340,8,Women,Nou Barris,la Guineueta,48,21,Principality of Asturias
+341,8,Women,Nou Barris,Canyelles,49,9,Principality of Asturias
+342,8,Women,Nou Barris,les Roquetes,50,8,Principality of Asturias
+343,8,Women,Nou Barris,Verdun,51,10,Principality of Asturias
+344,8,Women,Nou Barris,la Prosperitat,52,33,Principality of Asturias
+345,8,Women,Nou Barris,la Trinitat Nova,53,6,Principality of Asturias
+346,8,Women,Nou Barris,Torre Baró,54,2,Principality of Asturias
+347,8,Women,Nou Barris,Ciutat Meridiana,55,4,Principality of Asturias
+348,8,Women,Nou Barris,Vallbona,56,4,Principality of Asturias
+349,9,Women,Sant Andreu,la Trinitat Vella,57,7,Principality of Asturias
+350,9,Women,Sant Andreu,Baró de Viver,58,3,Principality of Asturias
+351,9,Women,Sant Andreu,el Bon Pastor,59,8,Principality of Asturias
+352,9,Women,Sant Andreu,Sant Andreu,60,71,Principality of Asturias
+353,9,Women,Sant Andreu,la Sagrera,61,30,Principality of Asturias
+354,9,Women,Sant Andreu,el Congrés i els Indians,62,12,Principality of Asturias
+355,9,Women,Sant Andreu,Navas,63,31,Principality of Asturias
+356,10,Women,Sant Martí,el Camp de l'Arpa del Clot,64,48,Principality of Asturias
+357,10,Women,Sant Martí,el Clot,65,58,Principality of Asturias
+358,10,Women,Sant Martí,el Parc i la Llacuna del Poblenou,66,30,Principality of Asturias
+359,10,Women,Sant Martí,la Vila Olímpica del Poblenou,67,16,Principality of Asturias
+360,10,Women,Sant Martí,el Poblenou,68,38,Principality of Asturias
+361,10,Women,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,69,13,Principality of Asturias
+362,10,Women,Sant Martí,el Besòs i el Maresme,70,27,Principality of Asturias
+363,10,Women,Sant Martí,Provençals del Poblenou,71,35,Principality of Asturias
+364,10,Women,Sant Martí,Sant Martí de Provençals,72,39,Principality of Asturias
+365,10,Women,Sant Martí,la Verneda i la Pau,73,35,Principality of Asturias
+366,1,Women,Ciutat Vella,el Raval,1,47,Balearic islands
+367,1,Women,Ciutat Vella,el Barri Gòtic,2,18,Balearic islands
+368,1,Women,Ciutat Vella,la Barceloneta,3,19,Balearic islands
+369,1,Women,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",4,26,Balearic islands
+370,2,Women,Eixample,el Fort Pienc,5,35,Balearic islands
+371,2,Women,Eixample,la Sagrada Família,6,77,Balearic islands
+372,2,Women,Eixample,la Dreta de l'Eixample,7,77,Balearic islands
+373,2,Women,Eixample,l'Antiga Esquerra de l'Eixample,8,72,Balearic islands
+374,2,Women,Eixample,la Nova Esquerra de l'Eixample,9,96,Balearic islands
+375,2,Women,Eixample,Sant Antoni,10,58,Balearic islands
+376,3,Women,Sants-Montjuïc,el Poble Sec,11,53,Balearic islands
+377,3,Women,Sants-Montjuïc,la Marina del Prat Vermell,12,0,Balearic islands
+378,3,Women,Sants-Montjuïc,la Marina de Port,13,29,Balearic islands
+379,3,Women,Sants-Montjuïc,la Font de la Guatlla,14,11,Balearic islands
+380,3,Women,Sants-Montjuïc,Hostafrancs,15,20,Balearic islands
+381,3,Women,Sants-Montjuïc,la Bordeta,16,26,Balearic islands
+382,3,Women,Sants-Montjuïc,Sants - Badal,17,28,Balearic islands
+383,3,Women,Sants-Montjuïc,Sants,18,60,Balearic islands
+384,4,Women,Les Corts,les Corts,19,80,Balearic islands
+385,4,Women,Les Corts,la Maternitat i Sant Ramon,20,33,Balearic islands
+386,4,Women,Les Corts,Pedralbes,21,17,Balearic islands
+387,5,Women,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",22,11,Balearic islands
+388,5,Women,Sarrià-Sant Gervasi,Sarrià,23,61,Balearic islands
+389,5,Women,Sarrià-Sant Gervasi,les Tres Torres,24,43,Balearic islands
+390,5,Women,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,25,48,Balearic islands
+391,5,Women,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,26,89,Balearic islands
+392,5,Women,Sarrià-Sant Gervasi,el Putxet i el Farró,27,65,Balearic islands
+393,6,Women,Gràcia,Vallcarca i els Penitents,28,30,Balearic islands
+394,6,Women,Gràcia,la Salut,30,26,Balearic islands
+395,6,Women,Gràcia,la Vila de Gràcia,31,97,Balearic islands
+396,6,Women,Gràcia,el Camp d'en Grassot i Gràcia Nova,32,60,Balearic islands
+397,7,Women,Horta-Guinardó,el Baix Guinardó,33,32,Balearic islands
+398,7,Women,Horta-Guinardó,Can Baró,34,14,Balearic islands
+399,7,Women,Horta-Guinardó,el Guinardó,35,50,Balearic islands
+400,7,Women,Horta-Guinardó,la Font d'en Fargues,36,21,Balearic islands
+401,7,Women,Horta-Guinardó,el Carmel,37,21,Balearic islands
+402,7,Women,Horta-Guinardó,la Teixonera,38,7,Balearic islands
+403,7,Women,Horta-Guinardó,Sant Genís dels Agudells,39,7,Balearic islands
+404,7,Women,Horta-Guinardó,Montbau,40,10,Balearic islands
+405,7,Women,Horta-Guinardó,la Vall d'Hebron,41,4,Balearic islands
+406,7,Women,Horta-Guinardó,la Clota,42,0,Balearic islands
+407,7,Women,Horta-Guinardó,Horta,43,21,Balearic islands
+408,8,Women,Nou Barris,Vilapicina i la Torre Llobeta,44,17,Balearic islands
+409,8,Women,Nou Barris,Porta,45,23,Balearic islands
+410,8,Women,Nou Barris,el Turó de la Peira,46,8,Balearic islands
+411,8,Women,Nou Barris,Can Peguera,47,1,Balearic islands
+412,8,Women,Nou Barris,la Guineueta,48,12,Balearic islands
+413,8,Women,Nou Barris,Canyelles,49,3,Balearic islands
+414,8,Women,Nou Barris,les Roquetes,50,9,Balearic islands
+415,8,Women,Nou Barris,Verdun,51,8,Balearic islands
+416,8,Women,Nou Barris,la Prosperitat,52,15,Balearic islands
+417,8,Women,Nou Barris,la Trinitat Nova,53,6,Balearic islands
+418,8,Women,Nou Barris,Torre Baró,54,6,Balearic islands
+419,8,Women,Nou Barris,Ciutat Meridiana,55,8,Balearic islands
+420,8,Women,Nou Barris,Vallbona,56,0,Balearic islands
+421,9,Women,Sant Andreu,la Trinitat Vella,57,4,Balearic islands
+422,9,Women,Sant Andreu,Baró de Viver,58,1,Balearic islands
+423,9,Women,Sant Andreu,el Bon Pastor,59,5,Balearic islands
+424,9,Women,Sant Andreu,Sant Andreu,60,58,Balearic islands
+425,9,Women,Sant Andreu,la Sagrera,61,17,Balearic islands
+426,9,Women,Sant Andreu,el Congrés i els Indians,62,21,Balearic islands
+427,9,Women,Sant Andreu,Navas,63,15,Balearic islands
+428,10,Women,Sant Martí,el Camp de l'Arpa del Clot,64,43,Balearic islands
+429,10,Women,Sant Martí,el Clot,65,25,Balearic islands
+430,10,Women,Sant Martí,el Parc i la Llacuna del Poblenou,66,19,Balearic islands
+431,10,Women,Sant Martí,la Vila Olímpica del Poblenou,67,15,Balearic islands
+432,10,Women,Sant Martí,el Poblenou,68,47,Balearic islands
+433,10,Women,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,69,12,Balearic islands
+434,10,Women,Sant Martí,el Besòs i el Maresme,70,14,Balearic islands
+435,10,Women,Sant Martí,Provençals del Poblenou,71,18,Balearic islands
+436,10,Women,Sant Martí,Sant Martí de Provençals,72,25,Balearic islands
+437,10,Women,Sant Martí,la Verneda i la Pau,73,23,Balearic islands
+438,1,Women,Ciutat Vella,el Raval,1,29,Canary Islands
+439,1,Women,Ciutat Vella,el Barri Gòtic,2,13,Canary Islands
+440,1,Women,Ciutat Vella,la Barceloneta,3,8,Canary Islands
+441,1,Women,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",4,17,Canary Islands
+442,2,Women,Eixample,el Fort Pienc,5,29,Canary Islands
+443,2,Women,Eixample,la Sagrada Família,6,39,Canary Islands
+444,2,Women,Eixample,la Dreta de l'Eixample,7,32,Canary Islands
+445,2,Women,Eixample,l'Antiga Esquerra de l'Eixample,8,35,Canary Islands
+446,2,Women,Eixample,la Nova Esquerra de l'Eixample,9,51,Canary Islands
+447,2,Women,Eixample,Sant Antoni,10,37,Canary Islands
+448,3,Women,Sants-Montjuïc,el Poble Sec,11,27,Canary Islands
+449,3,Women,Sants-Montjuïc,la Marina del Prat Vermell,12,1,Canary Islands
+450,3,Women,Sants-Montjuïc,la Marina de Port,13,18,Canary Islands
+451,3,Women,Sants-Montjuïc,la Font de la Guatlla,14,7,Canary Islands
+452,3,Women,Sants-Montjuïc,Hostafrancs,15,11,Canary Islands
+453,3,Women,Sants-Montjuïc,la Bordeta,16,10,Canary Islands
+454,3,Women,Sants-Montjuïc,Sants - Badal,17,15,Canary Islands
+455,3,Women,Sants-Montjuïc,Sants,18,36,Canary Islands
+456,4,Women,Les Corts,les Corts,19,45,Canary Islands
+457,4,Women,Les Corts,la Maternitat i Sant Ramon,20,17,Canary Islands
+458,4,Women,Les Corts,Pedralbes,21,9,Canary Islands
+459,5,Women,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",22,5,Canary Islands
+460,5,Women,Sarrià-Sant Gervasi,Sarrià,23,33,Canary Islands
+461,5,Women,Sarrià-Sant Gervasi,les Tres Torres,24,17,Canary Islands
+462,5,Women,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,25,21,Canary Islands
+463,5,Women,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,26,59,Canary Islands
+464,5,Women,Sarrià-Sant Gervasi,el Putxet i el Farró,27,31,Canary Islands
+465,6,Women,Gràcia,Vallcarca i els Penitents,28,16,Canary Islands
+466,6,Women,Gràcia,el Coll,29,10,Canary Islands
+467,6,Women,Gràcia,la Salut,30,5,Canary Islands
+468,6,Women,Gràcia,la Vila de Gràcia,31,42,Canary Islands
+469,6,Women,Gràcia,el Camp d'en Grassot i Gràcia Nova,32,28,Canary Islands
+470,7,Women,Horta-Guinardó,el Baix Guinardó,33,23,Canary Islands
+471,7,Women,Horta-Guinardó,Can Baró,34,9,Canary Islands
+472,7,Women,Horta-Guinardó,el Guinardó,35,23,Canary Islands
+473,7,Women,Horta-Guinardó,la Font d'en Fargues,36,7,Canary Islands
+474,7,Women,Horta-Guinardó,el Carmel,37,16,Canary Islands
+475,7,Women,Horta-Guinardó,la Teixonera,38,8,Canary Islands
+476,7,Women,Horta-Guinardó,Sant Genís dels Agudells,39,5,Canary Islands
+477,7,Women,Horta-Guinardó,Montbau,40,4,Canary Islands
+478,7,Women,Horta-Guinardó,la Vall d'Hebron,41,4,Canary Islands
+479,7,Women,Horta-Guinardó,la Clota,42,0,Canary Islands
+480,7,Women,Horta-Guinardó,Horta,43,8,Canary Islands
+481,8,Women,Nou Barris,Vilapicina i la Torre Llobeta,44,15,Canary Islands
+482,8,Women,Nou Barris,Porta,45,23,Canary Islands
+483,8,Women,Nou Barris,el Turó de la Peira,46,7,Canary Islands
+484,8,Women,Nou Barris,Can Peguera,47,3,Canary Islands
+485,8,Women,Nou Barris,la Guineueta,48,9,Canary Islands
+486,8,Women,Nou Barris,Canyelles,49,2,Canary Islands
+487,8,Women,Nou Barris,les Roquetes,50,7,Canary Islands
+488,8,Women,Nou Barris,Verdun,51,9,Canary Islands
+489,8,Women,Nou Barris,la Prosperitat,52,11,Canary Islands
+490,8,Women,Nou Barris,la Trinitat Nova,53,2,Canary Islands
+491,8,Women,Nou Barris,Torre Baró,54,0,Canary Islands
+492,8,Women,Nou Barris,Ciutat Meridiana,55,12,Canary Islands
+493,8,Women,Nou Barris,Vallbona,56,1,Canary Islands
+494,9,Women,Sant Andreu,la Trinitat Vella,57,3,Canary Islands
+495,9,Women,Sant Andreu,Baró de Viver,58,1,Canary Islands
+496,9,Women,Sant Andreu,el Bon Pastor,59,4,Canary Islands
+497,9,Women,Sant Andreu,Sant Andreu,60,48,Canary Islands
+498,9,Women,Sant Andreu,la Sagrera,61,17,Canary Islands
+499,9,Women,Sant Andreu,el Congrés i els Indians,62,6,Canary Islands
+500,9,Women,Sant Andreu,Navas,63,22,Canary Islands
+501,10,Women,Sant Martí,el Camp de l'Arpa del Clot,64,36,Canary Islands
+502,10,Women,Sant Martí,el Clot,65,23,Canary Islands
+503,10,Women,Sant Martí,el Parc i la Llacuna del Poblenou,66,12,Canary Islands
+504,10,Women,Sant Martí,la Vila Olímpica del Poblenou,67,9,Canary Islands
+505,10,Women,Sant Martí,el Poblenou,68,32,Canary Islands
+506,10,Women,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,69,13,Canary Islands
+507,10,Women,Sant Martí,el Besòs i el Maresme,70,9,Canary Islands
+508,10,Women,Sant Martí,Provençals del Poblenou,71,19,Canary Islands
+509,10,Women,Sant Martí,Sant Martí de Provençals,72,22,Canary Islands
+510,10,Women,Sant Martí,la Verneda i la Pau,73,17,Canary Islands
+511,1,Women,Ciutat Vella,el Raval,1,33,Cantabria
+512,1,Women,Ciutat Vella,el Barri Gòtic,2,11,Cantabria
+513,1,Women,Ciutat Vella,la Barceloneta,3,12,Cantabria
+514,1,Women,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",4,13,Cantabria
+515,2,Women,Eixample,el Fort Pienc,5,38,Cantabria
+516,2,Women,Eixample,la Sagrada Família,6,39,Cantabria
+517,2,Women,Eixample,la Dreta de l'Eixample,7,53,Cantabria
+518,2,Women,Eixample,l'Antiga Esquerra de l'Eixample,8,55,Cantabria
+519,2,Women,Eixample,la Nova Esquerra de l'Eixample,9,68,Cantabria
+520,2,Women,Eixample,Sant Antoni,10,45,Cantabria
+521,3,Women,Sants-Montjuïc,el Poble Sec,11,32,Cantabria
+522,3,Women,Sants-Montjuïc,la Marina del Prat Vermell,12,1,Cantabria
+523,3,Women,Sants-Montjuïc,la Marina de Port,13,27,Cantabria
+524,3,Women,Sants-Montjuïc,la Font de la Guatlla,14,20,Cantabria
+525,3,Women,Sants-Montjuïc,Hostafrancs,15,27,Cantabria
+526,3,Women,Sants-Montjuïc,la Bordeta,16,20,Cantabria
+527,3,Women,Sants-Montjuïc,Sants - Badal,17,23,Cantabria
+528,3,Women,Sants-Montjuïc,Sants,18,31,Cantabria
+529,4,Women,Les Corts,les Corts,19,56,Cantabria
+530,4,Women,Les Corts,la Maternitat i Sant Ramon,20,39,Cantabria
+531,4,Women,Les Corts,Pedralbes,21,21,Cantabria
+532,5,Women,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",22,2,Cantabria
+533,5,Women,Sarrià-Sant Gervasi,Sarrià,23,31,Cantabria
+534,5,Women,Sarrià-Sant Gervasi,les Tres Torres,24,18,Cantabria
+535,5,Women,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,25,28,Cantabria
+536,5,Women,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,26,49,Cantabria
+537,5,Women,Sarrià-Sant Gervasi,el Putxet i el Farró,27,28,Cantabria
+538,6,Women,Gràcia,Vallcarca i els Penitents,28,15,Cantabria
+539,6,Women,Gràcia,el Coll,29,6,Cantabria
+540,6,Women,Gràcia,la Salut,30,18,Cantabria
+541,6,Women,Gràcia,la Vila de Gràcia,31,56,Cantabria
+542,6,Women,Gràcia,el Camp d'en Grassot i Gràcia Nova,32,37,Cantabria
+543,7,Women,Horta-Guinardó,el Baix Guinardó,33,15,Cantabria
+544,7,Women,Horta-Guinardó,Can Baró,34,1,Cantabria
+545,7,Women,Horta-Guinardó,el Guinardó,35,30,Cantabria
+546,7,Women,Horta-Guinardó,la Font d'en Fargues,36,6,Cantabria
+547,7,Women,Horta-Guinardó,el Carmel,37,15,Cantabria
+548,7,Women,Horta-Guinardó,la Teixonera,38,5,Cantabria
+549,7,Women,Horta-Guinardó,Sant Genís dels Agudells,39,5,Cantabria
+550,7,Women,Horta-Guinardó,Montbau,40,2,Cantabria
+551,7,Women,Horta-Guinardó,la Vall d'Hebron,41,6,Cantabria
+552,7,Women,Horta-Guinardó,la Clota,42,0,Cantabria
+553,7,Women,Horta-Guinardó,Horta,43,27,Cantabria
+554,8,Women,Nou Barris,Vilapicina i la Torre Llobeta,44,18,Cantabria
+555,8,Women,Nou Barris,Porta,45,13,Cantabria
+556,8,Women,Nou Barris,el Turó de la Peira,46,16,Cantabria
+557,8,Women,Nou Barris,Can Peguera,47,2,Cantabria
+558,8,Women,Nou Barris,la Guineueta,48,18,Cantabria
+559,8,Women,Nou Barris,Canyelles,49,6,Cantabria
+560,8,Women,Nou Barris,les Roquetes,50,6,Cantabria
+561,8,Women,Nou Barris,Verdun,51,4,Cantabria
+562,8,Women,Nou Barris,la Prosperitat,52,13,Cantabria
+563,8,Women,Nou Barris,la Trinitat Nova,53,0,Cantabria
+564,8,Women,Nou Barris,Torre Baró,54,2,Cantabria
+565,8,Women,Nou Barris,Ciutat Meridiana,55,2,Cantabria
+566,8,Women,Nou Barris,Vallbona,56,1,Cantabria
+567,9,Women,Sant Andreu,la Trinitat Vella,57,5,Cantabria
+568,9,Women,Sant Andreu,Baró de Viver,58,1,Cantabria
+569,9,Women,Sant Andreu,el Bon Pastor,59,5,Cantabria
+570,9,Women,Sant Andreu,Sant Andreu,60,34,Cantabria
+571,9,Women,Sant Andreu,la Sagrera,61,27,Cantabria
+572,9,Women,Sant Andreu,el Congrés i els Indians,62,14,Cantabria
+573,9,Women,Sant Andreu,Navas,63,18,Cantabria
+574,10,Women,Sant Martí,el Camp de l'Arpa del Clot,64,28,Cantabria
+575,10,Women,Sant Martí,el Clot,65,14,Cantabria
+576,10,Women,Sant Martí,el Parc i la Llacuna del Poblenou,66,18,Cantabria
+577,10,Women,Sant Martí,la Vila Olímpica del Poblenou,67,15,Cantabria
+578,10,Women,Sant Martí,el Poblenou,68,30,Cantabria
+579,10,Women,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,69,7,Cantabria
+580,10,Women,Sant Martí,el Besòs i el Maresme,70,12,Cantabria
+581,10,Women,Sant Martí,Provençals del Poblenou,71,13,Cantabria
+582,10,Women,Sant Martí,Sant Martí de Provençals,72,27,Cantabria
+583,10,Women,Sant Martí,la Verneda i la Pau,73,25,Cantabria
+584,1,Women,Ciutat Vella,el Raval,1,268,Castile and Leon
+585,1,Women,Ciutat Vella,el Barri Gòtic,2,122,Castile and Leon
+586,1,Women,Ciutat Vella,la Barceloneta,3,113,Castile and Leon
+587,1,Women,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",4,180,Castile and Leon
+588,2,Women,Eixample,el Fort Pienc,5,492,Castile and Leon
+589,2,Women,Eixample,la Sagrada Família,6,752,Castile and Leon
+590,2,Women,Eixample,la Dreta de l'Eixample,7,430,Castile and Leon
+591,2,Women,Eixample,l'Antiga Esquerra de l'Eixample,8,441,Castile and Leon
+592,2,Women,Eixample,la Nova Esquerra de l'Eixample,9,810,Castile and Leon
+593,2,Women,Eixample,Sant Antoni,10,421,Castile and Leon
+594,3,Women,Sants-Montjuïc,el Poble Sec,11,374,Castile and Leon
+595,3,Women,Sants-Montjuïc,la Marina del Prat Vermell,12,2,Castile and Leon
+596,3,Women,Sants-Montjuïc,la Marina de Port,13,500,Castile and Leon
+597,3,Women,Sants-Montjuïc,la Font de la Guatlla,14,191,Castile and Leon
+598,3,Women,Sants-Montjuïc,Hostafrancs,15,229,Castile and Leon
+599,3,Women,Sants-Montjuïc,la Bordeta,16,345,Castile and Leon
+600,3,Women,Sants-Montjuïc,Sants - Badal,17,372,Castile and Leon
+601,3,Women,Sants-Montjuïc,Sants,18,578,Castile and Leon
+602,4,Women,Les Corts,les Corts,19,678,Castile and Leon
+603,4,Women,Les Corts,la Maternitat i Sant Ramon,20,407,Castile and Leon
+604,4,Women,Les Corts,Pedralbes,21,112,Castile and Leon
+605,5,Women,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",22,27,Castile and Leon
+606,5,Women,Sarrià-Sant Gervasi,Sarrià,23,178,Castile and Leon
+607,5,Women,Sarrià-Sant Gervasi,les Tres Torres,24,146,Castile and Leon
+608,5,Women,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,25,207,Castile and Leon
+609,5,Women,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,26,357,Castile and Leon
+610,5,Women,Sarrià-Sant Gervasi,el Putxet i el Farró,27,235,Castile and Leon
+611,6,Women,Gràcia,Vallcarca i els Penitents,28,212,Castile and Leon
+612,6,Women,Gràcia,el Coll,29,139,Castile and Leon
+613,6,Women,Gràcia,la Salut,30,186,Castile and Leon
+614,6,Women,Gràcia,la Vila de Gràcia,31,582,Castile and Leon
+615,6,Women,Gràcia,el Camp d'en Grassot i Gràcia Nova,32,449,Castile and Leon
+616,7,Women,Horta-Guinardó,el Baix Guinardó,33,444,Castile and Leon
+617,7,Women,Horta-Guinardó,Can Baró,34,137,Castile and Leon
+618,7,Women,Horta-Guinardó,el Guinardó,35,542,Castile and Leon
+619,7,Women,Horta-Guinardó,la Font d'en Fargues,36,162,Castile and Leon
+620,7,Women,Horta-Guinardó,el Carmel,37,530,Castile and Leon
+621,7,Women,Horta-Guinardó,la Teixonera,38,223,Castile and Leon
+622,7,Women,Horta-Guinardó,Sant Genís dels Agudells,39,171,Castile and Leon
+623,7,Women,Horta-Guinardó,Montbau,40,108,Castile and Leon
+624,7,Women,Horta-Guinardó,la Vall d'Hebron,41,177,Castile and Leon
+625,7,Women,Horta-Guinardó,la Clota,42,7,Castile and Leon
+626,7,Women,Horta-Guinardó,Horta,43,523,Castile and Leon
+627,8,Women,Nou Barris,Vilapicina i la Torre Llobeta,44,594,Castile and Leon
+628,8,Women,Nou Barris,Porta,45,587,Castile and Leon
+629,8,Women,Nou Barris,el Turó de la Peira,46,260,Castile and Leon
+630,8,Women,Nou Barris,Can Peguera,47,24,Castile and Leon
+631,8,Women,Nou Barris,la Guineueta,48,371,Castile and Leon
+632,8,Women,Nou Barris,Canyelles,49,154,Castile and Leon
+633,8,Women,Nou Barris,les Roquetes,50,164,Castile and Leon
+634,8,Women,Nou Barris,Verdun,51,204,Castile and Leon
+635,8,Women,Nou Barris,la Prosperitat,52,545,Castile and Leon
+636,8,Women,Nou Barris,la Trinitat Nova,53,55,Castile and Leon
+637,8,Women,Nou Barris,Torre Baró,54,21,Castile and Leon
+638,8,Women,Nou Barris,Ciutat Meridiana,55,139,Castile and Leon
+639,8,Women,Nou Barris,Vallbona,56,11,Castile and Leon
+640,9,Women,Sant Andreu,la Trinitat Vella,57,106,Castile and Leon
+641,9,Women,Sant Andreu,Baró de Viver,58,15,Castile and Leon
+642,9,Women,Sant Andreu,el Bon Pastor,59,129,Castile and Leon
+643,9,Women,Sant Andreu,Sant Andreu,60,1113,Castile and Leon
+644,9,Women,Sant Andreu,la Sagrera,61,702,Castile and Leon
+645,10,Women,Sant Martí,el Clot,65,278,Galicia
+646,9,Women,Sant Andreu,el Congrés i els Indians,62,205,Castile and Leon
+647,9,Women,Sant Andreu,Navas,63,386,Castile and Leon
+648,10,Women,Sant Martí,el Camp de l'Arpa del Clot,64,625,Castile and Leon
+649,10,Women,Sant Martí,el Clot,65,521,Castile and Leon
+650,10,Women,Sant Martí,el Parc i la Llacuna del Poblenou,66,269,Castile and Leon
+651,10,Women,Sant Martí,la Vila Olímpica del Poblenou,67,126,Castile and Leon
+652,10,Women,Sant Martí,el Poblenou,68,291,Castile and Leon
+653,10,Women,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,69,143,Castile and Leon
+654,10,Women,Sant Martí,el Besòs i el Maresme,70,268,Castile and Leon
+655,10,Women,Sant Martí,Provençals del Poblenou,71,296,Castile and Leon
+656,10,Women,Sant Martí,Sant Martí de Provençals,72,506,Castile and Leon
+657,10,Women,Sant Martí,la Verneda i la Pau,73,633,Castile and Leon
+658,1,Women,Ciutat Vella,el Raval,1,116,Castilla-La Mancha
+659,1,Women,Ciutat Vella,el Barri Gòtic,2,43,Castilla-La Mancha
+660,1,Women,Ciutat Vella,la Barceloneta,3,35,Castilla-La Mancha
+661,1,Women,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",4,78,Castilla-La Mancha
+662,2,Women,Eixample,el Fort Pienc,5,162,Castilla-La Mancha
+663,2,Women,Eixample,la Sagrada Família,6,280,Castilla-La Mancha
+664,2,Women,Eixample,la Dreta de l'Eixample,7,128,Castilla-La Mancha
+665,2,Women,Eixample,l'Antiga Esquerra de l'Eixample,8,132,Castilla-La Mancha
+666,2,Women,Eixample,la Nova Esquerra de l'Eixample,9,279,Castilla-La Mancha
+667,2,Women,Eixample,Sant Antoni,10,154,Castilla-La Mancha
+668,3,Women,Sants-Montjuïc,el Poble Sec,11,152,Castilla-La Mancha
+669,3,Women,Sants-Montjuïc,la Marina del Prat Vermell,12,2,Castilla-La Mancha
+670,3,Women,Sants-Montjuïc,la Marina de Port,13,236,Castilla-La Mancha
+671,3,Women,Sants-Montjuïc,la Font de la Guatlla,14,71,Castilla-La Mancha
+672,3,Women,Sants-Montjuïc,Hostafrancs,15,90,Castilla-La Mancha
+673,8,Women,Nou Barris,Canyelles,49,5,The Rioja
+674,3,Women,Sants-Montjuïc,la Bordeta,16,146,Castilla-La Mancha
+675,3,Women,Sants-Montjuïc,Sants - Badal,17,177,Castilla-La Mancha
+676,3,Women,Sants-Montjuïc,Sants,18,194,Castilla-La Mancha
+677,4,Women,Les Corts,les Corts,19,244,Castilla-La Mancha
+678,4,Women,Les Corts,la Maternitat i Sant Ramon,20,173,Castilla-La Mancha
+679,4,Women,Les Corts,Pedralbes,21,37,Castilla-La Mancha
+680,5,Women,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",22,22,Castilla-La Mancha
+681,5,Women,Sarrià-Sant Gervasi,Sarrià,23,70,Castilla-La Mancha
+682,5,Women,Sarrià-Sant Gervasi,les Tres Torres,24,44,Castilla-La Mancha
+683,5,Women,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,25,59,Castilla-La Mancha
+684,5,Women,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,26,102,Castilla-La Mancha
+685,5,Women,Sarrià-Sant Gervasi,el Putxet i el Farró,27,89,Castilla-La Mancha
+686,6,Women,Gràcia,Vallcarca i els Penitents,28,102,Castilla-La Mancha
+687,6,Women,Gràcia,el Coll,29,77,Castilla-La Mancha
+688,6,Women,Gràcia,la Salut,30,90,Castilla-La Mancha
+689,6,Women,Gràcia,la Vila de Gràcia,31,203,Castilla-La Mancha
+690,6,Women,Gràcia,el Camp d'en Grassot i Gràcia Nova,32,157,Castilla-La Mancha
+691,7,Women,Horta-Guinardó,el Baix Guinardó,33,163,Castilla-La Mancha
+692,7,Women,Horta-Guinardó,Can Baró,34,59,Castilla-La Mancha
+693,7,Women,Horta-Guinardó,el Guinardó,35,208,Castilla-La Mancha
+694,7,Women,Horta-Guinardó,la Font d'en Fargues,36,62,Castilla-La Mancha
+695,7,Women,Horta-Guinardó,el Carmel,37,432,Castilla-La Mancha
+696,7,Women,Horta-Guinardó,la Teixonera,38,154,Castilla-La Mancha
+697,7,Women,Horta-Guinardó,Sant Genís dels Agudells,39,98,Castilla-La Mancha
+698,7,Women,Horta-Guinardó,Montbau,40,48,Castilla-La Mancha
+699,7,Women,Horta-Guinardó,la Vall d'Hebron,41,65,Castilla-La Mancha
+700,7,Women,Horta-Guinardó,la Clota,42,6,Castilla-La Mancha
+701,7,Women,Horta-Guinardó,Horta,43,267,Castilla-La Mancha
+702,8,Women,Nou Barris,Vilapicina i la Torre Llobeta,44,277,Castilla-La Mancha
+703,8,Women,Nou Barris,Porta,45,276,Castilla-La Mancha
+704,8,Women,Nou Barris,el Turó de la Peira,46,180,Castilla-La Mancha
+705,8,Women,Nou Barris,Can Peguera,47,8,Castilla-La Mancha
+706,8,Women,Nou Barris,la Guineueta,48,202,Castilla-La Mancha
+707,8,Women,Nou Barris,Canyelles,49,101,Castilla-La Mancha
+708,8,Women,Nou Barris,les Roquetes,50,138,Castilla-La Mancha
+709,8,Women,Nou Barris,Verdun,51,130,Castilla-La Mancha
+710,8,Women,Nou Barris,la Prosperitat,52,377,Castilla-La Mancha
+711,8,Women,Nou Barris,la Trinitat Nova,53,46,Castilla-La Mancha
+712,8,Women,Nou Barris,Torre Baró,54,11,Castilla-La Mancha
+713,8,Women,Nou Barris,Ciutat Meridiana,55,91,Castilla-La Mancha
+714,8,Women,Nou Barris,Vallbona,56,6,Castilla-La Mancha
+715,9,Women,Sant Andreu,la Trinitat Vella,57,68,Castilla-La Mancha
+716,9,Women,Sant Andreu,Baró de Viver,58,15,Castilla-La Mancha
+717,9,Women,Sant Andreu,el Bon Pastor,59,90,Castilla-La Mancha
+718,9,Women,Sant Andreu,Sant Andreu,60,493,Castilla-La Mancha
+719,9,Women,Sant Andreu,la Sagrera,61,310,Castilla-La Mancha
+720,9,Women,Sant Andreu,el Congrés i els Indians,62,87,Castilla-La Mancha
+721,9,Women,Sant Andreu,Navas,63,161,Castilla-La Mancha
+722,10,Women,Sant Martí,el Camp de l'Arpa del Clot,64,211,Castilla-La Mancha
+723,10,Women,Sant Martí,el Clot,65,219,Castilla-La Mancha
+724,10,Women,Sant Martí,el Parc i la Llacuna del Poblenou,66,94,Castilla-La Mancha
+725,10,Women,Sant Martí,la Vila Olímpica del Poblenou,67,45,Castilla-La Mancha
+726,10,Women,Sant Martí,el Poblenou,68,182,Castilla-La Mancha
+727,10,Women,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,69,75,Castilla-La Mancha
+728,10,Women,Sant Martí,el Besòs i el Maresme,70,186,Castilla-La Mancha
+729,10,Women,Sant Martí,Provençals del Poblenou,71,164,Castilla-La Mancha
+730,10,Women,Sant Martí,Sant Martí de Provençals,72,297,Castilla-La Mancha
+731,10,Women,Sant Martí,la Verneda i la Pau,73,439,Castilla-La Mancha
+732,1,Women,Ciutat Vella,el Raval,1,204,Valencian Community
+733,1,Women,Ciutat Vella,el Barri Gòtic,2,81,Valencian Community
+734,1,Women,Ciutat Vella,la Barceloneta,3,75,Valencian Community
+735,1,Women,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",4,134,Valencian Community
+736,2,Women,Eixample,el Fort Pienc,5,257,Valencian Community
+737,2,Women,Eixample,la Sagrada Família,6,395,Valencian Community
+738,2,Women,Eixample,la Dreta de l'Eixample,7,318,Valencian Community
+739,2,Women,Eixample,l'Antiga Esquerra de l'Eixample,8,342,Valencian Community
+740,2,Women,Eixample,la Nova Esquerra de l'Eixample,9,506,Valencian Community
+741,2,Women,Eixample,Sant Antoni,10,323,Valencian Community
+742,3,Women,Sants-Montjuïc,el Poble Sec,11,250,Valencian Community
+743,3,Women,Sants-Montjuïc,la Marina del Prat Vermell,12,3,Valencian Community
+744,3,Women,Sants-Montjuïc,la Marina de Port,13,123,Valencian Community
+745,3,Women,Sants-Montjuïc,la Font de la Guatlla,14,86,Valencian Community
+746,3,Women,Sants-Montjuïc,Hostafrancs,15,126,Valencian Community
+747,3,Women,Sants-Montjuïc,la Bordeta,16,151,Valencian Community
+748,3,Women,Sants-Montjuïc,Sants - Badal,17,202,Valencian Community
+749,3,Women,Sants-Montjuïc,Sants,18,328,Valencian Community
+750,4,Women,Les Corts,les Corts,19,361,Valencian Community
+751,4,Women,Les Corts,la Maternitat i Sant Ramon,20,177,Valencian Community
+752,4,Women,Les Corts,Pedralbes,21,69,Valencian Community
+753,5,Women,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",22,25,Valencian Community
+754,5,Women,Sarrià-Sant Gervasi,Sarrià,23,125,Valencian Community
+755,5,Women,Sarrià-Sant Gervasi,les Tres Torres,24,112,Valencian Community
+756,5,Women,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,25,158,Valencian Community
+757,5,Women,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,26,319,Valencian Community
+758,5,Women,Sarrià-Sant Gervasi,el Putxet i el Farró,27,182,Valencian Community
+759,6,Women,Gràcia,Vallcarca i els Penitents,28,104,Valencian Community
+760,6,Women,Gràcia,el Coll,29,45,Valencian Community
+761,6,Women,Gràcia,la Salut,30,116,Valencian Community
+762,6,Women,Gràcia,la Vila de Gràcia,31,435,Valencian Community
+763,6,Women,Gràcia,el Camp d'en Grassot i Gràcia Nova,32,254,Valencian Community
+764,7,Women,Horta-Guinardó,el Baix Guinardó,33,160,Valencian Community
+765,7,Women,Horta-Guinardó,Can Baró,34,65,Valencian Community
+766,7,Women,Horta-Guinardó,el Guinardó,35,220,Valencian Community
+767,7,Women,Horta-Guinardó,la Font d'en Fargues,36,64,Valencian Community
+768,7,Women,Horta-Guinardó,el Carmel,37,152,Valencian Community
+769,7,Women,Horta-Guinardó,la Teixonera,38,60,Valencian Community
+770,7,Women,Horta-Guinardó,Sant Genís dels Agudells,39,46,Valencian Community
+771,7,Women,Horta-Guinardó,Montbau,40,48,Valencian Community
+772,7,Women,Horta-Guinardó,la Vall d'Hebron,41,29,Valencian Community
+773,7,Women,Horta-Guinardó,la Clota,42,2,Valencian Community
+774,7,Women,Horta-Guinardó,Horta,43,166,Valencian Community
+775,8,Women,Nou Barris,Vilapicina i la Torre Llobeta,44,158,Valencian Community
+776,8,Women,Nou Barris,Porta,45,143,Valencian Community
+777,8,Women,Nou Barris,el Turó de la Peira,46,85,Valencian Community
+778,8,Women,Nou Barris,Can Peguera,47,12,Valencian Community
+779,8,Women,Nou Barris,la Guineueta,48,96,Valencian Community
+780,8,Women,Nou Barris,Canyelles,49,31,Valencian Community
+781,8,Women,Nou Barris,les Roquetes,50,67,Valencian Community
+782,8,Women,Nou Barris,Verdun,51,52,Valencian Community
+783,8,Women,Nou Barris,la Prosperitat,52,97,Valencian Community
+784,8,Women,Nou Barris,la Trinitat Nova,53,26,Valencian Community
+785,8,Women,Nou Barris,Torre Baró,54,4,Valencian Community
+786,8,Women,Nou Barris,Ciutat Meridiana,55,25,Valencian Community
+787,8,Women,Nou Barris,Vallbona,56,5,Valencian Community
+788,9,Women,Sant Andreu,la Trinitat Vella,57,29,Valencian Community
+789,9,Women,Sant Andreu,Baró de Viver,58,4,Valencian Community
+790,9,Women,Sant Andreu,el Bon Pastor,59,43,Valencian Community
+791,9,Women,Sant Andreu,Sant Andreu,60,338,Valencian Community
+792,9,Women,Sant Andreu,la Sagrera,61,165,Valencian Community
+793,9,Women,Sant Andreu,el Congrés i els Indians,62,94,Valencian Community
+794,9,Women,Sant Andreu,Navas,63,123,Valencian Community
+795,10,Women,Sant Martí,el Camp de l'Arpa del Clot,64,268,Valencian Community
+796,10,Women,Sant Martí,el Clot,65,175,Valencian Community
+797,10,Women,Sant Martí,el Parc i la Llacuna del Poblenou,66,113,Valencian Community
+798,10,Women,Sant Martí,la Vila Olímpica del Poblenou,67,60,Valencian Community
+799,10,Women,Sant Martí,el Poblenou,68,211,Valencian Community
+800,10,Women,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,69,108,Valencian Community
+801,10,Women,Sant Martí,el Besòs i el Maresme,70,93,Valencian Community
+802,10,Women,Sant Martí,Provençals del Poblenou,71,134,Valencian Community
+803,10,Women,Sant Martí,Sant Martí de Provençals,72,150,Valencian Community
+804,10,Women,Sant Martí,la Verneda i la Pau,73,138,Valencian Community
+805,1,Women,Ciutat Vella,el Raval,1,89,Extremadura
+806,1,Women,Ciutat Vella,el Barri Gòtic,2,32,Extremadura
+807,1,Women,Ciutat Vella,la Barceloneta,3,36,Extremadura
+808,1,Women,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",4,57,Extremadura
+809,2,Women,Eixample,el Fort Pienc,5,113,Extremadura
+810,2,Women,Eixample,la Sagrada Família,6,186,Extremadura
+811,2,Women,Eixample,la Dreta de l'Eixample,7,102,Extremadura
+812,2,Women,Eixample,l'Antiga Esquerra de l'Eixample,8,94,Extremadura
+813,2,Women,Eixample,la Nova Esquerra de l'Eixample,9,166,Extremadura
+814,2,Women,Eixample,Sant Antoni,10,103,Extremadura
+815,3,Women,Sants-Montjuïc,el Poble Sec,11,114,Extremadura
+816,3,Women,Sants-Montjuïc,la Marina del Prat Vermell,12,5,Extremadura
+817,3,Women,Sants-Montjuïc,la Marina de Port,13,218,Extremadura
+818,3,Women,Sants-Montjuïc,la Font de la Guatlla,14,73,Extremadura
+819,3,Women,Sants-Montjuïc,Hostafrancs,15,56,Extremadura
+820,3,Women,Sants-Montjuïc,la Bordeta,16,106,Extremadura
+821,3,Women,Sants-Montjuïc,Sants - Badal,17,152,Extremadura
+822,3,Women,Sants-Montjuïc,Sants,18,138,Extremadura
+823,4,Women,Les Corts,les Corts,19,149,Extremadura
+824,4,Women,Les Corts,la Maternitat i Sant Ramon,20,127,Extremadura
+825,4,Women,Les Corts,Pedralbes,21,21,Extremadura
+826,5,Women,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",22,5,Extremadura
+827,5,Women,Sarrià-Sant Gervasi,Sarrià,23,30,Extremadura
+828,5,Women,Sarrià-Sant Gervasi,les Tres Torres,24,26,Extremadura
+829,5,Women,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,25,34,Extremadura
+830,5,Women,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,26,78,Extremadura
+831,5,Women,Sarrià-Sant Gervasi,el Putxet i el Farró,27,54,Extremadura
+832,6,Women,Gràcia,Vallcarca i els Penitents,28,50,Extremadura
+833,6,Women,Gràcia,el Coll,29,28,Extremadura
+834,6,Women,Gràcia,la Salut,30,36,Extremadura
+835,6,Women,Gràcia,la Vila de Gràcia,31,116,Extremadura
+836,6,Women,Gràcia,el Camp d'en Grassot i Gràcia Nova,32,109,Extremadura
+837,7,Women,Horta-Guinardó,el Baix Guinardó,33,107,Extremadura
+838,7,Women,Horta-Guinardó,Can Baró,34,48,Extremadura
+839,7,Women,Horta-Guinardó,el Guinardó,35,169,Extremadura
+840,7,Women,Horta-Guinardó,la Font d'en Fargues,36,54,Extremadura
+841,7,Women,Horta-Guinardó,el Carmel,37,416,Extremadura
+842,7,Women,Horta-Guinardó,la Teixonera,38,164,Extremadura
+843,7,Women,Horta-Guinardó,Sant Genís dels Agudells,39,41,Extremadura
+844,7,Women,Horta-Guinardó,Montbau,40,16,Extremadura
+845,7,Women,Horta-Guinardó,la Vall d'Hebron,41,46,Extremadura
+846,7,Women,Horta-Guinardó,la Clota,42,2,Extremadura
+847,7,Women,Horta-Guinardó,Horta,43,213,Extremadura
+848,8,Women,Nou Barris,Vilapicina i la Torre Llobeta,44,184,Extremadura
+849,8,Women,Nou Barris,Porta,45,154,Extremadura
+850,8,Women,Nou Barris,el Turó de la Peira,46,87,Extremadura
+851,8,Women,Nou Barris,Can Peguera,47,9,Extremadura
+852,8,Women,Nou Barris,la Guineueta,48,138,Extremadura
+853,8,Women,Nou Barris,Canyelles,49,98,Extremadura
+854,8,Women,Nou Barris,les Roquetes,50,138,Extremadura
+855,8,Women,Nou Barris,Verdun,51,117,Extremadura
+856,8,Women,Nou Barris,la Prosperitat,52,317,Extremadura
+857,8,Women,Nou Barris,la Trinitat Nova,53,37,Extremadura
+858,8,Women,Nou Barris,Torre Baró,54,24,Extremadura
+859,8,Women,Nou Barris,Ciutat Meridiana,55,144,Extremadura
+860,8,Women,Nou Barris,Vallbona,56,20,Extremadura
+861,9,Women,Sant Andreu,la Trinitat Vella,57,107,Extremadura
+862,9,Women,Sant Andreu,Baró de Viver,58,11,Extremadura
+863,9,Women,Sant Andreu,el Bon Pastor,59,87,Extremadura
+864,9,Women,Sant Andreu,Sant Andreu,60,455,Extremadura
+865,9,Women,Sant Andreu,la Sagrera,61,204,Extremadura
+866,9,Women,Sant Andreu,el Congrés i els Indians,62,72,Extremadura
+867,9,Women,Sant Andreu,Navas,63,100,Extremadura
+868,10,Women,Sant Martí,el Camp de l'Arpa del Clot,64,171,Extremadura
+869,10,Women,Sant Martí,el Clot,65,148,Extremadura
+870,10,Women,Sant Martí,el Parc i la Llacuna del Poblenou,66,60,Extremadura
+871,10,Women,Sant Martí,la Vila Olímpica del Poblenou,67,28,Extremadura
+872,10,Women,Sant Martí,el Poblenou,68,124,Extremadura
+873,10,Women,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,69,50,Extremadura
+874,10,Women,Sant Martí,el Besòs i el Maresme,70,160,Extremadura
+875,10,Women,Sant Martí,Provençals del Poblenou,71,123,Extremadura
+876,10,Women,Sant Martí,Sant Martí de Provençals,72,253,Extremadura
+877,2,Women,Eixample,Sant Antoni,10,13,Ceuta
+878,10,Women,Sant Martí,la Verneda i la Pau,73,314,Extremadura
+879,1,Women,Ciutat Vella,el Raval,1,340,Galicia
+880,1,Women,Ciutat Vella,el Barri Gòtic,2,131,Galicia
+881,1,Women,Ciutat Vella,la Barceloneta,3,113,Galicia
+882,1,Women,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",4,244,Galicia
+883,2,Women,Eixample,el Fort Pienc,5,239,Galicia
+884,2,Women,Eixample,la Sagrada Família,6,439,Galicia
+885,2,Women,Eixample,la Dreta de l'Eixample,7,278,Galicia
+886,2,Women,Eixample,l'Antiga Esquerra de l'Eixample,8,334,Galicia
+887,2,Women,Eixample,la Nova Esquerra de l'Eixample,9,446,Galicia
+888,2,Women,Eixample,Sant Antoni,10,340,Galicia
+889,3,Women,Sants-Montjuïc,el Poble Sec,11,448,Galicia
+890,3,Women,Sants-Montjuïc,la Marina del Prat Vermell,12,5,Galicia
+891,3,Women,Sants-Montjuïc,la Marina de Port,13,372,Galicia
+892,3,Women,Sants-Montjuïc,la Font de la Guatlla,14,173,Galicia
+893,3,Women,Sants-Montjuïc,Hostafrancs,15,186,Galicia
+894,3,Women,Sants-Montjuïc,la Bordeta,16,267,Galicia
+895,3,Women,Sants-Montjuïc,Sants - Badal,17,293,Galicia
+896,3,Women,Sants-Montjuïc,Sants,18,377,Galicia
+897,4,Women,Les Corts,les Corts,19,380,Galicia
+898,4,Women,Les Corts,la Maternitat i Sant Ramon,20,246,Galicia
+899,4,Women,Les Corts,Pedralbes,21,57,Galicia
+900,5,Women,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",22,27,Galicia
+901,5,Women,Sarrià-Sant Gervasi,Sarrià,23,100,Galicia
+902,5,Women,Sarrià-Sant Gervasi,les Tres Torres,24,64,Galicia
+903,5,Women,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,25,125,Galicia
+904,5,Women,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,26,234,Galicia
+905,5,Women,Sarrià-Sant Gervasi,el Putxet i el Farró,27,166,Galicia
+906,6,Women,Gràcia,Vallcarca i els Penitents,28,163,Galicia
+907,6,Women,Gràcia,el Coll,29,97,Galicia
+908,6,Women,Gràcia,la Salut,30,111,Galicia
+909,6,Women,Gràcia,la Vila de Gràcia,31,431,Galicia
+910,6,Women,Gràcia,el Camp d'en Grassot i Gràcia Nova,32,240,Galicia
+911,7,Women,Horta-Guinardó,el Baix Guinardó,33,253,Galicia
+912,7,Women,Horta-Guinardó,Can Baró,34,100,Galicia
+913,7,Women,Horta-Guinardó,el Guinardó,35,374,Galicia
+914,7,Women,Horta-Guinardó,la Font d'en Fargues,36,82,Galicia
+915,7,Women,Horta-Guinardó,el Carmel,37,475,Galicia
+916,7,Women,Horta-Guinardó,la Teixonera,38,146,Galicia
+917,7,Women,Horta-Guinardó,Sant Genís dels Agudells,39,90,Galicia
+918,7,Women,Horta-Guinardó,Montbau,40,47,Galicia
+919,7,Women,Horta-Guinardó,la Vall d'Hebron,41,91,Galicia
+920,7,Women,Horta-Guinardó,la Clota,42,2,Galicia
+921,7,Women,Horta-Guinardó,Horta,43,318,Galicia
+922,8,Women,Nou Barris,Vilapicina i la Torre Llobeta,44,304,Galicia
+923,8,Women,Nou Barris,Porta,45,396,Galicia
+924,8,Women,Nou Barris,el Turó de la Peira,46,154,Galicia
+925,8,Women,Nou Barris,Can Peguera,47,5,Galicia
+926,8,Women,Nou Barris,la Guineueta,48,209,Galicia
+927,8,Women,Nou Barris,Canyelles,49,116,Galicia
+928,8,Women,Nou Barris,les Roquetes,50,159,Galicia
+929,8,Women,Nou Barris,Verdun,51,189,Galicia
+930,8,Women,Nou Barris,la Prosperitat,52,453,Galicia
+931,8,Women,Nou Barris,la Trinitat Nova,53,58,Galicia
+932,8,Women,Nou Barris,Torre Baró,54,20,Galicia
+933,8,Women,Nou Barris,Ciutat Meridiana,55,93,Galicia
+934,8,Women,Nou Barris,Vallbona,56,22,Galicia
+935,9,Women,Sant Andreu,la Trinitat Vella,57,84,Galicia
+936,9,Women,Sant Andreu,Baró de Viver,58,5,Galicia
+937,9,Women,Sant Andreu,el Bon Pastor,59,80,Galicia
+938,9,Women,Sant Andreu,Sant Andreu,60,588,Galicia
+939,9,Women,Sant Andreu,la Sagrera,61,380,Galicia
+940,9,Women,Sant Andreu,el Congrés i els Indians,62,105,Galicia
+941,9,Women,Sant Andreu,Navas,63,198,Galicia
+942,10,Women,Sant Martí,el Camp de l'Arpa del Clot,64,383,Galicia
+943,10,Women,Sant Martí,el Parc i la Llacuna del Poblenou,66,168,Galicia
+944,10,Women,Sant Martí,la Vila Olímpica del Poblenou,67,62,Galicia
+945,10,Women,Sant Martí,el Poblenou,68,217,Galicia
+946,10,Women,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,69,110,Galicia
+947,10,Women,Sant Martí,el Besòs i el Maresme,70,228,Galicia
+948,10,Women,Sant Martí,Provençals del Poblenou,71,226,Galicia
+949,10,Women,Sant Martí,Sant Martí de Provençals,72,270,Galicia
+950,10,Women,Sant Martí,la Verneda i la Pau,73,368,Galicia
+951,1,Women,Ciutat Vella,el Raval,1,141,Community of Madrid
+952,1,Women,Ciutat Vella,el Barri Gòtic,2,66,Community of Madrid
+953,1,Women,Ciutat Vella,la Barceloneta,3,44,Community of Madrid
+954,1,Women,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",4,94,Community of Madrid
+955,2,Women,Eixample,el Fort Pienc,5,195,Community of Madrid
+956,2,Women,Eixample,la Sagrada Família,6,264,Community of Madrid
+957,2,Women,Eixample,la Dreta de l'Eixample,7,264,Community of Madrid
+958,2,Women,Eixample,l'Antiga Esquerra de l'Eixample,8,247,Community of Madrid
+959,2,Women,Eixample,la Nova Esquerra de l'Eixample,9,349,Community of Madrid
+960,2,Women,Eixample,Sant Antoni,10,163,Community of Madrid
+961,3,Women,Sants-Montjuïc,el Poble Sec,11,153,Community of Madrid
+962,3,Women,Sants-Montjuïc,la Marina del Prat Vermell,12,4,Community of Madrid
+963,3,Women,Sants-Montjuïc,la Marina de Port,13,116,Community of Madrid
+964,3,Women,Sants-Montjuïc,la Font de la Guatlla,14,49,Community of Madrid
+965,3,Women,Sants-Montjuïc,Hostafrancs,15,53,Community of Madrid
+966,3,Women,Sants-Montjuïc,la Bordeta,16,62,Community of Madrid
+967,3,Women,Sants-Montjuïc,Sants - Badal,17,113,Community of Madrid
+968,3,Women,Sants-Montjuïc,Sants,18,194,Community of Madrid
+969,4,Women,Les Corts,les Corts,19,335,Community of Madrid
+970,4,Women,Les Corts,la Maternitat i Sant Ramon,20,137,Community of Madrid
+971,4,Women,Les Corts,Pedralbes,21,121,Community of Madrid
+972,5,Women,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",22,19,Community of Madrid
+973,5,Women,Sarrià-Sant Gervasi,Sarrià,23,184,Community of Madrid
+974,5,Women,Sarrià-Sant Gervasi,les Tres Torres,24,134,Community of Madrid
+975,5,Women,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,25,201,Community of Madrid
+976,5,Women,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,26,381,Community of Madrid
+977,5,Women,Sarrià-Sant Gervasi,el Putxet i el Farró,27,201,Community of Madrid
+978,6,Women,Gràcia,Vallcarca i els Penitents,28,88,Community of Madrid
+979,6,Women,Gràcia,el Coll,29,43,Community of Madrid
+980,6,Women,Gràcia,la Salut,30,80,Community of Madrid
+981,6,Women,Gràcia,la Vila de Gràcia,31,309,Community of Madrid
+982,6,Women,Gràcia,el Camp d'en Grassot i Gràcia Nova,32,188,Community of Madrid
+983,7,Women,Horta-Guinardó,el Baix Guinardó,33,121,Community of Madrid
+984,7,Women,Horta-Guinardó,Can Baró,34,44,Community of Madrid
+985,7,Women,Horta-Guinardó,el Guinardó,35,145,Community of Madrid
+986,7,Women,Horta-Guinardó,la Font d'en Fargues,36,33,Community of Madrid
+987,7,Women,Horta-Guinardó,el Carmel,37,73,Community of Madrid
+988,7,Women,Horta-Guinardó,la Teixonera,38,31,Community of Madrid
+989,7,Women,Horta-Guinardó,Sant Genís dels Agudells,39,36,Community of Madrid
+990,7,Women,Horta-Guinardó,Montbau,40,16,Community of Madrid
+991,7,Women,Horta-Guinardó,la Vall d'Hebron,41,29,Community of Madrid
+992,7,Women,Horta-Guinardó,la Clota,42,2,Community of Madrid
+993,7,Women,Horta-Guinardó,Horta,43,79,Community of Madrid
+994,8,Women,Nou Barris,Vilapicina i la Torre Llobeta,44,111,Community of Madrid
+995,8,Women,Nou Barris,Porta,45,74,Community of Madrid
+996,8,Women,Nou Barris,el Turó de la Peira,46,39,Community of Madrid
+997,8,Women,Nou Barris,Can Peguera,47,13,Community of Madrid
+998,8,Women,Nou Barris,la Guineueta,48,60,Community of Madrid
+999,8,Women,Nou Barris,Canyelles,49,22,Community of Madrid
+1000,8,Women,Nou Barris,les Roquetes,50,36,Community of Madrid
+1001,8,Women,Nou Barris,Verdun,51,27,Community of Madrid
+1002,8,Women,Nou Barris,la Prosperitat,52,70,Community of Madrid
+1003,8,Women,Nou Barris,la Trinitat Nova,53,25,Community of Madrid
+1004,8,Women,Nou Barris,Torre Baró,54,4,Community of Madrid
+1005,8,Women,Nou Barris,Ciutat Meridiana,55,25,Community of Madrid
+1006,8,Women,Nou Barris,Vallbona,56,8,Community of Madrid
+1007,9,Women,Sant Andreu,la Trinitat Vella,57,19,Community of Madrid
+1008,9,Women,Sant Andreu,Baró de Viver,58,5,Community of Madrid
+1009,9,Women,Sant Andreu,el Bon Pastor,59,35,Community of Madrid
+1010,9,Women,Sant Andreu,Sant Andreu,60,187,Community of Madrid
+1011,9,Women,Sant Andreu,la Sagrera,61,107,Community of Madrid
+1012,9,Women,Sant Andreu,el Congrés i els Indians,62,49,Community of Madrid
+1013,9,Women,Sant Andreu,Navas,63,83,Community of Madrid
+1014,10,Women,Sant Martí,el Camp de l'Arpa del Clot,64,148,Community of Madrid
+1015,10,Women,Sant Martí,el Clot,65,109,Community of Madrid
+1016,10,Women,Sant Martí,el Parc i la Llacuna del Poblenou,66,90,Community of Madrid
+1017,10,Women,Sant Martí,la Vila Olímpica del Poblenou,67,76,Community of Madrid
+1018,10,Women,Sant Martí,el Poblenou,68,162,Community of Madrid
+1019,10,Women,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,69,70,Community of Madrid
+1020,10,Women,Sant Martí,el Besòs i el Maresme,70,74,Community of Madrid
+1021,10,Women,Sant Martí,Provençals del Poblenou,71,107,Community of Madrid
+1022,10,Women,Sant Martí,Sant Martí de Provençals,72,112,Community of Madrid
+1023,10,Women,Sant Martí,la Verneda i la Pau,73,112,Community of Madrid
+1024,1,Women,Ciutat Vella,el Raval,1,56,Region of Murcia
+1025,1,Women,Ciutat Vella,el Barri Gòtic,2,19,Region of Murcia
+1026,1,Women,Ciutat Vella,la Barceloneta,3,26,Region of Murcia
+1027,1,Women,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",4,42,Region of Murcia
+1028,2,Women,Eixample,el Fort Pienc,5,61,Region of Murcia
+1029,2,Women,Eixample,la Sagrada Família,6,125,Region of Murcia
+1030,2,Women,Eixample,la Dreta de l'Eixample,7,72,Region of Murcia
+1031,2,Women,Eixample,l'Antiga Esquerra de l'Eixample,8,68,Region of Murcia
+1032,2,Women,Eixample,la Nova Esquerra de l'Eixample,9,135,Region of Murcia
+1033,2,Women,Eixample,Sant Antoni,10,88,Region of Murcia
+1034,3,Women,Sants-Montjuïc,el Poble Sec,11,61,Region of Murcia
+1035,3,Women,Sants-Montjuïc,la Marina del Prat Vermell,12,5,Region of Murcia
+1036,3,Women,Sants-Montjuïc,la Marina de Port,13,98,Region of Murcia
+1037,3,Women,Sants-Montjuïc,la Font de la Guatlla,14,22,Region of Murcia
+1038,3,Women,Sants-Montjuïc,Hostafrancs,15,41,Region of Murcia
+1039,3,Women,Sants-Montjuïc,la Bordeta,16,55,Region of Murcia
+1040,3,Women,Sants-Montjuïc,Sants - Badal,17,61,Region of Murcia
+1041,3,Women,Sants-Montjuïc,Sants,18,96,Region of Murcia
+1042,4,Women,Les Corts,les Corts,19,114,Region of Murcia
+1043,4,Women,Les Corts,la Maternitat i Sant Ramon,20,79,Region of Murcia
+1044,4,Women,Les Corts,Pedralbes,21,25,Region of Murcia
+1045,5,Women,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",22,6,Region of Murcia
+1046,5,Women,Sarrià-Sant Gervasi,Sarrià,23,34,Region of Murcia
+1047,5,Women,Sarrià-Sant Gervasi,les Tres Torres,24,11,Region of Murcia
+1048,5,Women,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,25,37,Region of Murcia
+1049,5,Women,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,26,66,Region of Murcia
+1050,5,Women,Sarrià-Sant Gervasi,el Putxet i el Farró,27,44,Region of Murcia
+1051,6,Women,Gràcia,Vallcarca i els Penitents,28,30,Region of Murcia
+1052,6,Women,Gràcia,el Coll,29,20,Region of Murcia
+1053,6,Women,Gràcia,la Salut,30,32,Region of Murcia
+1054,6,Women,Gràcia,la Vila de Gràcia,31,83,Region of Murcia
+1055,6,Women,Gràcia,el Camp d'en Grassot i Gràcia Nova,32,62,Region of Murcia
+1056,7,Women,Horta-Guinardó,el Baix Guinardó,33,77,Region of Murcia
+1057,7,Women,Horta-Guinardó,Can Baró,34,24,Region of Murcia
+1058,7,Women,Horta-Guinardó,el Guinardó,35,68,Region of Murcia
+1059,7,Women,Horta-Guinardó,la Font d'en Fargues,36,18,Region of Murcia
+1060,7,Women,Horta-Guinardó,el Carmel,37,77,Region of Murcia
+1061,7,Women,Horta-Guinardó,la Teixonera,38,30,Region of Murcia
+1062,7,Women,Horta-Guinardó,Sant Genís dels Agudells,39,15,Region of Murcia
+1063,7,Women,Horta-Guinardó,Montbau,40,18,Region of Murcia
+1064,7,Women,Horta-Guinardó,la Vall d'Hebron,41,14,Region of Murcia
+1065,7,Women,Horta-Guinardó,la Clota,42,2,Region of Murcia
+1066,7,Women,Horta-Guinardó,Horta,43,81,Region of Murcia
+1067,8,Women,Nou Barris,Vilapicina i la Torre Llobeta,44,73,Region of Murcia
+1068,8,Women,Nou Barris,Porta,45,85,Region of Murcia
+1069,8,Women,Nou Barris,el Turó de la Peira,46,52,Region of Murcia
+1070,8,Women,Nou Barris,Can Peguera,47,7,Region of Murcia
+1071,8,Women,Nou Barris,la Guineueta,48,52,Region of Murcia
+1072,8,Women,Nou Barris,Canyelles,49,27,Region of Murcia
+1073,8,Women,Nou Barris,les Roquetes,50,35,Region of Murcia
+1074,8,Women,Nou Barris,Verdun,51,42,Region of Murcia
+1075,8,Women,Nou Barris,la Prosperitat,52,104,Region of Murcia
+1076,8,Women,Nou Barris,la Trinitat Nova,53,31,Region of Murcia
+1077,8,Women,Nou Barris,Torre Baró,54,5,Region of Murcia
+1078,8,Women,Nou Barris,Ciutat Meridiana,55,23,Region of Murcia
+1079,8,Women,Nou Barris,Vallbona,56,6,Region of Murcia
+1080,9,Women,Sant Andreu,la Trinitat Vella,57,26,Region of Murcia
+1081,9,Women,Sant Andreu,Baró de Viver,58,12,Region of Murcia
+1082,9,Women,Sant Andreu,el Bon Pastor,59,44,Region of Murcia
+1083,9,Women,Sant Andreu,Sant Andreu,60,173,Region of Murcia
+1084,9,Women,Sant Andreu,la Sagrera,61,96,Region of Murcia
+1085,9,Women,Sant Andreu,el Congrés i els Indians,62,46,Region of Murcia
+1086,9,Women,Sant Andreu,Navas,63,73,Region of Murcia
+1087,10,Women,Sant Martí,el Camp de l'Arpa del Clot,64,86,Region of Murcia
+1088,10,Women,Sant Martí,el Clot,65,69,Region of Murcia
+1089,10,Women,Sant Martí,el Parc i la Llacuna del Poblenou,66,36,Region of Murcia
+1090,10,Women,Sant Martí,la Vila Olímpica del Poblenou,67,17,Region of Murcia
+1091,10,Women,Sant Martí,el Poblenou,68,75,Region of Murcia
+1092,10,Women,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,69,21,Region of Murcia
+1093,10,Women,Sant Martí,el Besòs i el Maresme,70,90,Region of Murcia
+1094,10,Women,Sant Martí,Provençals del Poblenou,71,49,Region of Murcia
+1095,10,Women,Sant Martí,Sant Martí de Provençals,72,106,Region of Murcia
+1096,10,Women,Sant Martí,la Verneda i la Pau,73,106,Region of Murcia
+1097,1,Women,Ciutat Vella,el Raval,1,32,Foral Community of Navarre
+1098,1,Women,Ciutat Vella,el Barri Gòtic,2,18,Foral Community of Navarre
+1099,1,Women,Ciutat Vella,la Barceloneta,3,15,Foral Community of Navarre
+1100,1,Women,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",4,31,Foral Community of Navarre
+1101,2,Women,Eixample,el Fort Pienc,5,45,Foral Community of Navarre
+1102,2,Women,Eixample,la Sagrada Família,6,75,Foral Community of Navarre
+1103,2,Women,Eixample,la Dreta de l'Eixample,7,69,Foral Community of Navarre
+1104,2,Women,Eixample,l'Antiga Esquerra de l'Eixample,8,83,Foral Community of Navarre
+1105,2,Women,Eixample,la Nova Esquerra de l'Eixample,9,87,Foral Community of Navarre
+1106,2,Women,Eixample,Sant Antoni,10,53,Foral Community of Navarre
+1107,3,Women,Sants-Montjuïc,el Poble Sec,11,36,Foral Community of Navarre
+1108,3,Women,Sants-Montjuïc,la Marina del Prat Vermell,12,1,Foral Community of Navarre
+1109,3,Women,Sants-Montjuïc,la Marina de Port,13,18,Foral Community of Navarre
+1110,3,Women,Sants-Montjuïc,la Font de la Guatlla,14,17,Foral Community of Navarre
+1111,3,Women,Sants-Montjuïc,Hostafrancs,15,19,Foral Community of Navarre
+1112,3,Women,Sants-Montjuïc,la Bordeta,16,25,Foral Community of Navarre
+1113,7,Women,Horta-Guinardó,Horta,43,9,Ceuta
+1114,3,Women,Sants-Montjuïc,Sants - Badal,17,20,Foral Community of Navarre
+1115,3,Women,Sants-Montjuïc,Sants,18,71,Foral Community of Navarre
+1116,4,Women,Les Corts,les Corts,19,75,Foral Community of Navarre
+1117,4,Women,Les Corts,la Maternitat i Sant Ramon,20,33,Foral Community of Navarre
+1118,4,Women,Les Corts,Pedralbes,21,18,Foral Community of Navarre
+1119,5,Women,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",22,3,Foral Community of Navarre
+1120,5,Women,Sarrià-Sant Gervasi,Sarrià,23,52,Foral Community of Navarre
+1121,5,Women,Sarrià-Sant Gervasi,les Tres Torres,24,36,Foral Community of Navarre
+1122,5,Women,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,25,33,Foral Community of Navarre
+1123,5,Women,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,26,97,Foral Community of Navarre
+1124,5,Women,Sarrià-Sant Gervasi,el Putxet i el Farró,27,50,Foral Community of Navarre
+1125,6,Women,Gràcia,Vallcarca i els Penitents,28,25,Foral Community of Navarre
+1126,6,Women,Gràcia,el Coll,29,8,Foral Community of Navarre
+1127,6,Women,Gràcia,la Salut,30,24,Foral Community of Navarre
+1128,6,Women,Gràcia,la Vila de Gràcia,31,95,Foral Community of Navarre
+1129,6,Women,Gràcia,el Camp d'en Grassot i Gràcia Nova,32,46,Foral Community of Navarre
+1130,7,Women,Horta-Guinardó,el Baix Guinardó,33,35,Foral Community of Navarre
+1131,7,Women,Horta-Guinardó,Can Baró,34,9,Foral Community of Navarre
+1132,7,Women,Horta-Guinardó,el Guinardó,35,41,Foral Community of Navarre
+1133,7,Women,Horta-Guinardó,la Font d'en Fargues,36,7,Foral Community of Navarre
+1134,7,Women,Horta-Guinardó,el Carmel,37,18,Foral Community of Navarre
+1135,7,Women,Horta-Guinardó,la Teixonera,38,7,Foral Community of Navarre
+1136,7,Women,Horta-Guinardó,Sant Genís dels Agudells,39,11,Foral Community of Navarre
+1137,7,Women,Horta-Guinardó,Montbau,40,27,Foral Community of Navarre
+1138,7,Women,Horta-Guinardó,la Vall d'Hebron,41,11,Foral Community of Navarre
+1139,9,Women,Sant Andreu,la Trinitat Vella,57,12,Basque Country
+1140,7,Women,Horta-Guinardó,la Clota,42,1,Foral Community of Navarre
+1141,7,Women,Horta-Guinardó,Horta,43,43,Foral Community of Navarre
+1142,8,Women,Nou Barris,Vilapicina i la Torre Llobeta,44,36,Foral Community of Navarre
+1143,8,Women,Nou Barris,Porta,45,28,Foral Community of Navarre
+1144,8,Women,Nou Barris,el Turó de la Peira,46,14,Foral Community of Navarre
+1145,8,Women,Nou Barris,Can Peguera,47,1,Foral Community of Navarre
+1146,8,Women,Nou Barris,la Guineueta,48,27,Foral Community of Navarre
+1147,8,Women,Nou Barris,Canyelles,49,6,Foral Community of Navarre
+1148,8,Women,Nou Barris,les Roquetes,50,6,Foral Community of Navarre
+1149,8,Women,Nou Barris,Verdun,51,12,Foral Community of Navarre
+1150,8,Women,Nou Barris,la Prosperitat,52,19,Foral Community of Navarre
+1151,8,Women,Nou Barris,la Trinitat Nova,53,5,Foral Community of Navarre
+1152,8,Women,Nou Barris,Torre Baró,54,0,Foral Community of Navarre
+1153,8,Women,Nou Barris,Ciutat Meridiana,55,6,Foral Community of Navarre
+1154,8,Women,Nou Barris,Vallbona,56,0,Foral Community of Navarre
+1155,9,Women,Sant Andreu,la Trinitat Vella,57,2,Foral Community of Navarre
+1156,9,Women,Sant Andreu,Baró de Viver,58,2,Foral Community of Navarre
+1157,9,Women,Sant Andreu,el Bon Pastor,59,8,Foral Community of Navarre
+1158,9,Women,Sant Andreu,Sant Andreu,60,60,Foral Community of Navarre
+1159,9,Women,Sant Andreu,la Sagrera,61,33,Foral Community of Navarre
+1160,9,Women,Sant Andreu,el Congrés i els Indians,62,18,Foral Community of Navarre
+1161,9,Women,Sant Andreu,Navas,63,29,Foral Community of Navarre
+1162,10,Women,Sant Martí,el Camp de l'Arpa del Clot,64,58,Foral Community of Navarre
+1163,10,Women,Sant Martí,el Clot,65,21,Foral Community of Navarre
+1164,10,Women,Sant Martí,el Parc i la Llacuna del Poblenou,66,25,Foral Community of Navarre
+1165,10,Women,Sant Martí,la Vila Olímpica del Poblenou,67,15,Foral Community of Navarre
+1166,10,Women,Sant Martí,el Poblenou,68,41,Foral Community of Navarre
+1167,9,Women,Sant Andreu,Baró de Viver,58,0,Basque Country
+1168,10,Women,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,69,13,Foral Community of Navarre
+1169,10,Women,Sant Martí,el Besòs i el Maresme,70,15,Foral Community of Navarre
+1170,10,Women,Sant Martí,Provençals del Poblenou,71,19,Foral Community of Navarre
+1171,10,Women,Sant Martí,Sant Martí de Provençals,72,31,Foral Community of Navarre
+1172,10,Women,Sant Martí,la Verneda i la Pau,73,30,Foral Community of Navarre
+1173,1,Women,Ciutat Vella,el Raval,1,94,Basque Country
+1174,1,Women,Ciutat Vella,el Barri Gòtic,2,38,Basque Country
+1175,1,Women,Ciutat Vella,la Barceloneta,3,21,Basque Country
+1176,1,Women,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",4,72,Basque Country
+1177,2,Women,Eixample,el Fort Pienc,5,106,Basque Country
+1178,2,Women,Eixample,la Sagrada Família,6,126,Basque Country
+1179,2,Women,Eixample,la Dreta de l'Eixample,7,159,Basque Country
+1180,2,Women,Eixample,l'Antiga Esquerra de l'Eixample,8,155,Basque Country
+1181,2,Women,Eixample,la Nova Esquerra de l'Eixample,9,190,Basque Country
+1182,2,Women,Eixample,Sant Antoni,10,132,Basque Country
+1183,3,Women,Sants-Montjuïc,el Poble Sec,11,117,Basque Country
+1184,3,Women,Sants-Montjuïc,la Marina del Prat Vermell,12,1,Basque Country
+1185,3,Women,Sants-Montjuïc,la Marina de Port,13,36,Basque Country
+1186,3,Women,Sants-Montjuïc,la Font de la Guatlla,14,15,Basque Country
+1187,3,Women,Sants-Montjuïc,Hostafrancs,15,54,Basque Country
+1188,3,Women,Sants-Montjuïc,la Bordeta,16,40,Basque Country
+1189,3,Women,Sants-Montjuïc,Sants - Badal,17,54,Basque Country
+1190,3,Women,Sants-Montjuïc,Sants,18,103,Basque Country
+1191,4,Women,Les Corts,les Corts,19,160,Basque Country
+1192,4,Women,Les Corts,la Maternitat i Sant Ramon,20,91,Basque Country
+1193,4,Women,Les Corts,Pedralbes,21,67,Basque Country
+1194,5,Women,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",22,8,Basque Country
+1195,5,Women,Sarrià-Sant Gervasi,Sarrià,23,92,Basque Country
+1196,5,Women,Sarrià-Sant Gervasi,les Tres Torres,24,93,Basque Country
+1197,8,Women,Nou Barris,la Guineueta,48,21,The Rioja
+1198,5,Women,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,25,110,Basque Country
+1199,5,Women,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,26,210,Basque Country
+1200,5,Women,Sarrià-Sant Gervasi,el Putxet i el Farró,27,100,Basque Country
+1201,6,Women,Gràcia,Vallcarca i els Penitents,28,43,Basque Country
+1202,6,Women,Gràcia,el Coll,29,23,Basque Country
+1203,6,Women,Gràcia,la Salut,30,45,Basque Country
+1204,6,Women,Gràcia,la Vila de Gràcia,31,190,Basque Country
+1205,6,Women,Gràcia,el Camp d'en Grassot i Gràcia Nova,32,90,Basque Country
+1206,7,Women,Horta-Guinardó,el Baix Guinardó,33,59,Basque Country
+1207,7,Women,Horta-Guinardó,Can Baró,34,22,Basque Country
+1208,7,Women,Horta-Guinardó,el Guinardó,35,75,Basque Country
+1209,7,Women,Horta-Guinardó,la Font d'en Fargues,36,15,Basque Country
+1210,7,Women,Horta-Guinardó,el Carmel,37,36,Basque Country
+1211,7,Women,Horta-Guinardó,la Teixonera,38,14,Basque Country
+1212,7,Women,Horta-Guinardó,Sant Genís dels Agudells,39,5,Basque Country
+1213,7,Women,Horta-Guinardó,Montbau,40,10,Basque Country
+1214,7,Women,Horta-Guinardó,la Vall d'Hebron,41,16,Basque Country
+1215,7,Women,Horta-Guinardó,la Clota,42,0,Basque Country
+1216,7,Women,Horta-Guinardó,Horta,43,34,Basque Country
+1217,8,Women,Nou Barris,Vilapicina i la Torre Llobeta,44,42,Basque Country
+1218,8,Women,Nou Barris,Porta,45,27,Basque Country
+1219,8,Women,Nou Barris,el Turó de la Peira,46,15,Basque Country
+1220,8,Women,Nou Barris,Can Peguera,47,2,Basque Country
+1221,8,Women,Nou Barris,la Guineueta,48,23,Basque Country
+1222,8,Women,Nou Barris,Canyelles,49,7,Basque Country
+1223,8,Women,Nou Barris,les Roquetes,50,12,Basque Country
+1224,8,Women,Nou Barris,Verdun,51,18,Basque Country
+1225,8,Women,Nou Barris,la Prosperitat,52,35,Basque Country
+1226,8,Women,Nou Barris,la Trinitat Nova,53,4,Basque Country
+1227,8,Women,Nou Barris,Torre Baró,54,4,Basque Country
+1228,8,Women,Nou Barris,Ciutat Meridiana,55,7,Basque Country
+1229,8,Women,Nou Barris,Vallbona,56,4,Basque Country
+1230,9,Women,Sant Andreu,el Bon Pastor,59,12,Basque Country
+1231,9,Women,Sant Andreu,Sant Andreu,60,98,Basque Country
+1232,9,Women,Sant Andreu,la Sagrera,61,44,Basque Country
+1233,9,Women,Sant Andreu,el Congrés i els Indians,62,36,Basque Country
+1234,9,Women,Sant Andreu,Navas,63,54,Basque Country
+1235,10,Women,Sant Martí,el Camp de l'Arpa del Clot,64,106,Basque Country
+1236,10,Women,Sant Martí,el Clot,65,56,Basque Country
+1237,10,Women,Sant Martí,el Parc i la Llacuna del Poblenou,66,47,Basque Country
+1238,10,Women,Sant Martí,la Vila Olímpica del Poblenou,67,35,Basque Country
+1239,10,Women,Sant Martí,el Poblenou,68,101,Basque Country
+1240,10,Women,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,69,38,Basque Country
+1241,10,Women,Sant Martí,el Besòs i el Maresme,70,30,Basque Country
+1242,10,Women,Sant Martí,Provençals del Poblenou,71,32,Basque Country
+1243,10,Women,Sant Martí,Sant Martí de Provençals,72,41,Basque Country
+1244,10,Women,Sant Martí,la Verneda i la Pau,73,40,Basque Country
+1245,1,Women,Ciutat Vella,el Raval,1,22,The Rioja
+1246,1,Women,Ciutat Vella,el Barri Gòtic,2,10,The Rioja
+1247,1,Women,Ciutat Vella,la Barceloneta,3,8,The Rioja
+1248,1,Women,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",4,10,The Rioja
+1249,2,Women,Eixample,el Fort Pienc,5,37,The Rioja
+1250,2,Women,Eixample,la Sagrada Família,6,53,The Rioja
+1251,2,Women,Eixample,la Dreta de l'Eixample,7,43,The Rioja
+1252,2,Women,Eixample,l'Antiga Esquerra de l'Eixample,8,40,The Rioja
+1253,2,Women,Eixample,la Nova Esquerra de l'Eixample,9,68,The Rioja
+1254,2,Women,Eixample,Sant Antoni,10,37,The Rioja
+1255,3,Women,Sants-Montjuïc,el Poble Sec,11,28,The Rioja
+1256,3,Women,Sants-Montjuïc,la Marina del Prat Vermell,12,0,The Rioja
+1257,3,Women,Sants-Montjuïc,la Marina de Port,13,24,The Rioja
+1258,3,Women,Sants-Montjuïc,la Font de la Guatlla,14,15,The Rioja
+1259,3,Women,Sants-Montjuïc,Hostafrancs,15,18,The Rioja
+1260,3,Women,Sants-Montjuïc,la Bordeta,16,20,The Rioja
+1261,3,Women,Sants-Montjuïc,Sants - Badal,17,19,The Rioja
+1262,3,Women,Sants-Montjuïc,Sants,18,32,The Rioja
+1263,4,Women,Les Corts,les Corts,19,58,The Rioja
+1264,4,Women,Les Corts,la Maternitat i Sant Ramon,20,29,The Rioja
+1265,4,Women,Les Corts,Pedralbes,21,10,The Rioja
+1266,5,Women,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",22,0,The Rioja
+1267,5,Women,Sarrià-Sant Gervasi,Sarrià,23,20,The Rioja
+1268,5,Women,Sarrià-Sant Gervasi,les Tres Torres,24,9,The Rioja
+1269,5,Women,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,25,17,The Rioja
+1270,5,Women,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,26,44,The Rioja
+1271,5,Women,Sarrià-Sant Gervasi,el Putxet i el Farró,27,24,The Rioja
+1272,6,Women,Gràcia,Vallcarca i els Penitents,28,15,The Rioja
+1273,6,Women,Gràcia,el Coll,29,5,The Rioja
+1274,6,Women,Gràcia,la Salut,30,8,The Rioja
+1275,6,Women,Gràcia,la Vila de Gràcia,31,55,The Rioja
+1276,6,Women,Gràcia,el Camp d'en Grassot i Gràcia Nova,32,40,The Rioja
+1277,7,Women,Horta-Guinardó,el Baix Guinardó,33,37,The Rioja
+1278,7,Women,Horta-Guinardó,Can Baró,34,8,The Rioja
+1279,7,Women,Horta-Guinardó,el Guinardó,35,27,The Rioja
+1280,7,Women,Horta-Guinardó,la Font d'en Fargues,36,10,The Rioja
+1281,7,Women,Horta-Guinardó,el Carmel,37,11,The Rioja
+1282,7,Women,Horta-Guinardó,la Teixonera,38,10,The Rioja
+1283,7,Women,Horta-Guinardó,Sant Genís dels Agudells,39,10,The Rioja
+1284,7,Women,Horta-Guinardó,Montbau,40,4,The Rioja
+1285,7,Women,Horta-Guinardó,la Vall d'Hebron,41,6,The Rioja
+1286,7,Women,Horta-Guinardó,la Clota,42,0,The Rioja
+1287,7,Women,Horta-Guinardó,Horta,43,25,The Rioja
+1288,8,Women,Nou Barris,Vilapicina i la Torre Llobeta,44,28,The Rioja
+1289,8,Women,Nou Barris,Porta,45,12,The Rioja
+1290,8,Women,Nou Barris,el Turó de la Peira,46,25,The Rioja
+1291,8,Women,Nou Barris,Can Peguera,47,2,The Rioja
+1292,8,Women,Nou Barris,les Roquetes,50,1,The Rioja
+1293,8,Women,Nou Barris,Verdun,51,6,The Rioja
+1294,8,Women,Nou Barris,la Prosperitat,52,12,The Rioja
+1295,8,Women,Nou Barris,la Trinitat Nova,53,0,The Rioja
+1296,8,Women,Nou Barris,Torre Baró,54,0,The Rioja
+1297,8,Women,Nou Barris,Ciutat Meridiana,55,1,The Rioja
+1298,8,Women,Nou Barris,Vallbona,56,0,The Rioja
+1299,9,Women,Sant Andreu,la Trinitat Vella,57,1,The Rioja
+1300,9,Women,Sant Andreu,Baró de Viver,58,0,The Rioja
+1301,9,Women,Sant Andreu,el Bon Pastor,59,4,The Rioja
+1302,9,Women,Sant Andreu,Sant Andreu,60,33,The Rioja
+1303,9,Women,Sant Andreu,la Sagrera,61,32,The Rioja
+1304,9,Women,Sant Andreu,el Congrés i els Indians,62,17,The Rioja
+1305,9,Women,Sant Andreu,Navas,63,21,The Rioja
+1306,10,Women,Sant Martí,el Camp de l'Arpa del Clot,64,35,The Rioja
+1307,10,Women,Sant Martí,el Clot,65,24,The Rioja
+1308,10,Women,Sant Martí,el Parc i la Llacuna del Poblenou,66,17,The Rioja
+1309,10,Women,Sant Martí,la Vila Olímpica del Poblenou,67,9,The Rioja
+1310,10,Women,Sant Martí,el Poblenou,68,22,The Rioja
+1311,10,Women,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,69,10,The Rioja
+1312,10,Women,Sant Martí,el Besòs i el Maresme,70,12,The Rioja
+1313,10,Women,Sant Martí,Provençals del Poblenou,71,14,The Rioja
+1314,10,Women,Sant Martí,Sant Martí de Provençals,72,34,The Rioja
+1315,10,Women,Sant Martí,la Verneda i la Pau,73,23,The Rioja
+1316,1,Women,Ciutat Vella,el Raval,1,17,Ceuta
+1317,1,Women,Ciutat Vella,el Barri Gòtic,2,2,Ceuta
+1318,1,Women,Ciutat Vella,la Barceloneta,3,1,Ceuta
+1319,1,Women,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",4,6,Ceuta
+1320,2,Women,Eixample,el Fort Pienc,5,4,Ceuta
+1321,2,Women,Eixample,la Sagrada Família,6,8,Ceuta
+1322,2,Women,Eixample,la Dreta de l'Eixample,7,6,Ceuta
+1323,2,Women,Eixample,l'Antiga Esquerra de l'Eixample,8,3,Ceuta
+1324,2,Women,Eixample,la Nova Esquerra de l'Eixample,9,19,Ceuta
+1325,3,Women,Sants-Montjuïc,el Poble Sec,11,14,Ceuta
+1326,3,Women,Sants-Montjuïc,la Marina del Prat Vermell,12,0,Ceuta
+1327,3,Women,Sants-Montjuïc,la Marina de Port,13,13,Ceuta
+1328,3,Women,Sants-Montjuïc,la Font de la Guatlla,14,5,Ceuta
+1329,3,Women,Sants-Montjuïc,Hostafrancs,15,2,Ceuta
+1330,3,Women,Sants-Montjuïc,la Bordeta,16,6,Ceuta
+1331,3,Women,Sants-Montjuïc,Sants - Badal,17,3,Ceuta
+1332,3,Women,Sants-Montjuïc,Sants,18,9,Ceuta
+1333,4,Women,Les Corts,les Corts,19,9,Ceuta
+1334,4,Women,Les Corts,la Maternitat i Sant Ramon,20,7,Ceuta
+1335,4,Women,Les Corts,Pedralbes,21,3,Ceuta
+1336,5,Women,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",22,0,Ceuta
+1337,5,Women,Sarrià-Sant Gervasi,Sarrià,23,3,Ceuta
+1338,5,Women,Sarrià-Sant Gervasi,les Tres Torres,24,1,Ceuta
+1339,5,Women,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,25,1,Ceuta
+1340,5,Women,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,26,6,Ceuta
+1341,5,Women,Sarrià-Sant Gervasi,el Putxet i el Farró,27,6,Ceuta
+1342,6,Women,Gràcia,Vallcarca i els Penitents,28,1,Ceuta
+1343,6,Women,Gràcia,el Coll,29,0,Ceuta
+1344,6,Women,Gràcia,la Salut,30,2,Ceuta
+1345,6,Women,Gràcia,la Vila de Gràcia,31,6,Ceuta
+1346,6,Women,Gràcia,el Camp d'en Grassot i Gràcia Nova,32,8,Ceuta
+1347,7,Women,Horta-Guinardó,el Baix Guinardó,33,5,Ceuta
+1348,7,Women,Horta-Guinardó,Can Baró,34,2,Ceuta
+1349,7,Women,Horta-Guinardó,el Guinardó,35,6,Ceuta
+1350,7,Women,Horta-Guinardó,la Font d'en Fargues,36,3,Ceuta
+1351,7,Women,Horta-Guinardó,el Carmel,37,12,Ceuta
+1352,7,Women,Horta-Guinardó,la Teixonera,38,4,Ceuta
+1353,7,Women,Horta-Guinardó,Sant Genís dels Agudells,39,2,Ceuta
+1354,7,Women,Horta-Guinardó,Montbau,40,2,Ceuta
+1355,7,Women,Horta-Guinardó,la Vall d'Hebron,41,2,Ceuta
+1356,7,Women,Horta-Guinardó,la Clota,42,0,Ceuta
+1357,8,Women,Nou Barris,Vilapicina i la Torre Llobeta,44,7,Ceuta
+1358,8,Women,Nou Barris,Porta,45,10,Ceuta
+1359,8,Women,Nou Barris,el Turó de la Peira,46,1,Ceuta
+1360,8,Women,Nou Barris,Can Peguera,47,0,Ceuta
+1361,8,Women,Nou Barris,la Guineueta,48,6,Ceuta
+1362,8,Women,Nou Barris,Canyelles,49,2,Ceuta
+1363,8,Women,Nou Barris,les Roquetes,50,4,Ceuta
+1364,8,Women,Nou Barris,Verdun,51,4,Ceuta
+1365,8,Women,Nou Barris,la Prosperitat,52,8,Ceuta
+1366,8,Women,Nou Barris,la Trinitat Nova,53,5,Ceuta
+1367,8,Women,Nou Barris,Torre Baró,54,1,Ceuta
+1368,8,Women,Nou Barris,Ciutat Meridiana,55,3,Ceuta
+1369,8,Women,Nou Barris,Vallbona,56,1,Ceuta
+1370,9,Women,Sant Andreu,la Trinitat Vella,57,8,Ceuta
+1371,9,Women,Sant Andreu,Baró de Viver,58,0,Ceuta
+1372,9,Women,Sant Andreu,el Bon Pastor,59,7,Ceuta
+1373,9,Women,Sant Andreu,Sant Andreu,60,20,Ceuta
+1374,9,Women,Sant Andreu,la Sagrera,61,7,Ceuta
+1375,9,Women,Sant Andreu,el Congrés i els Indians,62,3,Ceuta
+1376,9,Women,Sant Andreu,Navas,63,1,Ceuta
+1377,10,Women,Sant Martí,el Camp de l'Arpa del Clot,64,6,Ceuta
+1378,10,Women,Sant Martí,el Clot,65,11,Ceuta
+1379,10,Women,Sant Martí,el Parc i la Llacuna del Poblenou,66,10,Ceuta
+1380,10,Women,Sant Martí,la Vila Olímpica del Poblenou,67,3,Ceuta
+1381,10,Women,Sant Martí,el Poblenou,68,9,Ceuta
+1382,10,Women,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,69,3,Ceuta
+1383,10,Women,Sant Martí,el Besòs i el Maresme,70,10,Ceuta
+1384,10,Women,Sant Martí,Provençals del Poblenou,71,5,Ceuta
+1385,10,Women,Sant Martí,Sant Martí de Provençals,72,13,Ceuta
+1386,10,Women,Sant Martí,la Verneda i la Pau,73,10,Ceuta
+1387,1,Women,Ciutat Vella,el Raval,1,11,Melilla
+1388,1,Women,Ciutat Vella,el Barri Gòtic,2,3,Melilla
+1389,1,Women,Ciutat Vella,la Barceloneta,3,8,Melilla
+1390,1,Women,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",4,12,Melilla
+1391,2,Women,Eixample,el Fort Pienc,5,9,Melilla
+1392,2,Women,Eixample,la Sagrada Família,6,27,Melilla
+1393,2,Women,Eixample,la Dreta de l'Eixample,7,16,Melilla
+1394,2,Women,Eixample,l'Antiga Esquerra de l'Eixample,8,15,Melilla
+1395,2,Women,Eixample,la Nova Esquerra de l'Eixample,9,31,Melilla
+1396,2,Women,Eixample,Sant Antoni,10,18,Melilla
+1397,3,Women,Sants-Montjuïc,el Poble Sec,11,23,Melilla
+1398,3,Women,Sants-Montjuïc,la Marina del Prat Vermell,12,0,Melilla
+1399,3,Women,Sants-Montjuïc,la Marina de Port,13,13,Melilla
+1400,3,Women,Sants-Montjuïc,la Font de la Guatlla,14,14,Melilla
+1401,3,Women,Sants-Montjuïc,Hostafrancs,15,4,Melilla
+1402,3,Women,Sants-Montjuïc,la Bordeta,16,10,Melilla
+1403,3,Women,Sants-Montjuïc,Sants - Badal,17,8,Melilla
+1404,3,Women,Sants-Montjuïc,Sants,18,16,Melilla
+1405,4,Women,Les Corts,les Corts,19,33,Melilla
+1406,4,Women,Les Corts,la Maternitat i Sant Ramon,20,9,Melilla
+1407,4,Women,Les Corts,Pedralbes,21,6,Melilla
+1408,5,Women,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",22,0,Melilla
+1409,5,Women,Sarrià-Sant Gervasi,Sarrià,23,13,Melilla
+1410,5,Women,Sarrià-Sant Gervasi,les Tres Torres,24,4,Melilla
+1411,5,Women,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,25,8,Melilla
+1412,5,Women,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,26,17,Melilla
+1413,5,Women,Sarrià-Sant Gervasi,el Putxet i el Farró,27,6,Melilla
+1414,6,Women,Gràcia,Vallcarca i els Penitents,28,4,Melilla
+1415,6,Women,Gràcia,el Coll,29,4,Melilla
+1416,6,Women,Gràcia,la Salut,30,7,Melilla
+1417,6,Women,Gràcia,la Vila de Gràcia,31,9,Melilla
+1418,6,Women,Gràcia,el Camp d'en Grassot i Gràcia Nova,32,18,Melilla
+1419,7,Women,Horta-Guinardó,el Baix Guinardó,33,12,Melilla
+1420,7,Women,Horta-Guinardó,Can Baró,34,3,Melilla
+1421,7,Women,Horta-Guinardó,el Guinardó,35,12,Melilla
+1422,7,Women,Horta-Guinardó,la Font d'en Fargues,36,4,Melilla
+1423,7,Women,Horta-Guinardó,el Carmel,37,16,Melilla
+1424,7,Women,Horta-Guinardó,la Teixonera,38,12,Melilla
+1425,7,Women,Horta-Guinardó,Sant Genís dels Agudells,39,3,Melilla
+1426,7,Women,Horta-Guinardó,Montbau,40,2,Melilla
+1427,7,Women,Horta-Guinardó,la Vall d'Hebron,41,4,Melilla
+1428,7,Women,Horta-Guinardó,la Clota,42,0,Melilla
+1429,7,Women,Horta-Guinardó,Horta,43,14,Melilla
+1430,8,Women,Nou Barris,Vilapicina i la Torre Llobeta,44,15,Melilla
+1431,8,Women,Nou Barris,Porta,45,11,Melilla
+1432,8,Women,Nou Barris,el Turó de la Peira,46,6,Melilla
+1433,8,Women,Nou Barris,Can Peguera,47,2,Melilla
+1434,8,Women,Nou Barris,la Guineueta,48,17,Melilla
+1435,8,Women,Nou Barris,Canyelles,49,8,Melilla
+1436,8,Women,Nou Barris,les Roquetes,50,8,Melilla
+1437,8,Women,Nou Barris,Verdun,51,4,Melilla
+1438,8,Women,Nou Barris,la Prosperitat,52,21,Melilla
+1439,8,Women,Nou Barris,la Trinitat Nova,53,9,Melilla
+1440,8,Women,Nou Barris,Torre Baró,54,1,Melilla
+1441,8,Women,Nou Barris,Ciutat Meridiana,55,6,Melilla
+1442,8,Women,Nou Barris,Vallbona,56,2,Melilla
+1443,9,Women,Sant Andreu,la Trinitat Vella,57,7,Melilla
+1444,9,Women,Sant Andreu,Baró de Viver,58,1,Melilla
+1445,9,Women,Sant Andreu,el Bon Pastor,59,6,Melilla
+1446,9,Women,Sant Andreu,Sant Andreu,60,51,Melilla
+1447,9,Women,Sant Andreu,la Sagrera,61,18,Melilla
+1448,9,Women,Sant Andreu,el Congrés i els Indians,62,2,Melilla
+1449,9,Women,Sant Andreu,Navas,63,17,Melilla
+1450,10,Women,Sant Martí,el Camp de l'Arpa del Clot,64,19,Melilla
+1451,10,Women,Sant Martí,el Clot,65,15,Melilla
+1452,10,Women,Sant Martí,el Parc i la Llacuna del Poblenou,66,17,Melilla
+1453,10,Women,Sant Martí,la Vila Olímpica del Poblenou,67,7,Melilla
+1454,10,Women,Sant Martí,el Poblenou,68,10,Melilla
+1455,10,Women,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,69,4,Melilla
+1456,10,Women,Sant Martí,el Besòs i el Maresme,70,23,Melilla
+1457,10,Women,Sant Martí,Provençals del Poblenou,71,13,Melilla
+1458,10,Women,Sant Martí,Sant Martí de Provençals,72,29,Melilla
+1459,10,Women,Sant Martí,la Verneda i la Pau,73,27,Melilla
+1460,1,Women,Ciutat Vella,el Raval,1,12902,Foreign
+1461,1,Women,Ciutat Vella,el Barri Gòtic,2,5111,Foreign
+1462,1,Women,Ciutat Vella,la Barceloneta,3,3372,Foreign
+1463,1,Women,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",4,6015,Foreign
+1464,2,Women,Eixample,el Fort Pienc,5,5570,Foreign
+1465,2,Women,Eixample,la Sagrada Família,6,8649,Foreign
+1466,2,Women,Eixample,la Dreta de l'Eixample,7,7201,Foreign
+1467,2,Women,Eixample,l'Antiga Esquerra de l'Eixample,8,7182,Foreign
+1468,2,Women,Eixample,la Nova Esquerra de l'Eixample,9,8748,Foreign
+1469,2,Women,Eixample,Sant Antoni,10,6355,Foreign
+1470,3,Women,Sants-Montjuïc,el Poble Sec,11,8451,Foreign
+1471,3,Women,Sants-Montjuïc,la Marina del Prat Vermell,12,105,Foreign
+1472,3,Women,Sants-Montjuïc,la Marina de Port,13,4150,Foreign
+1473,3,Women,Sants-Montjuïc,la Font de la Guatlla,14,1541,Foreign
+1474,3,Women,Sants-Montjuïc,Hostafrancs,15,2728,Foreign
+1475,3,Women,Sants-Montjuïc,la Bordeta,16,2221,Foreign
+1476,3,Women,Sants-Montjuïc,Sants - Badal,17,3827,Foreign
+1477,3,Women,Sants-Montjuïc,Sants,18,6298,Foreign
+1478,4,Women,Les Corts,les Corts,19,4806,Foreign
+1479,4,Women,Les Corts,la Maternitat i Sant Ramon,20,2488,Foreign
+1480,4,Women,Les Corts,Pedralbes,21,1589,Foreign
+1481,5,Women,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",22,511,Foreign
+1482,5,Women,Sarrià-Sant Gervasi,Sarrià,23,2600,Foreign
+1483,5,Women,Sarrià-Sant Gervasi,les Tres Torres,24,1394,Foreign
+1484,5,Women,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,25,2663,Foreign
+1485,5,Women,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,26,5367,Foreign
+1486,5,Women,Sarrià-Sant Gervasi,el Putxet i el Farró,27,3670,Foreign
+1487,6,Women,Gràcia,Vallcarca i els Penitents,28,1919,Foreign
+1488,6,Women,Gràcia,el Coll,29,1036,Foreign
+1489,6,Women,Gràcia,la Salut,30,1493,Foreign
+1490,6,Women,Gràcia,la Vila de Gràcia,31,7900,Foreign
+1491,6,Women,Gràcia,el Camp d'en Grassot i Gràcia Nova,32,4274,Foreign
+1492,7,Women,Horta-Guinardó,el Baix Guinardó,33,3263,Foreign
+1493,7,Women,Horta-Guinardó,Can Baró,34,1104,Foreign
+1494,7,Women,Horta-Guinardó,el Guinardó,35,5060,Foreign
+1495,7,Women,Horta-Guinardó,la Font d'en Fargues,36,637,Foreign
+1496,7,Women,Horta-Guinardó,el Carmel,37,4315,Foreign
+1497,7,Women,Horta-Guinardó,la Teixonera,38,1598,Foreign
+1498,7,Women,Horta-Guinardó,Sant Genís dels Agudells,39,1054,Foreign
+1499,7,Women,Horta-Guinardó,Montbau,40,623,Foreign
+1500,7,Women,Horta-Guinardó,la Vall d'Hebron,41,543,Foreign
+1501,7,Women,Horta-Guinardó,la Clota,42,67,Foreign
+1502,7,Women,Horta-Guinardó,Horta,43,3222,Foreign
+1503,8,Women,Nou Barris,Vilapicina i la Torre Llobeta,44,3392,Foreign
+1504,8,Women,Nou Barris,Porta,45,4633,Foreign
+1505,8,Women,Nou Barris,el Turó de la Peira,46,3135,Foreign
+1506,8,Women,Nou Barris,Can Peguera,47,218,Foreign
+1507,8,Women,Nou Barris,la Guineueta,48,1414,Foreign
+1508,8,Women,Nou Barris,Canyelles,49,388,Foreign
+1509,8,Women,Nou Barris,les Roquetes,50,2803,Foreign
+1510,8,Women,Nou Barris,Verdun,51,2146,Foreign
+1511,8,Women,Nou Barris,la Prosperitat,52,3630,Foreign
+1512,8,Women,Nou Barris,la Trinitat Nova,53,1284,Foreign
+1513,8,Women,Nou Barris,Torre Baró,54,420,Foreign
+1514,8,Women,Nou Barris,Ciutat Meridiana,55,2436,Foreign
+1515,8,Women,Nou Barris,Vallbona,56,177,Foreign
+1516,9,Women,Sant Andreu,la Trinitat Vella,57,1941,Foreign
+1517,9,Women,Sant Andreu,Baró de Viver,58,285,Foreign
+1518,9,Women,Sant Andreu,el Bon Pastor,59,1752,Foreign
+1519,9,Women,Sant Andreu,Sant Andreu,60,4536,Foreign
+1520,9,Women,Sant Andreu,la Sagrera,61,3845,Foreign
+1521,9,Women,Sant Andreu,el Congrés i els Indians,62,1865,Foreign
+1522,9,Women,Sant Andreu,Navas,63,3013,Foreign
+1523,10,Women,Sant Martí,el Camp de l'Arpa del Clot,64,5819,Foreign
+1524,10,Women,Sant Martí,el Clot,65,3289,Foreign
+1525,10,Women,Sant Martí,el Parc i la Llacuna del Poblenou,66,2361,Foreign
+1526,10,Women,Sant Martí,la Vila Olímpica del Poblenou,67,1181,Foreign
+1527,10,Women,Sant Martí,el Poblenou,68,4399,Foreign
+1528,10,Women,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,69,1738,Foreign
+1529,10,Women,Sant Martí,el Besòs i el Maresme,70,4392,Foreign
+1530,10,Women,Sant Martí,Provençals del Poblenou,71,2499,Foreign
+1531,10,Women,Sant Martí,Sant Martí de Provençals,72,2869,Foreign
+1532,10,Women,Sant Martí,la Verneda i la Pau,73,3156,Foreign
+1533,1,Men,Ciutat Vella,el Raval,1,6255,Barcelona city
+1534,1,Men,Ciutat Vella,el Barri Gòtic,2,2227,Barcelona city
+1535,1,Men,Ciutat Vella,la Barceloneta,3,2736,Barcelona city
+1536,1,Men,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",4,3469,Barcelona city
+1537,2,Men,Eixample,el Fort Pienc,5,7365,Barcelona city
+1538,2,Men,Eixample,la Sagrada Família,6,11776,Barcelona city
+1539,2,Men,Eixample,la Dreta de l'Eixample,7,10313,Barcelona city
+1540,2,Men,Eixample,l'Antiga Esquerra de l'Eixample,8,9577,Barcelona city
+1541,2,Men,Eixample,la Nova Esquerra de l'Eixample,9,13549,Barcelona city
+1542,2,Men,Eixample,Sant Antoni,10,8699,Barcelona city
+1543,3,Men,Sants-Montjuïc,el Poble Sec,11,7657,Barcelona city
+1544,3,Men,Sants-Montjuïc,la Marina del Prat Vermell,12,419,Barcelona city
+1545,3,Men,Sants-Montjuïc,la Marina de Port,13,7932,Barcelona city
+1546,3,Men,Sants-Montjuïc,la Font de la Guatlla,14,2209,Barcelona city
+1547,3,Men,Sants-Montjuïc,Hostafrancs,15,3521,Barcelona city
+1548,3,Men,Sants-Montjuïc,la Bordeta,16,4992,Barcelona city
+1549,3,Men,Sants-Montjuïc,Sants - Badal,17,5431,Barcelona city
+1550,3,Men,Sants-Montjuïc,Sants,18,10097,Barcelona city
+1551,4,Men,Les Corts,les Corts,19,12519,Barcelona city
+1552,4,Men,Les Corts,la Maternitat i Sant Ramon,20,5952,Barcelona city
+1553,4,Men,Les Corts,Pedralbes,21,3126,Barcelona city
+1554,5,Men,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",22,1502,Barcelona city
+1555,5,Men,Sarrià-Sant Gervasi,Sarrià,23,7652,Barcelona city
+1556,5,Men,Sarrià-Sant Gervasi,les Tres Torres,24,5259,Barcelona city
+1557,5,Men,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,25,7960,Barcelona city
+1558,5,Men,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,26,14028,Barcelona city
+1559,5,Men,Sarrià-Sant Gervasi,el Putxet i el Farró,27,8566,Barcelona city
+1560,6,Men,Gràcia,Vallcarca i els Penitents,28,4429,Barcelona city
+1561,6,Men,Gràcia,el Coll,29,1983,Barcelona city
+1562,6,Men,Gràcia,la Salut,30,3570,Barcelona city
+1563,6,Men,Gràcia,la Vila de Gràcia,31,11948,Barcelona city
+1564,6,Men,Gràcia,el Camp d'en Grassot i Gràcia Nova,32,9146,Barcelona city
+1565,7,Men,Horta-Guinardó,el Baix Guinardó,33,6739,Barcelona city
+1566,7,Men,Horta-Guinardó,Can Baró,34,2426,Barcelona city
+1567,7,Men,Horta-Guinardó,el Guinardó,35,9756,Barcelona city
+1568,7,Men,Horta-Guinardó,la Font d'en Fargues,36,3029,Barcelona city
+1569,7,Men,Horta-Guinardó,el Carmel,37,7524,Barcelona city
+1570,7,Men,Horta-Guinardó,la Teixonera,38,2956,Barcelona city
+1571,7,Men,Horta-Guinardó,Sant Genís dels Agudells,39,1737,Barcelona city
+1572,7,Men,Horta-Guinardó,Montbau,40,1331,Barcelona city
+1573,7,Men,Horta-Guinardó,la Vall d'Hebron,41,1532,Barcelona city
+1574,7,Men,Horta-Guinardó,la Clota,42,223,Barcelona city
+1575,7,Men,Horta-Guinardó,Horta,43,7534,Barcelona city
+1576,8,Men,Nou Barris,Vilapicina i la Torre Llobeta,44,6324,Barcelona city
+1577,8,Men,Nou Barris,Porta,45,5847,Barcelona city
+1578,8,Men,Nou Barris,el Turó de la Peira,46,3593,Barcelona city
+1579,8,Men,Nou Barris,Can Peguera,47,714,Barcelona city
+1580,8,Men,Nou Barris,la Guineueta,48,4128,Barcelona city
+1581,8,Men,Nou Barris,Canyelles,49,1924,Barcelona city
+1582,8,Men,Nou Barris,les Roquetes,50,3682,Barcelona city
+1583,8,Men,Nou Barris,Verdun,51,2778,Barcelona city
+1584,8,Men,Nou Barris,la Prosperitat,52,6088,Barcelona city
+1585,8,Men,Nou Barris,la Trinitat Nova,53,1871,Barcelona city
+1586,8,Men,Nou Barris,Torre Baró,54,746,Barcelona city
+1587,8,Men,Nou Barris,Ciutat Meridiana,55,2029,Barcelona city
+1588,8,Men,Nou Barris,Vallbona,56,366,Barcelona city
+1589,9,Men,Sant Andreu,la Trinitat Vella,57,2090,Barcelona city
+1590,9,Men,Sant Andreu,Baró de Viver,58,738,Barcelona city
+1591,9,Men,Sant Andreu,el Bon Pastor,59,3565,Barcelona city
+1592,9,Men,Sant Andreu,Sant Andreu,60,16946,Barcelona city
+1593,9,Men,Sant Andreu,la Sagrera,61,7217,Barcelona city
+1594,9,Men,Sant Andreu,el Congrés i els Indians,62,3937,Barcelona city
+1595,9,Men,Sant Andreu,Navas,63,5720,Barcelona city
+1596,10,Men,Sant Martí,el Camp de l'Arpa del Clot,64,9450,Barcelona city
+1597,10,Men,Sant Martí,el Clot,65,7049,Barcelona city
+1598,10,Men,Sant Martí,el Parc i la Llacuna del Poblenou,66,3668,Barcelona city
+1599,10,Men,Sant Martí,la Vila Olímpica del Poblenou,67,2460,Barcelona city
+1600,10,Men,Sant Martí,el Poblenou,68,9340,Barcelona city
+1601,10,Men,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,69,3595,Barcelona city
+1602,10,Men,Sant Martí,el Besòs i el Maresme,70,5059,Barcelona city
+1603,10,Men,Sant Martí,Provençals del Poblenou,71,5708,Barcelona city
+1604,10,Men,Sant Martí,Sant Martí de Provençals,72,6663,Barcelona city
+1605,10,Men,Sant Martí,la Verneda i la Pau,73,7025,Barcelona city
+1606,1,Men,Ciutat Vella,el Raval,1,1017,Rest of Catalonia
+1607,1,Men,Ciutat Vella,el Barri Gòtic,2,458,Rest of Catalonia
+1608,1,Men,Ciutat Vella,la Barceloneta,3,296,Rest of Catalonia
+1609,1,Men,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",4,563,Rest of Catalonia
+1610,2,Men,Eixample,el Fort Pienc,5,1159,Rest of Catalonia
+1611,2,Men,Eixample,la Sagrada Família,6,1766,Rest of Catalonia
+1612,2,Men,Eixample,la Dreta de l'Eixample,7,1711,Rest of Catalonia
+1613,2,Men,Eixample,l'Antiga Esquerra de l'Eixample,8,1762,Rest of Catalonia
+1614,2,Men,Eixample,la Nova Esquerra de l'Eixample,9,2466,Rest of Catalonia
+1615,2,Men,Eixample,Sant Antoni,10,1442,Rest of Catalonia
+1616,3,Men,Sants-Montjuïc,el Poble Sec,11,976,Rest of Catalonia
+1617,3,Men,Sants-Montjuïc,la Marina del Prat Vermell,12,38,Rest of Catalonia
+1618,3,Men,Sants-Montjuïc,la Marina de Port,13,870,Rest of Catalonia
+1619,3,Men,Sants-Montjuïc,la Font de la Guatlla,14,342,Rest of Catalonia
+1620,3,Men,Sants-Montjuïc,Hostafrancs,15,553,Rest of Catalonia
+1621,3,Men,Sants-Montjuïc,la Bordeta,16,740,Rest of Catalonia
+1622,3,Men,Sants-Montjuïc,Sants - Badal,17,1029,Rest of Catalonia
+1623,3,Men,Sants-Montjuïc,Sants,18,1665,Rest of Catalonia
+1624,4,Men,Les Corts,les Corts,19,2252,Rest of Catalonia
+1625,4,Men,Les Corts,la Maternitat i Sant Ramon,20,1194,Rest of Catalonia
+1626,4,Men,Les Corts,Pedralbes,21,518,Rest of Catalonia
+1627,5,Men,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",22,215,Rest of Catalonia
+1628,5,Men,Sarrià-Sant Gervasi,Sarrià,23,983,Rest of Catalonia
+1629,5,Men,Sarrià-Sant Gervasi,les Tres Torres,24,674,Rest of Catalonia
+1630,5,Men,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,25,960,Rest of Catalonia
+1631,5,Men,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,26,1705,Rest of Catalonia
+1632,5,Men,Sarrià-Sant Gervasi,el Putxet i el Farró,27,1136,Rest of Catalonia
+1633,6,Men,Gràcia,Vallcarca i els Penitents,28,603,Rest of Catalonia
+1634,6,Men,Gràcia,el Coll,29,228,Rest of Catalonia
+1635,6,Men,Gràcia,la Salut,30,538,Rest of Catalonia
+1636,6,Men,Gràcia,la Vila de Gràcia,31,1958,Rest of Catalonia
+1637,6,Men,Gràcia,el Camp d'en Grassot i Gràcia Nova,32,1406,Rest of Catalonia
+1638,7,Men,Horta-Guinardó,el Baix Guinardó,33,920,Rest of Catalonia
+1639,7,Men,Horta-Guinardó,Can Baró,34,282,Rest of Catalonia
+1640,7,Men,Horta-Guinardó,el Guinardó,35,1210,Rest of Catalonia
+1641,7,Men,Horta-Guinardó,la Font d'en Fargues,36,305,Rest of Catalonia
+1642,7,Men,Horta-Guinardó,el Carmel,37,609,Rest of Catalonia
+1643,7,Men,Horta-Guinardó,la Teixonera,38,251,Rest of Catalonia
+1644,7,Men,Horta-Guinardó,Sant Genís dels Agudells,39,199,Rest of Catalonia
+1645,7,Men,Horta-Guinardó,Montbau,40,158,Rest of Catalonia
+1646,7,Men,Horta-Guinardó,la Vall d'Hebron,41,195,Rest of Catalonia
+1647,7,Men,Horta-Guinardó,la Clota,42,20,Rest of Catalonia
+1648,7,Men,Horta-Guinardó,Horta,43,780,Rest of Catalonia
+1649,8,Men,Nou Barris,Vilapicina i la Torre Llobeta,44,684,Rest of Catalonia
+1650,8,Men,Nou Barris,Porta,45,692,Rest of Catalonia
+1651,8,Men,Nou Barris,el Turó de la Peira,46,342,Rest of Catalonia
+1652,8,Men,Nou Barris,Can Peguera,47,41,Rest of Catalonia
+1653,8,Men,Nou Barris,la Guineueta,48,406,Rest of Catalonia
+1654,8,Men,Nou Barris,Canyelles,49,154,Rest of Catalonia
+1655,8,Men,Nou Barris,les Roquetes,50,298,Rest of Catalonia
+1656,8,Men,Nou Barris,Verdun,51,245,Rest of Catalonia
+1657,8,Men,Nou Barris,la Prosperitat,52,637,Rest of Catalonia
+1658,8,Men,Nou Barris,la Trinitat Nova,53,153,Rest of Catalonia
+1659,8,Men,Nou Barris,Torre Baró,54,76,Rest of Catalonia
+1660,8,Men,Nou Barris,Ciutat Meridiana,55,198,Rest of Catalonia
+1661,8,Men,Nou Barris,Vallbona,56,45,Rest of Catalonia
+1662,9,Men,Sant Andreu,la Trinitat Vella,57,224,Rest of Catalonia
+1663,9,Men,Sant Andreu,Baró de Viver,58,133,Rest of Catalonia
+1664,9,Men,Sant Andreu,el Bon Pastor,59,491,Rest of Catalonia
+1665,9,Men,Sant Andreu,Sant Andreu,60,2092,Rest of Catalonia
+1666,9,Men,Sant Andreu,la Sagrera,61,889,Rest of Catalonia
+1667,9,Men,Sant Andreu,el Congrés i els Indians,62,474,Rest of Catalonia
+1668,9,Men,Sant Andreu,Navas,63,711,Rest of Catalonia
+1669,10,Men,Sant Martí,el Camp de l'Arpa del Clot,64,1325,Rest of Catalonia
+1670,10,Men,Sant Martí,el Clot,65,906,Rest of Catalonia
+1671,5,Men,Sarrià-Sant Gervasi,Sarrià,23,161,Andalusia
+1672,10,Men,Sant Martí,el Parc i la Llacuna del Poblenou,66,490,Rest of Catalonia
+1673,10,Men,Sant Martí,la Vila Olímpica del Poblenou,67,419,Rest of Catalonia
+1674,10,Men,Sant Martí,el Poblenou,68,1187,Rest of Catalonia
+1675,10,Men,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,69,536,Rest of Catalonia
+1676,10,Men,Sant Martí,el Besòs i el Maresme,70,594,Rest of Catalonia
+1677,10,Men,Sant Martí,Provençals del Poblenou,71,677,Rest of Catalonia
+1678,10,Men,Sant Martí,Sant Martí de Provençals,72,834,Rest of Catalonia
+1679,10,Men,Sant Martí,la Verneda i la Pau,73,853,Rest of Catalonia
+1680,1,Men,Ciutat Vella,el Raval,1,529,Andalusia
+1681,1,Men,Ciutat Vella,el Barri Gòtic,2,202,Andalusia
+1682,1,Men,Ciutat Vella,la Barceloneta,3,319,Andalusia
+1683,1,Men,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",4,295,Andalusia
+1684,2,Men,Eixample,el Fort Pienc,5,361,Andalusia
+1685,2,Men,Eixample,la Sagrada Família,6,627,Andalusia
+1686,2,Men,Eixample,la Dreta de l'Eixample,7,400,Andalusia
+1687,2,Men,Eixample,l'Antiga Esquerra de l'Eixample,8,424,Andalusia
+1688,2,Men,Eixample,la Nova Esquerra de l'Eixample,9,646,Andalusia
+1689,2,Men,Eixample,Sant Antoni,10,501,Andalusia
+1690,3,Men,Sants-Montjuïc,el Poble Sec,11,554,Andalusia
+1691,3,Men,Sants-Montjuïc,la Marina del Prat Vermell,12,29,Andalusia
+1692,3,Men,Sants-Montjuïc,la Marina de Port,13,842,Andalusia
+1693,3,Men,Sants-Montjuïc,la Font de la Guatlla,14,193,Andalusia
+1694,3,Men,Sants-Montjuïc,Hostafrancs,15,243,Andalusia
+1695,3,Men,Sants-Montjuïc,la Bordeta,16,366,Andalusia
+1696,3,Men,Sants-Montjuïc,Sants - Badal,17,521,Andalusia
+1697,3,Men,Sants-Montjuïc,Sants,18,556,Andalusia
+1698,4,Men,Les Corts,les Corts,19,524,Andalusia
+1699,4,Men,Les Corts,la Maternitat i Sant Ramon,20,413,Andalusia
+1700,4,Men,Les Corts,Pedralbes,21,111,Andalusia
+1701,5,Men,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",22,46,Andalusia
+1702,8,Men,Nou Barris,Vallbona,56,53,Andalusia
+1703,5,Men,Sarrià-Sant Gervasi,les Tres Torres,24,91,Andalusia
+1704,5,Men,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,25,164,Andalusia
+1705,5,Men,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,26,270,Andalusia
+1706,5,Men,Sarrià-Sant Gervasi,el Putxet i el Farró,27,210,Andalusia
+1707,6,Men,Gràcia,Vallcarca i els Penitents,28,200,Andalusia
+1708,6,Men,Gràcia,el Coll,29,142,Andalusia
+1709,6,Men,Gràcia,la Salut,30,142,Andalusia
+1710,6,Men,Gràcia,la Vila de Gràcia,31,499,Andalusia
+1711,6,Men,Gràcia,el Camp d'en Grassot i Gràcia Nova,32,389,Andalusia
+1712,7,Men,Horta-Guinardó,el Baix Guinardó,33,386,Andalusia
+1713,7,Men,Horta-Guinardó,Can Baró,34,235,Andalusia
+1714,7,Men,Horta-Guinardó,el Guinardó,35,582,Andalusia
+1715,7,Men,Horta-Guinardó,la Font d'en Fargues,36,193,Andalusia
+1716,7,Men,Horta-Guinardó,el Carmel,37,1562,Andalusia
+1717,7,Men,Horta-Guinardó,la Teixonera,38,404,Andalusia
+1718,7,Men,Horta-Guinardó,Sant Genís dels Agudells,39,200,Andalusia
+1719,7,Men,Horta-Guinardó,Montbau,40,100,Andalusia
+1720,7,Men,Horta-Guinardó,la Vall d'Hebron,41,148,Andalusia
+1721,7,Men,Horta-Guinardó,la Clota,42,16,Andalusia
+1722,7,Men,Horta-Guinardó,Horta,43,707,Andalusia
+1723,8,Men,Nou Barris,Vilapicina i la Torre Llobeta,44,604,Andalusia
+1724,8,Men,Nou Barris,Porta,45,742,Andalusia
+1725,8,Men,Nou Barris,el Turó de la Peira,46,308,Andalusia
+1726,8,Men,Nou Barris,Can Peguera,47,61,Andalusia
+1727,8,Men,Nou Barris,la Guineueta,48,535,Andalusia
+1728,8,Men,Nou Barris,Canyelles,49,360,Andalusia
+1729,8,Men,Nou Barris,les Roquetes,50,731,Andalusia
+1730,8,Men,Nou Barris,Verdun,51,466,Andalusia
+1731,8,Men,Nou Barris,la Prosperitat,52,1087,Andalusia
+1732,8,Men,Nou Barris,la Trinitat Nova,53,204,Andalusia
+1733,8,Men,Nou Barris,Torre Baró,54,148,Andalusia
+1734,8,Men,Nou Barris,Ciutat Meridiana,55,371,Andalusia
+1735,9,Men,Sant Andreu,la Trinitat Vella,57,386,Andalusia
+1736,9,Men,Sant Andreu,Baró de Viver,58,75,Andalusia
+1737,9,Men,Sant Andreu,el Bon Pastor,59,325,Andalusia
+1738,9,Men,Sant Andreu,Sant Andreu,60,1458,Andalusia
+1739,9,Men,Sant Andreu,la Sagrera,61,645,Andalusia
+1740,9,Men,Sant Andreu,el Congrés i els Indians,62,223,Andalusia
+1741,9,Men,Sant Andreu,Navas,63,389,Andalusia
+1742,10,Men,Sant Martí,el Camp de l'Arpa del Clot,64,548,Andalusia
+1743,10,Men,Sant Martí,el Clot,65,469,Andalusia
+1744,10,Men,Sant Martí,el Parc i la Llacuna del Poblenou,66,257,Andalusia
+1745,10,Men,Sant Martí,la Vila Olímpica del Poblenou,67,114,Andalusia
+1746,10,Men,Sant Martí,el Poblenou,68,463,Andalusia
+1747,10,Men,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,69,215,Andalusia
+1748,10,Men,Sant Martí,el Besòs i el Maresme,70,667,Andalusia
+1749,10,Men,Sant Martí,Provençals del Poblenou,71,493,Andalusia
+1750,10,Men,Sant Martí,Sant Martí de Provençals,72,748,Andalusia
+1751,10,Men,Sant Martí,la Verneda i la Pau,73,1083,Andalusia
+1752,1,Men,Ciutat Vella,el Raval,1,173,Aragon
+1753,1,Men,Ciutat Vella,el Barri Gòtic,2,69,Aragon
+1754,1,Men,Ciutat Vella,la Barceloneta,3,39,Aragon
+1755,1,Men,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",4,94,Aragon
+1756,2,Men,Eixample,el Fort Pienc,5,239,Aragon
+1757,2,Men,Eixample,la Sagrada Família,6,439,Aragon
+1758,2,Men,Eixample,la Dreta de l'Eixample,7,228,Aragon
+1759,2,Men,Eixample,l'Antiga Esquerra de l'Eixample,8,239,Aragon
+1760,2,Men,Eixample,la Nova Esquerra de l'Eixample,9,490,Aragon
+1761,2,Men,Eixample,Sant Antoni,10,249,Aragon
+1762,3,Men,Sants-Montjuïc,el Poble Sec,11,187,Aragon
+1763,3,Men,Sants-Montjuïc,la Marina del Prat Vermell,12,2,Aragon
+1764,3,Men,Sants-Montjuïc,la Marina de Port,13,200,Aragon
+1765,3,Men,Sants-Montjuïc,la Font de la Guatlla,14,84,Aragon
+1766,3,Men,Sants-Montjuïc,Hostafrancs,15,113,Aragon
+1767,3,Men,Sants-Montjuïc,la Bordeta,16,164,Aragon
+1768,3,Men,Sants-Montjuïc,Sants - Badal,17,219,Aragon
+1769,3,Men,Sants-Montjuïc,Sants,18,342,Aragon
+1770,4,Men,Les Corts,les Corts,19,412,Aragon
+1771,4,Men,Les Corts,la Maternitat i Sant Ramon,20,256,Aragon
+1772,4,Men,Les Corts,Pedralbes,21,97,Aragon
+1773,5,Men,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",22,16,Aragon
+1774,5,Men,Sarrià-Sant Gervasi,Sarrià,23,133,Aragon
+1775,5,Men,Sarrià-Sant Gervasi,les Tres Torres,24,93,Aragon
+1776,5,Men,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,25,115,Aragon
+1777,5,Men,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,26,246,Aragon
+1778,5,Men,Sarrià-Sant Gervasi,el Putxet i el Farró,27,161,Aragon
+1779,6,Men,Gràcia,Vallcarca i els Penitents,28,116,Aragon
+1780,6,Men,Gràcia,el Coll,29,46,Aragon
+1781,6,Men,Gràcia,la Salut,30,78,Aragon
+1782,6,Men,Gràcia,la Vila de Gràcia,31,265,Aragon
+1783,6,Men,Gràcia,el Camp d'en Grassot i Gràcia Nova,32,257,Aragon
+1784,7,Men,Horta-Guinardó,el Baix Guinardó,33,242,Aragon
+1785,7,Men,Horta-Guinardó,Can Baró,34,54,Aragon
+1786,7,Men,Horta-Guinardó,el Guinardó,35,285,Aragon
+1787,7,Men,Horta-Guinardó,la Font d'en Fargues,36,93,Aragon
+1788,7,Men,Horta-Guinardó,el Carmel,37,189,Aragon
+1789,7,Men,Horta-Guinardó,la Teixonera,38,69,Aragon
+1790,7,Men,Horta-Guinardó,Sant Genís dels Agudells,39,65,Aragon
+1791,7,Men,Horta-Guinardó,Montbau,40,41,Aragon
+1792,7,Men,Horta-Guinardó,la Vall d'Hebron,41,73,Aragon
+1793,7,Men,Horta-Guinardó,la Clota,42,4,Aragon
+1794,7,Men,Horta-Guinardó,Horta,43,212,Aragon
+1795,8,Men,Nou Barris,Vilapicina i la Torre Llobeta,44,228,Aragon
+1796,8,Men,Nou Barris,Porta,45,261,Aragon
+1797,8,Men,Nou Barris,el Turó de la Peira,46,115,Aragon
+1798,8,Men,Nou Barris,Can Peguera,47,14,Aragon
+1799,8,Men,Nou Barris,la Guineueta,48,158,Aragon
+1800,8,Men,Nou Barris,Canyelles,49,60,Aragon
+1801,8,Men,Nou Barris,les Roquetes,50,70,Aragon
+1802,8,Men,Nou Barris,Verdun,51,58,Aragon
+1803,8,Men,Nou Barris,la Prosperitat,52,185,Aragon
+1804,8,Men,Nou Barris,la Trinitat Nova,53,26,Aragon
+1805,8,Men,Nou Barris,Torre Baró,54,3,Aragon
+1806,8,Men,Nou Barris,Ciutat Meridiana,55,39,Aragon
+1807,8,Men,Nou Barris,Vallbona,56,3,Aragon
+1808,9,Men,Sant Andreu,la Trinitat Vella,57,41,Aragon
+1809,9,Men,Sant Andreu,Baró de Viver,58,8,Aragon
+1810,9,Men,Sant Andreu,el Bon Pastor,59,52,Aragon
+1811,9,Men,Sant Andreu,Sant Andreu,60,442,Aragon
+1812,9,Men,Sant Andreu,la Sagrera,61,334,Aragon
+1813,9,Men,Sant Andreu,el Congrés i els Indians,62,96,Aragon
+1814,9,Men,Sant Andreu,Navas,63,186,Aragon
+1815,10,Men,Sant Martí,el Camp de l'Arpa del Clot,64,313,Aragon
+1816,10,Men,Sant Martí,el Clot,65,215,Aragon
+1817,10,Men,Sant Martí,el Parc i la Llacuna del Poblenou,66,127,Aragon
+1818,10,Men,Sant Martí,la Vila Olímpica del Poblenou,67,73,Aragon
+1819,10,Men,Sant Martí,el Poblenou,68,173,Aragon
+1820,10,Men,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,69,106,Aragon
+1821,10,Men,Sant Martí,el Besòs i el Maresme,70,113,Aragon
+1822,10,Men,Sant Martí,Provençals del Poblenou,71,127,Aragon
+1823,10,Men,Sant Martí,Sant Martí de Provençals,72,229,Aragon
+1824,10,Men,Sant Martí,la Verneda i la Pau,73,251,Aragon
+1825,1,Men,Ciutat Vella,el Raval,1,51,Principality of Asturias
+1826,1,Men,Ciutat Vella,el Barri Gòtic,2,35,Principality of Asturias
+1827,1,Men,Ciutat Vella,la Barceloneta,3,17,Principality of Asturias
+1828,1,Men,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",4,34,Principality of Asturias
+1829,2,Men,Eixample,el Fort Pienc,5,56,Principality of Asturias
+1830,2,Men,Eixample,la Sagrada Família,6,79,Principality of Asturias
+1831,2,Men,Eixample,la Dreta de l'Eixample,7,50,Principality of Asturias
+1832,8,Men,Nou Barris,les Roquetes,50,6,Balearic islands
+1833,2,Men,Eixample,l'Antiga Esquerra de l'Eixample,8,72,Principality of Asturias
+1834,2,Men,Eixample,la Nova Esquerra de l'Eixample,9,90,Principality of Asturias
+1835,2,Men,Eixample,Sant Antoni,10,65,Principality of Asturias
+1836,3,Men,Sants-Montjuïc,el Poble Sec,11,47,Principality of Asturias
+1837,3,Men,Sants-Montjuïc,la Marina del Prat Vermell,12,1,Principality of Asturias
+1838,3,Men,Sants-Montjuïc,la Marina de Port,13,40,Principality of Asturias
+1839,3,Men,Sants-Montjuïc,la Font de la Guatlla,14,21,Principality of Asturias
+1840,3,Men,Sants-Montjuïc,Hostafrancs,15,22,Principality of Asturias
+1841,3,Men,Sants-Montjuïc,la Bordeta,16,32,Principality of Asturias
+1842,3,Men,Sants-Montjuïc,Sants - Badal,17,23,Principality of Asturias
+1843,3,Men,Sants-Montjuïc,Sants,18,56,Principality of Asturias
+1844,4,Men,Les Corts,les Corts,19,63,Principality of Asturias
+1845,4,Men,Les Corts,la Maternitat i Sant Ramon,20,34,Principality of Asturias
+1846,4,Men,Les Corts,Pedralbes,21,20,Principality of Asturias
+1847,5,Men,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",22,3,Principality of Asturias
+1848,5,Men,Sarrià-Sant Gervasi,Sarrià,23,19,Principality of Asturias
+1849,5,Men,Sarrià-Sant Gervasi,les Tres Torres,24,17,Principality of Asturias
+1850,5,Men,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,25,26,Principality of Asturias
+1851,5,Men,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,26,65,Principality of Asturias
+1852,5,Men,Sarrià-Sant Gervasi,el Putxet i el Farró,27,42,Principality of Asturias
+1853,6,Men,Gràcia,Vallcarca i els Penitents,28,22,Principality of Asturias
+1854,6,Men,Gràcia,el Coll,29,13,Principality of Asturias
+1855,6,Men,Gràcia,la Salut,30,18,Principality of Asturias
+1856,6,Men,Gràcia,la Vila de Gràcia,31,81,Principality of Asturias
+1857,6,Men,Gràcia,el Camp d'en Grassot i Gràcia Nova,32,46,Principality of Asturias
+1858,7,Men,Horta-Guinardó,el Baix Guinardó,33,27,Principality of Asturias
+1859,7,Men,Horta-Guinardó,Can Baró,34,4,Principality of Asturias
+1860,7,Men,Horta-Guinardó,el Guinardó,35,34,Principality of Asturias
+1861,7,Men,Horta-Guinardó,la Font d'en Fargues,36,12,Principality of Asturias
+1862,7,Men,Horta-Guinardó,el Carmel,37,25,Principality of Asturias
+1863,7,Men,Horta-Guinardó,la Teixonera,38,9,Principality of Asturias
+1864,7,Men,Horta-Guinardó,Sant Genís dels Agudells,39,7,Principality of Asturias
+1865,7,Men,Horta-Guinardó,Montbau,40,5,Principality of Asturias
+1866,7,Men,Horta-Guinardó,la Vall d'Hebron,41,6,Principality of Asturias
+1867,7,Men,Horta-Guinardó,la Clota,42,1,Principality of Asturias
+1868,7,Men,Horta-Guinardó,Horta,43,27,Principality of Asturias
+1869,8,Men,Nou Barris,Vilapicina i la Torre Llobeta,44,20,Principality of Asturias
+1870,8,Men,Nou Barris,Porta,45,17,Principality of Asturias
+1871,8,Men,Nou Barris,el Turó de la Peira,46,11,Principality of Asturias
+1872,8,Men,Nou Barris,Can Peguera,47,0,Principality of Asturias
+1873,8,Men,Nou Barris,la Guineueta,48,13,Principality of Asturias
+1874,8,Men,Nou Barris,Canyelles,49,1,Principality of Asturias
+1875,8,Men,Nou Barris,les Roquetes,50,8,Principality of Asturias
+1876,8,Men,Nou Barris,Verdun,51,7,Principality of Asturias
+1877,8,Men,Nou Barris,la Prosperitat,52,23,Principality of Asturias
+1878,8,Men,Nou Barris,la Trinitat Nova,53,5,Principality of Asturias
+1879,8,Men,Nou Barris,Torre Baró,54,0,Principality of Asturias
+1880,8,Men,Nou Barris,Ciutat Meridiana,55,3,Principality of Asturias
+1881,8,Men,Nou Barris,Vallbona,56,4,Principality of Asturias
+1882,9,Men,Sant Andreu,la Trinitat Vella,57,4,Principality of Asturias
+1883,9,Men,Sant Andreu,Baró de Viver,58,1,Principality of Asturias
+1884,9,Men,Sant Andreu,el Bon Pastor,59,15,Principality of Asturias
+1885,9,Men,Sant Andreu,Sant Andreu,60,59,Principality of Asturias
+1886,9,Men,Sant Andreu,la Sagrera,61,31,Principality of Asturias
+1887,9,Men,Sant Andreu,el Congrés i els Indians,62,13,Principality of Asturias
+1888,9,Men,Sant Andreu,Navas,63,26,Principality of Asturias
+1889,10,Men,Sant Martí,el Camp de l'Arpa del Clot,64,42,Principality of Asturias
+1890,10,Men,Sant Martí,el Clot,65,35,Principality of Asturias
+1891,10,Men,Sant Martí,el Parc i la Llacuna del Poblenou,66,22,Principality of Asturias
+1892,10,Men,Sant Martí,la Vila Olímpica del Poblenou,67,11,Principality of Asturias
+1893,10,Men,Sant Martí,el Poblenou,68,48,Principality of Asturias
+1894,10,Men,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,69,10,Principality of Asturias
+1895,10,Men,Sant Martí,el Besòs i el Maresme,70,16,Principality of Asturias
+1896,10,Men,Sant Martí,Provençals del Poblenou,71,23,Principality of Asturias
+1897,10,Men,Sant Martí,Sant Martí de Provençals,72,29,Principality of Asturias
+1898,10,Men,Sant Martí,la Verneda i la Pau,73,27,Principality of Asturias
+1899,1,Men,Ciutat Vella,el Raval,1,58,Balearic islands
+1900,1,Men,Ciutat Vella,el Barri Gòtic,2,17,Balearic islands
+1901,1,Men,Ciutat Vella,la Barceloneta,3,13,Balearic islands
+1902,1,Men,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",4,23,Balearic islands
+1903,2,Men,Eixample,el Fort Pienc,5,37,Balearic islands
+1904,2,Men,Eixample,la Sagrada Família,6,46,Balearic islands
+1905,2,Men,Eixample,la Dreta de l'Eixample,7,65,Balearic islands
+1906,2,Men,Eixample,l'Antiga Esquerra de l'Eixample,8,78,Balearic islands
+1907,2,Men,Eixample,la Nova Esquerra de l'Eixample,9,88,Balearic islands
+1908,2,Men,Eixample,Sant Antoni,10,55,Balearic islands
+1909,3,Men,Sants-Montjuïc,el Poble Sec,11,38,Balearic islands
+1910,3,Men,Sants-Montjuïc,la Marina del Prat Vermell,12,1,Balearic islands
+1911,3,Men,Sants-Montjuïc,la Marina de Port,13,24,Balearic islands
+1912,3,Men,Sants-Montjuïc,la Font de la Guatlla,14,8,Balearic islands
+1913,3,Men,Sants-Montjuïc,Hostafrancs,15,16,Balearic islands
+1914,3,Men,Sants-Montjuïc,la Bordeta,16,14,Balearic islands
+1915,3,Men,Sants-Montjuïc,Sants - Badal,17,27,Balearic islands
+1916,3,Men,Sants-Montjuïc,Sants,18,67,Balearic islands
+1917,4,Men,Les Corts,les Corts,19,66,Balearic islands
+1918,4,Men,Les Corts,la Maternitat i Sant Ramon,20,31,Balearic islands
+1919,4,Men,Les Corts,Pedralbes,21,13,Balearic islands
+1920,5,Men,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",22,9,Balearic islands
+1921,5,Men,Sarrià-Sant Gervasi,Sarrià,23,33,Balearic islands
+1922,5,Men,Sarrià-Sant Gervasi,les Tres Torres,24,33,Balearic islands
+1923,5,Men,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,25,33,Balearic islands
+1924,5,Men,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,26,74,Balearic islands
+1925,5,Men,Sarrià-Sant Gervasi,el Putxet i el Farró,27,51,Balearic islands
+1926,6,Men,Gràcia,Vallcarca i els Penitents,28,22,Balearic islands
+1927,6,Men,Gràcia,el Coll,29,13,Balearic islands
+1928,6,Men,Gràcia,la Salut,30,23,Balearic islands
+1929,6,Men,Gràcia,la Vila de Gràcia,31,87,Balearic islands
+1930,6,Men,Gràcia,el Camp d'en Grassot i Gràcia Nova,32,42,Balearic islands
+1931,7,Men,Horta-Guinardó,el Baix Guinardó,33,33,Balearic islands
+1932,7,Men,Horta-Guinardó,Can Baró,34,10,Balearic islands
+1933,7,Men,Horta-Guinardó,el Guinardó,35,37,Balearic islands
+1934,7,Men,Horta-Guinardó,la Font d'en Fargues,36,10,Balearic islands
+1935,7,Men,Horta-Guinardó,el Carmel,37,17,Balearic islands
+1936,7,Men,Horta-Guinardó,la Teixonera,38,10,Balearic islands
+1937,7,Men,Horta-Guinardó,Sant Genís dels Agudells,39,3,Balearic islands
+1938,7,Men,Horta-Guinardó,Montbau,40,2,Balearic islands
+1939,7,Men,Horta-Guinardó,la Vall d'Hebron,41,2,Balearic islands
+1940,7,Men,Horta-Guinardó,la Clota,42,1,Balearic islands
+1941,7,Men,Horta-Guinardó,Horta,43,17,Balearic islands
+1942,8,Men,Nou Barris,Vilapicina i la Torre Llobeta,44,28,Balearic islands
+1943,8,Men,Nou Barris,Porta,45,15,Balearic islands
+1944,8,Men,Nou Barris,el Turó de la Peira,46,7,Balearic islands
+1945,8,Men,Nou Barris,Can Peguera,47,1,Balearic islands
+1946,8,Men,Nou Barris,la Guineueta,48,9,Balearic islands
+1947,8,Men,Nou Barris,Canyelles,49,6,Balearic islands
+1948,8,Men,Nou Barris,Verdun,51,10,Balearic islands
+1949,8,Men,Nou Barris,la Prosperitat,52,10,Balearic islands
+1950,8,Men,Nou Barris,la Trinitat Nova,53,3,Balearic islands
+1951,8,Men,Nou Barris,Torre Baró,54,5,Balearic islands
+1952,8,Men,Nou Barris,Ciutat Meridiana,55,8,Balearic islands
+1953,8,Men,Nou Barris,Vallbona,56,1,Balearic islands
+1954,9,Men,Sant Andreu,la Trinitat Vella,57,3,Balearic islands
+1955,9,Men,Sant Andreu,Baró de Viver,58,2,Balearic islands
+1956,9,Men,Sant Andreu,el Bon Pastor,59,7,Balearic islands
+1957,9,Men,Sant Andreu,Sant Andreu,60,59,Balearic islands
+1958,9,Men,Sant Andreu,la Sagrera,61,24,Balearic islands
+1959,9,Men,Sant Andreu,el Congrés i els Indians,62,12,Balearic islands
+1960,9,Men,Sant Andreu,Navas,63,20,Balearic islands
+1961,10,Men,Sant Martí,el Camp de l'Arpa del Clot,64,45,Balearic islands
+1962,10,Men,Sant Martí,el Clot,65,22,Balearic islands
+1963,10,Men,Sant Martí,el Parc i la Llacuna del Poblenou,66,16,Balearic islands
+1964,10,Men,Sant Martí,la Vila Olímpica del Poblenou,67,14,Balearic islands
+1965,10,Men,Sant Martí,el Poblenou,68,40,Balearic islands
+1966,10,Men,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,69,15,Balearic islands
+1967,10,Men,Sant Martí,el Besòs i el Maresme,70,15,Balearic islands
+1968,10,Men,Sant Martí,Provençals del Poblenou,71,10,Balearic islands
+1969,10,Men,Sant Martí,Sant Martí de Provençals,72,19,Balearic islands
+1970,10,Men,Sant Martí,la Verneda i la Pau,73,9,Balearic islands
+1971,1,Men,Ciutat Vella,el Raval,1,46,Canary Islands
+1972,1,Men,Ciutat Vella,el Barri Gòtic,2,15,Canary Islands
+1973,1,Men,Ciutat Vella,la Barceloneta,3,4,Canary Islands
+1974,1,Men,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",4,15,Canary Islands
+1975,2,Men,Eixample,el Fort Pienc,5,32,Canary Islands
+1976,2,Men,Eixample,la Sagrada Família,6,49,Canary Islands
+1977,2,Men,Eixample,la Dreta de l'Eixample,7,49,Canary Islands
+1978,2,Men,Eixample,l'Antiga Esquerra de l'Eixample,8,39,Canary Islands
+1979,2,Men,Eixample,la Nova Esquerra de l'Eixample,9,53,Canary Islands
+1980,2,Men,Eixample,Sant Antoni,10,48,Canary Islands
+1981,3,Men,Sants-Montjuïc,el Poble Sec,11,33,Canary Islands
+1982,3,Men,Sants-Montjuïc,la Marina del Prat Vermell,12,1,Canary Islands
+1983,3,Men,Sants-Montjuïc,la Marina de Port,13,19,Canary Islands
+1984,3,Men,Sants-Montjuïc,la Font de la Guatlla,14,12,Canary Islands
+1985,3,Men,Sants-Montjuïc,Hostafrancs,15,11,Canary Islands
+1986,3,Men,Sants-Montjuïc,la Bordeta,16,15,Canary Islands
+1987,3,Men,Sants-Montjuïc,Sants - Badal,17,23,Canary Islands
+1988,3,Men,Sants-Montjuïc,Sants,18,23,Canary Islands
+1989,4,Men,Les Corts,les Corts,19,38,Canary Islands
+1990,4,Men,Les Corts,la Maternitat i Sant Ramon,20,25,Canary Islands
+1991,4,Men,Les Corts,Pedralbes,21,9,Canary Islands
+1992,5,Men,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",22,1,Canary Islands
+1993,5,Men,Sarrià-Sant Gervasi,Sarrià,23,20,Canary Islands
+1994,5,Men,Sarrià-Sant Gervasi,les Tres Torres,24,15,Canary Islands
+1995,5,Men,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,25,27,Canary Islands
+1996,5,Men,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,26,34,Canary Islands
+1997,5,Men,Sarrià-Sant Gervasi,el Putxet i el Farró,27,14,Canary Islands
+1998,6,Men,Gràcia,Vallcarca i els Penitents,28,15,Canary Islands
+1999,6,Men,Gràcia,el Coll,29,7,Canary Islands
+2000,6,Men,Gràcia,la Salut,30,9,Canary Islands
+2001,6,Men,Gràcia,la Vila de Gràcia,31,32,Canary Islands
+2002,6,Men,Gràcia,el Camp d'en Grassot i Gràcia Nova,32,29,Canary Islands
+2003,7,Men,Horta-Guinardó,el Baix Guinardó,33,17,Canary Islands
+2004,7,Men,Horta-Guinardó,Can Baró,34,6,Canary Islands
+2005,7,Men,Horta-Guinardó,el Guinardó,35,26,Canary Islands
+2006,7,Men,Horta-Guinardó,la Font d'en Fargues,36,4,Canary Islands
+2007,7,Men,Horta-Guinardó,el Carmel,37,20,Canary Islands
+2008,7,Men,Horta-Guinardó,la Teixonera,38,10,Canary Islands
+2009,7,Men,Horta-Guinardó,Sant Genís dels Agudells,39,4,Canary Islands
+2010,7,Men,Horta-Guinardó,Montbau,40,2,Canary Islands
+2011,7,Men,Horta-Guinardó,la Vall d'Hebron,41,4,Canary Islands
+2012,7,Men,Horta-Guinardó,la Clota,42,2,Canary Islands
+2013,7,Men,Horta-Guinardó,Horta,43,10,Canary Islands
+2014,8,Men,Nou Barris,Vilapicina i la Torre Llobeta,44,24,Canary Islands
+2015,8,Men,Nou Barris,Porta,45,13,Canary Islands
+2016,8,Men,Nou Barris,el Turó de la Peira,46,7,Canary Islands
+2017,8,Men,Nou Barris,Can Peguera,47,2,Canary Islands
+2018,8,Men,Nou Barris,la Guineueta,48,8,Canary Islands
+2019,8,Men,Nou Barris,Canyelles,49,3,Canary Islands
+2020,8,Men,Nou Barris,les Roquetes,50,9,Canary Islands
+2021,8,Men,Nou Barris,Verdun,51,9,Canary Islands
+2022,8,Men,Nou Barris,la Prosperitat,52,8,Canary Islands
+2023,8,Men,Nou Barris,la Trinitat Nova,53,3,Canary Islands
+2024,8,Men,Nou Barris,Torre Baró,54,0,Canary Islands
+2025,8,Men,Nou Barris,Ciutat Meridiana,55,6,Canary Islands
+2026,8,Men,Nou Barris,Vallbona,56,1,Canary Islands
+2027,9,Men,Sant Andreu,la Trinitat Vella,57,1,Canary Islands
+2028,9,Men,Sant Andreu,Baró de Viver,58,2,Canary Islands
+2029,9,Men,Sant Andreu,el Bon Pastor,59,6,Canary Islands
+2030,9,Men,Sant Andreu,Sant Andreu,60,36,Canary Islands
+2031,9,Men,Sant Andreu,la Sagrera,61,17,Canary Islands
+2032,9,Men,Sant Andreu,el Congrés i els Indians,62,10,Canary Islands
+2033,9,Men,Sant Andreu,Navas,63,17,Canary Islands
+2034,10,Men,Sant Martí,el Camp de l'Arpa del Clot,64,28,Canary Islands
+2035,10,Men,Sant Martí,el Clot,65,20,Canary Islands
+2036,10,Men,Sant Martí,el Parc i la Llacuna del Poblenou,66,17,Canary Islands
+2037,10,Men,Sant Martí,la Vila Olímpica del Poblenou,67,14,Canary Islands
+2038,10,Men,Sant Martí,el Poblenou,68,18,Canary Islands
+2039,10,Men,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,69,3,Canary Islands
+2040,10,Men,Sant Martí,el Besòs i el Maresme,70,10,Canary Islands
+2041,10,Men,Sant Martí,Provençals del Poblenou,71,13,Canary Islands
+2042,10,Men,Sant Martí,Sant Martí de Provençals,72,14,Canary Islands
+2043,10,Men,Sant Martí,la Verneda i la Pau,73,20,Canary Islands
+2044,1,Men,Ciutat Vella,el Raval,1,26,Cantabria
+2045,1,Men,Ciutat Vella,el Barri Gòtic,2,11,Cantabria
+2046,1,Men,Ciutat Vella,la Barceloneta,3,6,Cantabria
+2047,1,Men,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",4,20,Cantabria
+2048,2,Men,Eixample,el Fort Pienc,5,25,Cantabria
+2049,2,Men,Eixample,la Sagrada Família,6,24,Cantabria
+2050,2,Men,Eixample,la Dreta de l'Eixample,7,34,Cantabria
+2051,2,Men,Eixample,l'Antiga Esquerra de l'Eixample,8,37,Cantabria
+2052,2,Men,Eixample,la Nova Esquerra de l'Eixample,9,49,Cantabria
+2053,2,Men,Eixample,Sant Antoni,10,32,Cantabria
+2054,3,Men,Sants-Montjuïc,el Poble Sec,11,30,Cantabria
+2055,3,Men,Sants-Montjuïc,la Marina del Prat Vermell,12,0,Cantabria
+2056,3,Men,Sants-Montjuïc,la Marina de Port,13,18,Cantabria
+2057,3,Men,Sants-Montjuïc,la Font de la Guatlla,14,10,Cantabria
+2058,3,Men,Sants-Montjuïc,Hostafrancs,15,15,Cantabria
+2059,3,Men,Sants-Montjuïc,la Bordeta,16,14,Cantabria
+2060,3,Men,Sants-Montjuïc,Sants - Badal,17,10,Cantabria
+2061,3,Men,Sants-Montjuïc,Sants,18,37,Cantabria
+2062,4,Men,Les Corts,les Corts,19,44,Cantabria
+2063,4,Men,Les Corts,la Maternitat i Sant Ramon,20,24,Cantabria
+2064,4,Men,Les Corts,Pedralbes,21,8,Cantabria
+2065,5,Men,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",22,3,Cantabria
+2066,5,Men,Sarrià-Sant Gervasi,Sarrià,23,18,Cantabria
+2067,5,Men,Sarrià-Sant Gervasi,les Tres Torres,24,13,Cantabria
+2068,5,Men,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,25,17,Cantabria
+2069,5,Men,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,26,45,Cantabria
+2070,5,Men,Sarrià-Sant Gervasi,el Putxet i el Farró,27,28,Cantabria
+2071,6,Men,Gràcia,Vallcarca i els Penitents,28,5,Cantabria
+2072,6,Men,Gràcia,el Coll,29,6,Cantabria
+2073,6,Men,Gràcia,la Salut,30,6,Cantabria
+2074,6,Men,Gràcia,la Vila de Gràcia,31,44,Cantabria
+2075,6,Men,Gràcia,el Camp d'en Grassot i Gràcia Nova,32,26,Cantabria
+2076,8,Men,Nou Barris,Verdun,51,126,Castile and Leon
+2077,7,Men,Horta-Guinardó,el Baix Guinardó,33,19,Cantabria
+2078,7,Men,Horta-Guinardó,Can Baró,34,5,Cantabria
+2079,7,Men,Horta-Guinardó,el Guinardó,35,15,Cantabria
+2080,7,Men,Horta-Guinardó,la Font d'en Fargues,36,4,Cantabria
+2081,7,Men,Horta-Guinardó,el Carmel,37,5,Cantabria
+2082,7,Men,Horta-Guinardó,la Teixonera,38,4,Cantabria
+2083,7,Men,Horta-Guinardó,Sant Genís dels Agudells,39,6,Cantabria
+2084,7,Men,Horta-Guinardó,Montbau,40,4,Cantabria
+2085,7,Men,Horta-Guinardó,la Vall d'Hebron,41,4,Cantabria
+2086,7,Men,Horta-Guinardó,la Clota,42,0,Cantabria
+2087,7,Men,Horta-Guinardó,Horta,43,6,Cantabria
+2088,8,Men,Nou Barris,Vilapicina i la Torre Llobeta,44,11,Cantabria
+2089,8,Men,Nou Barris,Porta,45,12,Cantabria
+2090,8,Men,Nou Barris,el Turó de la Peira,46,6,Cantabria
+2091,8,Men,Nou Barris,Can Peguera,47,1,Cantabria
+2092,8,Men,Nou Barris,la Guineueta,48,7,Cantabria
+2093,8,Men,Nou Barris,Canyelles,49,0,Cantabria
+2094,8,Men,Nou Barris,les Roquetes,50,9,Cantabria
+2095,8,Men,Nou Barris,Verdun,51,2,Cantabria
+2096,8,Men,Nou Barris,la Prosperitat,52,7,Cantabria
+2097,8,Men,Nou Barris,la Trinitat Nova,53,0,Cantabria
+2098,8,Men,Nou Barris,Torre Baró,54,1,Cantabria
+2099,8,Men,Nou Barris,Ciutat Meridiana,55,2,Cantabria
+2100,8,Men,Nou Barris,Vallbona,56,1,Cantabria
+2101,9,Men,Sant Andreu,la Trinitat Vella,57,5,Cantabria
+2102,9,Men,Sant Andreu,Baró de Viver,58,1,Cantabria
+2103,9,Men,Sant Andreu,el Bon Pastor,59,2,Cantabria
+2104,9,Men,Sant Andreu,Sant Andreu,60,27,Cantabria
+2105,9,Men,Sant Andreu,la Sagrera,61,5,Cantabria
+2106,9,Men,Sant Andreu,el Congrés i els Indians,62,9,Cantabria
+2107,9,Men,Sant Andreu,Navas,63,11,Cantabria
+2108,10,Men,Sant Martí,el Camp de l'Arpa del Clot,64,19,Cantabria
+2109,10,Men,Sant Martí,el Clot,65,22,Cantabria
+2110,10,Men,Sant Martí,el Parc i la Llacuna del Poblenou,66,18,Cantabria
+2111,10,Men,Sant Martí,la Vila Olímpica del Poblenou,67,14,Cantabria
+2112,10,Men,Sant Martí,el Poblenou,68,15,Cantabria
+2113,10,Men,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,69,10,Cantabria
+2114,10,Men,Sant Martí,el Besòs i el Maresme,70,7,Cantabria
+2115,10,Men,Sant Martí,Provençals del Poblenou,71,17,Cantabria
+2116,10,Men,Sant Martí,Sant Martí de Provençals,72,14,Cantabria
+2117,10,Men,Sant Martí,la Verneda i la Pau,73,18,Cantabria
+2118,1,Men,Ciutat Vella,el Raval,1,242,Castile and Leon
+2119,1,Men,Ciutat Vella,el Barri Gòtic,2,113,Castile and Leon
+2120,1,Men,Ciutat Vella,la Barceloneta,3,64,Castile and Leon
+2121,1,Men,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",4,129,Castile and Leon
+2122,2,Men,Eixample,el Fort Pienc,5,298,Castile and Leon
+2123,2,Men,Eixample,la Sagrada Família,6,442,Castile and Leon
+2124,2,Men,Eixample,la Dreta de l'Eixample,7,274,Castile and Leon
+2125,2,Men,Eixample,l'Antiga Esquerra de l'Eixample,8,251,Castile and Leon
+2126,2,Men,Eixample,la Nova Esquerra de l'Eixample,9,521,Castile and Leon
+2127,2,Men,Eixample,Sant Antoni,10,285,Castile and Leon
+2128,3,Men,Sants-Montjuïc,el Poble Sec,11,264,Castile and Leon
+2129,3,Men,Sants-Montjuïc,la Marina del Prat Vermell,12,5,Castile and Leon
+2130,3,Men,Sants-Montjuïc,la Marina de Port,13,371,Castile and Leon
+2131,3,Men,Sants-Montjuïc,la Font de la Guatlla,14,142,Castile and Leon
+2132,3,Men,Sants-Montjuïc,Hostafrancs,15,168,Castile and Leon
+2133,3,Men,Sants-Montjuïc,la Bordeta,16,201,Castile and Leon
+2134,3,Men,Sants-Montjuïc,Sants - Badal,17,270,Castile and Leon
+2135,3,Men,Sants-Montjuïc,Sants,18,365,Castile and Leon
+2136,4,Men,Les Corts,les Corts,19,476,Castile and Leon
+2137,4,Men,Les Corts,la Maternitat i Sant Ramon,20,296,Castile and Leon
+2138,4,Men,Les Corts,Pedralbes,21,83,Castile and Leon
+2139,8,Men,Nou Barris,la Prosperitat,52,414,Castile and Leon
+2140,5,Men,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",22,15,Castile and Leon
+2141,5,Men,Sarrià-Sant Gervasi,Sarrià,23,105,Castile and Leon
+2142,5,Men,Sarrià-Sant Gervasi,les Tres Torres,24,96,Castile and Leon
+2143,5,Men,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,25,130,Castile and Leon
+2144,5,Men,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,26,185,Castile and Leon
+2145,5,Men,Sarrià-Sant Gervasi,el Putxet i el Farró,27,139,Castile and Leon
+2146,6,Men,Gràcia,Vallcarca i els Penitents,28,142,Castile and Leon
+2147,6,Men,Gràcia,el Coll,29,72,Castile and Leon
+2148,6,Men,Gràcia,la Salut,30,110,Castile and Leon
+2149,6,Men,Gràcia,la Vila de Gràcia,31,277,Castile and Leon
+2150,6,Men,Gràcia,el Camp d'en Grassot i Gràcia Nova,32,282,Castile and Leon
+2151,7,Men,Horta-Guinardó,el Baix Guinardó,33,242,Castile and Leon
+2152,7,Men,Horta-Guinardó,Can Baró,34,110,Castile and Leon
+2153,7,Men,Horta-Guinardó,el Guinardó,35,371,Castile and Leon
+2154,7,Men,Horta-Guinardó,la Font d'en Fargues,36,109,Castile and Leon
+2155,7,Men,Horta-Guinardó,el Carmel,37,368,Castile and Leon
+2156,7,Men,Horta-Guinardó,la Teixonera,38,134,Castile and Leon
+2157,7,Men,Horta-Guinardó,Sant Genís dels Agudells,39,88,Castile and Leon
+2158,7,Men,Horta-Guinardó,Montbau,40,53,Castile and Leon
+2159,7,Men,Horta-Guinardó,la Vall d'Hebron,41,125,Castile and Leon
+2160,7,Men,Horta-Guinardó,la Clota,42,0,Castile and Leon
+2161,7,Men,Horta-Guinardó,Horta,43,343,Castile and Leon
+2162,8,Men,Nou Barris,Vilapicina i la Torre Llobeta,44,395,Castile and Leon
+2163,8,Men,Nou Barris,Porta,45,407,Castile and Leon
+2164,8,Men,Nou Barris,el Turó de la Peira,46,164,Castile and Leon
+2165,8,Men,Nou Barris,Can Peguera,47,8,Castile and Leon
+2166,8,Men,Nou Barris,la Guineueta,48,245,Castile and Leon
+2167,8,Men,Nou Barris,Canyelles,49,126,Castile and Leon
+2168,8,Men,Nou Barris,les Roquetes,50,133,Castile and Leon
+2169,8,Men,Nou Barris,la Trinitat Nova,53,37,Castile and Leon
+2170,8,Men,Nou Barris,Torre Baró,54,11,Castile and Leon
+2171,8,Men,Nou Barris,Ciutat Meridiana,55,101,Castile and Leon
+2172,8,Men,Nou Barris,Vallbona,56,4,Castile and Leon
+2173,9,Men,Sant Andreu,la Trinitat Vella,57,65,Castile and Leon
+2174,9,Men,Sant Andreu,Baró de Viver,58,5,Castile and Leon
+2175,9,Men,Sant Andreu,el Bon Pastor,59,110,Castile and Leon
+2176,9,Men,Sant Andreu,Sant Andreu,60,798,Castile and Leon
+2177,9,Men,Sant Andreu,la Sagrera,61,477,Castile and Leon
+2178,9,Men,Sant Andreu,el Congrés i els Indians,62,155,Castile and Leon
+2179,9,Men,Sant Andreu,Navas,63,259,Castile and Leon
+2180,10,Men,Sant Martí,el Camp de l'Arpa del Clot,64,389,Castile and Leon
+2181,10,Men,Sant Martí,el Clot,65,328,Castile and Leon
+2182,10,Men,Sant Martí,el Parc i la Llacuna del Poblenou,66,183,Castile and Leon
+2183,10,Men,Sant Martí,la Vila Olímpica del Poblenou,67,80,Castile and Leon
+2184,10,Men,Sant Martí,el Poblenou,68,225,Castile and Leon
+2185,10,Men,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,69,111,Castile and Leon
+2186,10,Men,Sant Martí,el Besòs i el Maresme,70,193,Castile and Leon
+2187,10,Men,Sant Martí,Provençals del Poblenou,71,236,Castile and Leon
+2188,10,Men,Sant Martí,Sant Martí de Provençals,72,355,Castile and Leon
+2189,10,Men,Sant Martí,la Verneda i la Pau,73,497,Castile and Leon
+2190,1,Men,Ciutat Vella,el Raval,1,100,Castilla-La Mancha
+2191,1,Men,Ciutat Vella,el Barri Gòtic,2,36,Castilla-La Mancha
+2192,1,Men,Ciutat Vella,la Barceloneta,3,25,Castilla-La Mancha
+2193,1,Men,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",4,76,Castilla-La Mancha
+2194,2,Men,Eixample,el Fort Pienc,5,122,Castilla-La Mancha
+2195,2,Men,Eixample,la Sagrada Família,6,208,Castilla-La Mancha
+2196,2,Men,Eixample,la Dreta de l'Eixample,7,108,Castilla-La Mancha
+2197,2,Men,Eixample,l'Antiga Esquerra de l'Eixample,8,95,Castilla-La Mancha
+2198,2,Men,Eixample,la Nova Esquerra de l'Eixample,9,206,Castilla-La Mancha
+2199,2,Men,Eixample,Sant Antoni,10,122,Castilla-La Mancha
+2200,3,Men,Sants-Montjuïc,el Poble Sec,11,142,Castilla-La Mancha
+2201,3,Men,Sants-Montjuïc,la Marina del Prat Vermell,12,6,Castilla-La Mancha
+2202,3,Men,Sants-Montjuïc,la Marina de Port,13,201,Castilla-La Mancha
+2203,3,Men,Sants-Montjuïc,la Font de la Guatlla,14,43,Castilla-La Mancha
+2204,3,Men,Sants-Montjuïc,Hostafrancs,15,67,Castilla-La Mancha
+2205,3,Men,Sants-Montjuïc,la Bordeta,16,123,Castilla-La Mancha
+2206,3,Men,Sants-Montjuïc,Sants - Badal,17,163,Castilla-La Mancha
+2207,3,Men,Sants-Montjuïc,Sants,18,161,Castilla-La Mancha
+2208,4,Men,Les Corts,les Corts,19,160,Castilla-La Mancha
+2209,4,Men,Les Corts,la Maternitat i Sant Ramon,20,134,Castilla-La Mancha
+2210,4,Men,Les Corts,Pedralbes,21,27,Castilla-La Mancha
+2211,5,Men,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",22,23,Castilla-La Mancha
+2212,5,Men,Sarrià-Sant Gervasi,Sarrià,23,32,Castilla-La Mancha
+2213,5,Men,Sarrià-Sant Gervasi,les Tres Torres,24,20,Castilla-La Mancha
+2214,5,Men,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,25,46,Castilla-La Mancha
+2215,5,Men,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,26,59,Castilla-La Mancha
+2216,5,Men,Sarrià-Sant Gervasi,el Putxet i el Farró,27,57,Castilla-La Mancha
+2217,6,Men,Gràcia,Vallcarca i els Penitents,28,63,Castilla-La Mancha
+2218,6,Men,Gràcia,el Coll,29,54,Castilla-La Mancha
+2219,6,Men,Gràcia,la Salut,30,49,Castilla-La Mancha
+2220,6,Men,Gràcia,la Vila de Gràcia,31,138,Castilla-La Mancha
+2221,6,Men,Gràcia,el Camp d'en Grassot i Gràcia Nova,32,113,Castilla-La Mancha
+2222,7,Men,Horta-Guinardó,el Baix Guinardó,33,89,Castilla-La Mancha
+2223,7,Men,Horta-Guinardó,Can Baró,34,42,Castilla-La Mancha
+2224,7,Men,Horta-Guinardó,el Guinardó,35,150,Castilla-La Mancha
+2225,7,Men,Horta-Guinardó,la Font d'en Fargues,36,39,Castilla-La Mancha
+2226,7,Men,Horta-Guinardó,el Carmel,37,365,Castilla-La Mancha
+2227,7,Men,Horta-Guinardó,la Teixonera,38,140,Castilla-La Mancha
+2228,7,Men,Horta-Guinardó,Sant Genís dels Agudells,39,73,Castilla-La Mancha
+2229,7,Men,Horta-Guinardó,Montbau,40,29,Castilla-La Mancha
+2230,7,Men,Horta-Guinardó,la Vall d'Hebron,41,49,Castilla-La Mancha
+2231,7,Men,Horta-Guinardó,la Clota,42,3,Castilla-La Mancha
+2232,7,Men,Horta-Guinardó,Horta,43,218,Castilla-La Mancha
+2233,8,Men,Nou Barris,Vilapicina i la Torre Llobeta,44,213,Castilla-La Mancha
+2234,8,Men,Nou Barris,Porta,45,223,Castilla-La Mancha
+2235,8,Men,Nou Barris,el Turó de la Peira,46,113,Castilla-La Mancha
+2236,8,Men,Nou Barris,Can Peguera,47,4,Castilla-La Mancha
+2237,8,Men,Nou Barris,la Guineueta,48,157,Castilla-La Mancha
+2238,8,Men,Nou Barris,Canyelles,49,84,Castilla-La Mancha
+2239,8,Men,Nou Barris,les Roquetes,50,125,Castilla-La Mancha
+2240,8,Men,Nou Barris,Verdun,51,127,Castilla-La Mancha
+2241,8,Men,Nou Barris,la Prosperitat,52,305,Castilla-La Mancha
+2242,8,Men,Nou Barris,la Trinitat Nova,53,34,Castilla-La Mancha
+2243,8,Men,Nou Barris,Torre Baró,54,13,Castilla-La Mancha
+2244,8,Men,Nou Barris,Ciutat Meridiana,55,74,Castilla-La Mancha
+2245,8,Men,Nou Barris,Vallbona,56,6,Castilla-La Mancha
+2246,9,Men,Sant Andreu,la Trinitat Vella,57,47,Castilla-La Mancha
+2247,9,Men,Sant Andreu,Baró de Viver,58,10,Castilla-La Mancha
+2248,9,Men,Sant Andreu,el Bon Pastor,59,71,Castilla-La Mancha
+2249,9,Men,Sant Andreu,Sant Andreu,60,400,Castilla-La Mancha
+2250,9,Men,Sant Andreu,la Sagrera,61,248,Castilla-La Mancha
+2251,9,Men,Sant Andreu,el Congrés i els Indians,62,69,Castilla-La Mancha
+2252,9,Men,Sant Andreu,Navas,63,111,Castilla-La Mancha
+2253,10,Men,Sant Martí,el Camp de l'Arpa del Clot,64,181,Castilla-La Mancha
+2254,10,Men,Sant Martí,el Clot,65,175,Castilla-La Mancha
+2255,10,Men,Sant Martí,el Parc i la Llacuna del Poblenou,66,76,Castilla-La Mancha
+2256,10,Men,Sant Martí,la Vila Olímpica del Poblenou,67,29,Castilla-La Mancha
+2257,10,Men,Sant Martí,el Poblenou,68,134,Castilla-La Mancha
+2258,10,Men,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,69,55,Castilla-La Mancha
+2259,10,Men,Sant Martí,el Besòs i el Maresme,70,161,Castilla-La Mancha
+2260,10,Men,Sant Martí,Provençals del Poblenou,71,121,Castilla-La Mancha
+2261,10,Men,Sant Martí,Sant Martí de Provençals,72,187,Castilla-La Mancha
+2262,10,Men,Sant Martí,la Verneda i la Pau,73,356,Castilla-La Mancha
+2263,1,Men,Ciutat Vella,el Raval,1,188,Valencian Community
+2264,1,Men,Ciutat Vella,el Barri Gòtic,2,78,Valencian Community
+2265,1,Men,Ciutat Vella,la Barceloneta,3,50,Valencian Community
+2266,1,Men,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",4,117,Valencian Community
+2267,2,Men,Eixample,el Fort Pienc,5,220,Valencian Community
+2268,2,Men,Eixample,la Sagrada Família,6,266,Valencian Community
+2269,2,Men,Eixample,la Dreta de l'Eixample,7,224,Valencian Community
+2270,2,Men,Eixample,l'Antiga Esquerra de l'Eixample,8,240,Valencian Community
+2271,2,Men,Eixample,la Nova Esquerra de l'Eixample,9,345,Valencian Community
+2272,2,Men,Eixample,Sant Antoni,10,266,Valencian Community
+2273,3,Men,Sants-Montjuïc,el Poble Sec,11,213,Valencian Community
+2274,3,Men,Sants-Montjuïc,la Marina del Prat Vermell,12,1,Valencian Community
+2275,3,Men,Sants-Montjuïc,la Marina de Port,13,127,Valencian Community
+2276,3,Men,Sants-Montjuïc,la Font de la Guatlla,14,73,Valencian Community
+2277,3,Men,Sants-Montjuïc,Hostafrancs,15,108,Valencian Community
+2278,3,Men,Sants-Montjuïc,la Bordeta,16,125,Valencian Community
+2279,3,Men,Sants-Montjuïc,Sants - Badal,17,138,Valencian Community
+2280,3,Men,Sants-Montjuïc,Sants,18,274,Valencian Community
+2281,4,Men,Les Corts,les Corts,19,295,Valencian Community
+2282,4,Men,Les Corts,la Maternitat i Sant Ramon,20,148,Valencian Community
+2283,4,Men,Les Corts,Pedralbes,21,70,Valencian Community
+2284,5,Men,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",22,24,Valencian Community
+2285,5,Men,Sarrià-Sant Gervasi,Sarrià,23,115,Valencian Community
+2286,5,Men,Sarrià-Sant Gervasi,les Tres Torres,24,90,Valencian Community
+2287,5,Men,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,25,91,Valencian Community
+2288,5,Men,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,26,212,Valencian Community
+2289,5,Men,Sarrià-Sant Gervasi,el Putxet i el Farró,27,117,Valencian Community
+2290,6,Men,Gràcia,Vallcarca i els Penitents,28,72,Valencian Community
+2291,6,Men,Gràcia,el Coll,29,33,Valencian Community
+2292,6,Men,Gràcia,la Salut,30,78,Valencian Community
+2293,6,Men,Gràcia,la Vila de Gràcia,31,329,Valencian Community
+2294,6,Men,Gràcia,el Camp d'en Grassot i Gràcia Nova,32,204,Valencian Community
+2295,7,Men,Horta-Guinardó,el Baix Guinardó,33,123,Valencian Community
+2296,7,Men,Horta-Guinardó,Can Baró,34,48,Valencian Community
+2297,7,Men,Horta-Guinardó,el Guinardó,35,190,Valencian Community
+2298,7,Men,Horta-Guinardó,la Font d'en Fargues,36,48,Valencian Community
+2299,7,Men,Horta-Guinardó,el Carmel,37,90,Valencian Community
+2300,7,Men,Horta-Guinardó,la Teixonera,38,42,Valencian Community
+2301,7,Men,Horta-Guinardó,Sant Genís dels Agudells,39,27,Valencian Community
+2302,7,Men,Horta-Guinardó,Montbau,40,13,Valencian Community
+2303,7,Men,Horta-Guinardó,la Vall d'Hebron,41,39,Valencian Community
+2304,7,Men,Horta-Guinardó,la Clota,42,2,Valencian Community
+2305,7,Men,Horta-Guinardó,Horta,43,114,Valencian Community
+2306,8,Men,Nou Barris,Vilapicina i la Torre Llobeta,44,99,Valencian Community
+2307,8,Men,Nou Barris,Porta,45,100,Valencian Community
+2308,8,Men,Nou Barris,el Turó de la Peira,46,53,Valencian Community
+2309,8,Men,Nou Barris,Can Peguera,47,6,Valencian Community
+2310,8,Men,Nou Barris,la Guineueta,48,73,Valencian Community
+2311,8,Men,Nou Barris,Canyelles,49,32,Valencian Community
+2312,8,Men,Nou Barris,les Roquetes,50,38,Valencian Community
+2313,8,Men,Nou Barris,Verdun,51,40,Valencian Community
+2314,8,Men,Nou Barris,la Prosperitat,52,91,Valencian Community
+2315,8,Men,Nou Barris,la Trinitat Nova,53,16,Valencian Community
+2316,8,Men,Nou Barris,Torre Baró,54,5,Valencian Community
+2317,8,Men,Nou Barris,Ciutat Meridiana,55,22,Valencian Community
+2318,8,Men,Nou Barris,Vallbona,56,4,Valencian Community
+2319,9,Men,Sant Andreu,la Trinitat Vella,57,19,Valencian Community
+2320,9,Men,Sant Andreu,Baró de Viver,58,7,Valencian Community
+2321,9,Men,Sant Andreu,el Bon Pastor,59,52,Valencian Community
+2322,9,Men,Sant Andreu,Sant Andreu,60,262,Valencian Community
+2323,9,Men,Sant Andreu,la Sagrera,61,151,Valencian Community
+2324,9,Men,Sant Andreu,el Congrés i els Indians,62,60,Valencian Community
+2325,9,Men,Sant Andreu,Navas,63,126,Valencian Community
+2326,10,Men,Sant Martí,el Camp de l'Arpa del Clot,64,207,Valencian Community
+2327,10,Men,Sant Martí,el Clot,65,137,Valencian Community
+2328,10,Men,Sant Martí,el Parc i la Llacuna del Poblenou,66,88,Valencian Community
+2329,10,Men,Sant Martí,la Vila Olímpica del Poblenou,67,61,Valencian Community
+2330,10,Men,Sant Martí,el Poblenou,68,166,Valencian Community
+2331,10,Men,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,69,61,Valencian Community
+2332,10,Men,Sant Martí,el Besòs i el Maresme,70,67,Valencian Community
+2333,10,Men,Sant Martí,Provençals del Poblenou,71,97,Valencian Community
+2334,10,Men,Sant Martí,Sant Martí de Provençals,72,106,Valencian Community
+2335,10,Men,Sant Martí,la Verneda i la Pau,73,135,Valencian Community
+2336,1,Men,Ciutat Vella,el Raval,1,95,Extremadura
+2337,1,Men,Ciutat Vella,el Barri Gòtic,2,25,Extremadura
+2338,1,Men,Ciutat Vella,la Barceloneta,3,30,Extremadura
+2339,1,Men,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",4,46,Extremadura
+2340,2,Men,Eixample,el Fort Pienc,5,81,Extremadura
+2341,2,Men,Eixample,la Sagrada Família,6,150,Extremadura
+2342,2,Men,Eixample,la Dreta de l'Eixample,7,70,Extremadura
+2343,2,Men,Eixample,l'Antiga Esquerra de l'Eixample,8,81,Extremadura
+2344,2,Men,Eixample,la Nova Esquerra de l'Eixample,9,126,Extremadura
+2345,2,Men,Eixample,Sant Antoni,10,90,Extremadura
+2346,3,Men,Sants-Montjuïc,el Poble Sec,11,102,Extremadura
+2347,3,Men,Sants-Montjuïc,la Marina del Prat Vermell,12,0,Extremadura
+2348,3,Men,Sants-Montjuïc,la Marina de Port,13,184,Extremadura
+2349,3,Men,Sants-Montjuïc,la Font de la Guatlla,14,54,Extremadura
+2350,3,Men,Sants-Montjuïc,Hostafrancs,15,48,Extremadura
+2351,3,Men,Sants-Montjuïc,la Bordeta,16,78,Extremadura
+2352,3,Men,Sants-Montjuïc,Sants - Badal,17,112,Extremadura
+2353,3,Men,Sants-Montjuïc,Sants,18,110,Extremadura
+2354,4,Men,Les Corts,les Corts,19,85,Extremadura
+2355,4,Men,Les Corts,la Maternitat i Sant Ramon,20,97,Extremadura
+2356,4,Men,Les Corts,Pedralbes,21,10,Extremadura
+2357,5,Men,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",22,7,Extremadura
+2358,5,Men,Sarrià-Sant Gervasi,Sarrià,23,22,Extremadura
+2359,5,Men,Sarrià-Sant Gervasi,les Tres Torres,24,10,Extremadura
+2360,5,Men,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,25,30,Extremadura
+2361,5,Men,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,26,47,Extremadura
+2362,5,Men,Sarrià-Sant Gervasi,el Putxet i el Farró,27,17,Extremadura
+2363,6,Men,Gràcia,Vallcarca i els Penitents,28,34,Extremadura
+2364,6,Men,Gràcia,el Coll,29,16,Extremadura
+2365,6,Men,Gràcia,la Salut,30,31,Extremadura
+2366,6,Men,Gràcia,la Vila de Gràcia,31,99,Extremadura
+2367,6,Men,Gràcia,el Camp d'en Grassot i Gràcia Nova,32,79,Extremadura
+2368,7,Men,Horta-Guinardó,el Baix Guinardó,33,70,Extremadura
+2369,7,Men,Horta-Guinardó,Can Baró,34,37,Extremadura
+2370,7,Men,Horta-Guinardó,el Guinardó,35,109,Extremadura
+2371,7,Men,Horta-Guinardó,la Font d'en Fargues,36,43,Extremadura
+2372,7,Men,Horta-Guinardó,el Carmel,37,313,Extremadura
+2373,7,Men,Horta-Guinardó,la Teixonera,38,112,Extremadura
+2374,7,Men,Horta-Guinardó,Sant Genís dels Agudells,39,38,Extremadura
+2375,7,Men,Horta-Guinardó,Montbau,40,23,Extremadura
+2376,7,Men,Horta-Guinardó,la Vall d'Hebron,41,25,Extremadura
+2377,7,Men,Horta-Guinardó,la Clota,42,1,Extremadura
+2378,7,Men,Horta-Guinardó,Horta,43,119,Extremadura
+2379,8,Men,Nou Barris,Vilapicina i la Torre Llobeta,44,129,Extremadura
+2380,8,Men,Nou Barris,Porta,45,138,Extremadura
+2381,8,Men,Nou Barris,el Turó de la Peira,46,55,Extremadura
+2382,8,Men,Nou Barris,Can Peguera,47,6,Extremadura
+2383,8,Men,Nou Barris,la Guineueta,48,89,Extremadura
+2384,8,Men,Nou Barris,Canyelles,49,58,Extremadura
+2385,8,Men,Nou Barris,les Roquetes,50,120,Extremadura
+2386,8,Men,Nou Barris,Verdun,51,83,Extremadura
+2387,8,Men,Nou Barris,la Prosperitat,52,240,Extremadura
+2388,8,Men,Nou Barris,la Trinitat Nova,53,36,Extremadura
+2389,8,Men,Nou Barris,Torre Baró,54,26,Extremadura
+2390,8,Men,Nou Barris,Ciutat Meridiana,55,120,Extremadura
+2391,8,Men,Nou Barris,Vallbona,56,15,Extremadura
+2392,9,Men,Sant Andreu,la Trinitat Vella,57,63,Extremadura
+2393,9,Men,Sant Andreu,Baró de Viver,58,10,Extremadura
+2394,9,Men,Sant Andreu,el Bon Pastor,59,77,Extremadura
+2395,9,Men,Sant Andreu,Sant Andreu,60,353,Extremadura
+2396,9,Men,Sant Andreu,la Sagrera,61,149,Extremadura
+2397,9,Men,Sant Andreu,el Congrés i els Indians,62,45,Extremadura
+2398,9,Men,Sant Andreu,Navas,63,91,Extremadura
+2399,10,Men,Sant Martí,el Camp de l'Arpa del Clot,64,132,Extremadura
+2400,10,Men,Sant Martí,el Clot,65,126,Extremadura
+2401,10,Men,Sant Martí,el Parc i la Llacuna del Poblenou,66,57,Extremadura
+2402,10,Men,Sant Martí,la Vila Olímpica del Poblenou,67,19,Extremadura
+2403,10,Men,Sant Martí,el Poblenou,68,89,Extremadura
+2404,10,Men,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,69,59,Extremadura
+2405,10,Men,Sant Martí,el Besòs i el Maresme,70,130,Extremadura
+2406,10,Men,Sant Martí,Provençals del Poblenou,71,107,Extremadura
+2407,10,Men,Sant Martí,Sant Martí de Provençals,72,187,Extremadura
+2408,10,Men,Sant Martí,la Verneda i la Pau,73,240,Extremadura
+2409,1,Men,Ciutat Vella,el Raval,1,295,Galicia
+2410,1,Men,Ciutat Vella,el Barri Gòtic,2,102,Galicia
+2411,1,Men,Ciutat Vella,la Barceloneta,3,91,Galicia
+2412,1,Men,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",4,169,Galicia
+2413,2,Men,Eixample,el Fort Pienc,5,194,Galicia
+2414,2,Men,Eixample,la Sagrada Família,6,302,Galicia
+2415,2,Men,Eixample,la Dreta de l'Eixample,7,188,Galicia
+2416,2,Men,Eixample,l'Antiga Esquerra de l'Eixample,8,232,Galicia
+2417,2,Men,Eixample,la Nova Esquerra de l'Eixample,9,323,Galicia
+2418,2,Men,Eixample,Sant Antoni,10,218,Galicia
+2419,3,Men,Sants-Montjuïc,el Poble Sec,11,336,Galicia
+2420,3,Men,Sants-Montjuïc,la Marina del Prat Vermell,12,6,Galicia
+2421,3,Men,Sants-Montjuïc,la Marina de Port,13,299,Galicia
+2422,3,Men,Sants-Montjuïc,la Font de la Guatlla,14,118,Galicia
+2423,3,Men,Sants-Montjuïc,Hostafrancs,15,123,Galicia
+2424,3,Men,Sants-Montjuïc,la Bordeta,16,170,Galicia
+2425,3,Men,Sants-Montjuïc,Sants - Badal,17,196,Galicia
+2426,3,Men,Sants-Montjuïc,Sants,18,272,Galicia
+2427,4,Men,Les Corts,les Corts,19,248,Galicia
+2428,4,Men,Les Corts,la Maternitat i Sant Ramon,20,184,Galicia
+2429,4,Men,Les Corts,Pedralbes,21,61,Galicia
+2430,5,Men,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",22,10,Galicia
+2431,5,Men,Sarrià-Sant Gervasi,Sarrià,23,57,Galicia
+2432,5,Men,Sarrià-Sant Gervasi,les Tres Torres,24,52,Galicia
+2433,5,Men,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,25,91,Galicia
+2434,5,Men,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,26,119,Galicia
+2435,5,Men,Sarrià-Sant Gervasi,el Putxet i el Farró,27,123,Galicia
+2436,6,Men,Gràcia,Vallcarca i els Penitents,28,85,Galicia
+2437,6,Men,Gràcia,el Coll,29,56,Galicia
+2438,6,Men,Gràcia,la Salut,30,87,Galicia
+2439,6,Men,Gràcia,la Vila de Gràcia,31,268,Galicia
+2440,6,Men,Gràcia,el Camp d'en Grassot i Gràcia Nova,32,168,Galicia
+2441,7,Men,Horta-Guinardó,el Baix Guinardó,33,166,Galicia
+2442,7,Men,Horta-Guinardó,Can Baró,34,62,Galicia
+2443,7,Men,Horta-Guinardó,el Guinardó,35,256,Galicia
+2444,7,Men,Horta-Guinardó,la Font d'en Fargues,36,53,Galicia
+2445,7,Men,Horta-Guinardó,el Carmel,37,322,Galicia
+2446,7,Men,Horta-Guinardó,la Teixonera,38,88,Galicia
+2447,7,Men,Horta-Guinardó,Sant Genís dels Agudells,39,59,Galicia
+2448,7,Men,Horta-Guinardó,Montbau,40,25,Galicia
+2449,7,Men,Horta-Guinardó,la Vall d'Hebron,41,60,Galicia
+2450,7,Men,Horta-Guinardó,la Clota,42,4,Galicia
+2451,7,Men,Horta-Guinardó,Horta,43,204,Galicia
+2452,8,Men,Nou Barris,Vilapicina i la Torre Llobeta,44,238,Galicia
+2453,8,Men,Nou Barris,Porta,45,285,Galicia
+2454,8,Men,Nou Barris,el Turó de la Peira,46,75,Galicia
+2455,8,Men,Nou Barris,Can Peguera,47,6,Galicia
+2456,8,Men,Nou Barris,la Guineueta,48,137,Galicia
+2457,8,Men,Nou Barris,Canyelles,49,62,Galicia
+2458,8,Men,Nou Barris,les Roquetes,50,103,Galicia
+2459,8,Men,Nou Barris,Verdun,51,116,Galicia
+2460,8,Men,Nou Barris,la Prosperitat,52,326,Galicia
+2461,8,Men,Nou Barris,la Trinitat Nova,53,36,Galicia
+2462,8,Men,Nou Barris,Torre Baró,54,16,Galicia
+2463,8,Men,Nou Barris,Ciutat Meridiana,55,64,Galicia
+2464,8,Men,Nou Barris,Vallbona,56,13,Galicia
+2465,9,Men,Sant Andreu,la Trinitat Vella,57,61,Galicia
+2466,9,Men,Sant Andreu,Baró de Viver,58,7,Galicia
+2467,9,Men,Sant Andreu,el Bon Pastor,59,43,Galicia
+2468,9,Men,Sant Andreu,Sant Andreu,60,401,Galicia
+2469,9,Men,Sant Andreu,la Sagrera,61,236,Galicia
+2470,9,Men,Sant Andreu,el Congrés i els Indians,62,73,Galicia
+2471,9,Men,Sant Andreu,Navas,63,146,Galicia
+2472,10,Men,Sant Martí,el Camp de l'Arpa del Clot,64,252,Galicia
+2473,10,Men,Sant Martí,el Clot,65,191,Galicia
+2474,10,Men,Sant Martí,el Parc i la Llacuna del Poblenou,66,121,Galicia
+2475,10,Men,Sant Martí,la Vila Olímpica del Poblenou,67,54,Galicia
+2476,10,Men,Sant Martí,el Poblenou,68,159,Galicia
+2477,10,Men,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,69,79,Galicia
+2478,10,Men,Sant Martí,el Besòs i el Maresme,70,177,Galicia
+2479,10,Men,Sant Martí,Provençals del Poblenou,71,146,Galicia
+2480,10,Men,Sant Martí,Sant Martí de Provençals,72,221,Galicia
+2481,10,Men,Sant Martí,la Verneda i la Pau,73,285,Galicia
+2482,1,Men,Ciutat Vella,el Raval,1,147,Community of Madrid
+2483,1,Men,Ciutat Vella,el Barri Gòtic,2,61,Community of Madrid
+2484,1,Men,Ciutat Vella,la Barceloneta,3,41,Community of Madrid
+2485,1,Men,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",4,102,Community of Madrid
+2486,2,Men,Eixample,el Fort Pienc,5,157,Community of Madrid
+2487,2,Men,Eixample,la Sagrada Família,6,187,Community of Madrid
+2488,2,Men,Eixample,la Dreta de l'Eixample,7,243,Community of Madrid
+2489,2,Men,Eixample,l'Antiga Esquerra de l'Eixample,8,221,Community of Madrid
+2490,2,Men,Eixample,la Nova Esquerra de l'Eixample,9,286,Community of Madrid
+2491,2,Men,Eixample,Sant Antoni,10,155,Community of Madrid
+2492,3,Men,Sants-Montjuïc,el Poble Sec,11,142,Community of Madrid
+2493,3,Men,Sants-Montjuïc,la Marina del Prat Vermell,12,6,Community of Madrid
+2494,3,Men,Sants-Montjuïc,la Marina de Port,13,106,Community of Madrid
+2495,3,Men,Sants-Montjuïc,la Font de la Guatlla,14,44,Community of Madrid
+2496,3,Men,Sants-Montjuïc,Hostafrancs,15,88,Community of Madrid
+2497,3,Men,Sants-Montjuïc,la Bordeta,16,55,Community of Madrid
+2498,3,Men,Sants-Montjuïc,Sants - Badal,17,80,Community of Madrid
+2499,3,Men,Sants-Montjuïc,Sants,18,174,Community of Madrid
+2500,4,Men,Les Corts,les Corts,19,245,Community of Madrid
+2501,4,Men,Les Corts,la Maternitat i Sant Ramon,20,105,Community of Madrid
+2502,4,Men,Les Corts,Pedralbes,21,103,Community of Madrid
+2503,5,Men,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",22,20,Community of Madrid
+2504,5,Men,Sarrià-Sant Gervasi,Sarrià,23,119,Community of Madrid
+2505,5,Men,Sarrià-Sant Gervasi,les Tres Torres,24,133,Community of Madrid
+2506,5,Men,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,25,135,Community of Madrid
+2507,5,Men,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,26,262,Community of Madrid
+2508,5,Men,Sarrià-Sant Gervasi,el Putxet i el Farró,27,153,Community of Madrid
+2509,6,Men,Gràcia,Vallcarca i els Penitents,28,57,Community of Madrid
+2510,6,Men,Gràcia,el Coll,29,26,Community of Madrid
+2511,6,Men,Gràcia,la Salut,30,54,Community of Madrid
+2512,6,Men,Gràcia,la Vila de Gràcia,31,214,Community of Madrid
+2513,6,Men,Gràcia,el Camp d'en Grassot i Gràcia Nova,32,155,Community of Madrid
+2514,7,Men,Horta-Guinardó,el Baix Guinardó,33,101,Community of Madrid
+2515,7,Men,Horta-Guinardó,Can Baró,34,39,Community of Madrid
+2516,7,Men,Horta-Guinardó,el Guinardó,35,119,Community of Madrid
+2517,7,Men,Horta-Guinardó,la Font d'en Fargues,36,27,Community of Madrid
+2518,7,Men,Horta-Guinardó,el Carmel,37,80,Community of Madrid
+2519,7,Men,Horta-Guinardó,la Teixonera,38,27,Community of Madrid
+2520,7,Men,Horta-Guinardó,Sant Genís dels Agudells,39,23,Community of Madrid
+2521,7,Men,Horta-Guinardó,Montbau,40,18,Community of Madrid
+2522,8,Men,Nou Barris,Torre Baró,54,4,Region of Murcia
+2523,7,Men,Horta-Guinardó,la Vall d'Hebron,41,20,Community of Madrid
+2524,7,Men,Horta-Guinardó,la Clota,42,4,Community of Madrid
+2525,7,Men,Horta-Guinardó,Horta,43,73,Community of Madrid
+2526,8,Men,Nou Barris,Vilapicina i la Torre Llobeta,44,78,Community of Madrid
+2527,8,Men,Nou Barris,Porta,45,74,Community of Madrid
+2528,8,Men,Nou Barris,el Turó de la Peira,46,29,Community of Madrid
+2529,8,Men,Nou Barris,Can Peguera,47,8,Community of Madrid
+2530,8,Men,Nou Barris,la Guineueta,48,41,Community of Madrid
+2531,8,Men,Nou Barris,Canyelles,49,18,Community of Madrid
+2532,8,Men,Nou Barris,les Roquetes,50,40,Community of Madrid
+2533,8,Men,Nou Barris,Verdun,51,26,Community of Madrid
+2534,8,Men,Nou Barris,la Prosperitat,52,57,Community of Madrid
+2535,8,Men,Nou Barris,la Trinitat Nova,53,15,Community of Madrid
+2536,8,Men,Nou Barris,Torre Baró,54,12,Community of Madrid
+2537,8,Men,Nou Barris,Ciutat Meridiana,55,21,Community of Madrid
+2538,8,Men,Nou Barris,Vallbona,56,2,Community of Madrid
+2539,9,Men,Sant Andreu,la Trinitat Vella,57,17,Community of Madrid
+2540,9,Men,Sant Andreu,Baró de Viver,58,5,Community of Madrid
+2541,9,Men,Sant Andreu,el Bon Pastor,59,36,Community of Madrid
+2542,9,Men,Sant Andreu,Sant Andreu,60,160,Community of Madrid
+2543,9,Men,Sant Andreu,la Sagrera,61,103,Community of Madrid
+2544,9,Men,Sant Andreu,el Congrés i els Indians,62,41,Community of Madrid
+2545,9,Men,Sant Andreu,Navas,63,78,Community of Madrid
+2546,10,Men,Sant Martí,el Camp de l'Arpa del Clot,64,135,Community of Madrid
+2547,10,Men,Sant Martí,el Clot,65,100,Community of Madrid
+2548,10,Men,Sant Martí,el Parc i la Llacuna del Poblenou,66,76,Community of Madrid
+2549,10,Men,Sant Martí,la Vila Olímpica del Poblenou,67,49,Community of Madrid
+2550,10,Men,Sant Martí,el Poblenou,68,127,Community of Madrid
+2551,10,Men,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,69,79,Community of Madrid
+2552,10,Men,Sant Martí,el Besòs i el Maresme,70,50,Community of Madrid
+2553,10,Men,Sant Martí,Provençals del Poblenou,71,96,Community of Madrid
+2554,10,Men,Sant Martí,Sant Martí de Provençals,72,80,Community of Madrid
+2555,10,Men,Sant Martí,la Verneda i la Pau,73,77,Community of Madrid
+2556,1,Men,Ciutat Vella,el Raval,1,59,Region of Murcia
+2557,1,Men,Ciutat Vella,el Barri Gòtic,2,24,Region of Murcia
+2558,1,Men,Ciutat Vella,la Barceloneta,3,19,Region of Murcia
+2559,1,Men,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",4,36,Region of Murcia
+2560,2,Men,Eixample,el Fort Pienc,5,53,Region of Murcia
+2561,2,Men,Eixample,la Sagrada Família,6,105,Region of Murcia
+2562,2,Men,Eixample,la Dreta de l'Eixample,7,60,Region of Murcia
+2563,2,Men,Eixample,l'Antiga Esquerra de l'Eixample,8,56,Region of Murcia
+2564,2,Men,Eixample,la Nova Esquerra de l'Eixample,9,103,Region of Murcia
+2565,2,Men,Eixample,Sant Antoni,10,62,Region of Murcia
+2566,3,Men,Sants-Montjuïc,el Poble Sec,11,53,Region of Murcia
+2567,3,Men,Sants-Montjuïc,la Marina del Prat Vermell,12,1,Region of Murcia
+2568,3,Men,Sants-Montjuïc,la Marina de Port,13,73,Region of Murcia
+2569,3,Men,Sants-Montjuïc,la Font de la Guatlla,14,23,Region of Murcia
+2570,3,Men,Sants-Montjuïc,Hostafrancs,15,30,Region of Murcia
+2571,3,Men,Sants-Montjuïc,la Bordeta,16,35,Region of Murcia
+2572,3,Men,Sants-Montjuïc,Sants - Badal,17,54,Region of Murcia
+2573,3,Men,Sants-Montjuïc,Sants,18,73,Region of Murcia
+2574,4,Men,Les Corts,les Corts,19,62,Region of Murcia
+2575,4,Men,Les Corts,la Maternitat i Sant Ramon,20,54,Region of Murcia
+2576,4,Men,Les Corts,Pedralbes,21,15,Region of Murcia
+2577,5,Men,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",22,4,Region of Murcia
+2578,5,Men,Sarrià-Sant Gervasi,Sarrià,23,11,Region of Murcia
+2579,5,Men,Sarrià-Sant Gervasi,les Tres Torres,24,14,Region of Murcia
+2580,5,Men,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,25,27,Region of Murcia
+2581,5,Men,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,26,40,Region of Murcia
+2582,5,Men,Sarrià-Sant Gervasi,el Putxet i el Farró,27,28,Region of Murcia
+2583,6,Men,Gràcia,Vallcarca i els Penitents,28,15,Region of Murcia
+2584,6,Men,Gràcia,el Coll,29,12,Region of Murcia
+2585,6,Men,Gràcia,la Salut,30,11,Region of Murcia
+2586,6,Men,Gràcia,la Vila de Gràcia,31,58,Region of Murcia
+2587,6,Men,Gràcia,el Camp d'en Grassot i Gràcia Nova,32,40,Region of Murcia
+2588,7,Men,Horta-Guinardó,el Baix Guinardó,33,31,Region of Murcia
+2589,7,Men,Horta-Guinardó,Can Baró,34,10,Region of Murcia
+2590,7,Men,Horta-Guinardó,el Guinardó,35,61,Region of Murcia
+2591,7,Men,Horta-Guinardó,la Font d'en Fargues,36,13,Region of Murcia
+2592,7,Men,Horta-Guinardó,el Carmel,37,53,Region of Murcia
+2593,7,Men,Horta-Guinardó,la Teixonera,38,34,Region of Murcia
+2594,7,Men,Horta-Guinardó,Sant Genís dels Agudells,39,9,Region of Murcia
+2595,7,Men,Horta-Guinardó,Montbau,40,9,Region of Murcia
+2596,7,Men,Horta-Guinardó,la Vall d'Hebron,41,12,Region of Murcia
+2597,7,Men,Horta-Guinardó,la Clota,42,0,Region of Murcia
+2598,7,Men,Horta-Guinardó,Horta,43,60,Region of Murcia
+2599,8,Men,Nou Barris,Vilapicina i la Torre Llobeta,44,49,Region of Murcia
+2600,8,Men,Nou Barris,Porta,45,68,Region of Murcia
+2601,8,Men,Nou Barris,el Turó de la Peira,46,31,Region of Murcia
+2602,8,Men,Nou Barris,Can Peguera,47,8,Region of Murcia
+2603,8,Men,Nou Barris,la Guineueta,48,23,Region of Murcia
+2604,8,Men,Nou Barris,Canyelles,49,20,Region of Murcia
+2605,8,Men,Nou Barris,les Roquetes,50,43,Region of Murcia
+2606,8,Men,Nou Barris,Verdun,51,34,Region of Murcia
+2607,8,Men,Nou Barris,la Prosperitat,52,67,Region of Murcia
+2608,8,Men,Nou Barris,la Trinitat Nova,53,14,Region of Murcia
+2609,8,Men,Nou Barris,Ciutat Meridiana,55,15,Region of Murcia
+2610,8,Men,Nou Barris,Vallbona,56,2,Region of Murcia
+2611,9,Men,Sant Andreu,la Trinitat Vella,57,27,Region of Murcia
+2612,9,Men,Sant Andreu,Baró de Viver,58,12,Region of Murcia
+2613,9,Men,Sant Andreu,el Bon Pastor,59,44,Region of Murcia
+2614,9,Men,Sant Andreu,Sant Andreu,60,119,Region of Murcia
+2615,9,Men,Sant Andreu,la Sagrera,61,61,Region of Murcia
+2616,9,Men,Sant Andreu,el Congrés i els Indians,62,28,Region of Murcia
+2617,9,Men,Sant Andreu,Navas,63,35,Region of Murcia
+2618,10,Men,Sant Martí,el Camp de l'Arpa del Clot,64,72,Region of Murcia
+2619,10,Men,Sant Martí,el Clot,65,51,Region of Murcia
+2620,10,Men,Sant Martí,el Parc i la Llacuna del Poblenou,66,35,Region of Murcia
+2621,10,Men,Sant Martí,la Vila Olímpica del Poblenou,67,23,Region of Murcia
+2622,10,Men,Sant Martí,el Poblenou,68,55,Region of Murcia
+2623,10,Men,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,69,20,Region of Murcia
+2624,10,Men,Sant Martí,el Besòs i el Maresme,70,43,Region of Murcia
+2625,10,Men,Sant Martí,Provençals del Poblenou,71,43,Region of Murcia
+2626,10,Men,Sant Martí,Sant Martí de Provençals,72,67,Region of Murcia
+2627,10,Men,Sant Martí,la Verneda i la Pau,73,68,Region of Murcia
+2628,1,Men,Ciutat Vella,el Raval,1,33,Foral Community of Navarre
+2629,1,Men,Ciutat Vella,el Barri Gòtic,2,13,Foral Community of Navarre
+2630,1,Men,Ciutat Vella,la Barceloneta,3,4,Foral Community of Navarre
+2631,1,Men,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",4,27,Foral Community of Navarre
+2632,2,Men,Eixample,el Fort Pienc,5,38,Foral Community of Navarre
+2633,2,Men,Eixample,la Sagrada Família,6,37,Foral Community of Navarre
+2634,2,Men,Eixample,la Dreta de l'Eixample,7,41,Foral Community of Navarre
+2635,2,Men,Eixample,l'Antiga Esquerra de l'Eixample,8,49,Foral Community of Navarre
+2636,2,Men,Eixample,la Nova Esquerra de l'Eixample,9,57,Foral Community of Navarre
+2637,2,Men,Eixample,Sant Antoni,10,50,Foral Community of Navarre
+2638,3,Men,Sants-Montjuïc,el Poble Sec,11,32,Foral Community of Navarre
+2639,3,Men,Sants-Montjuïc,la Marina del Prat Vermell,12,0,Foral Community of Navarre
+2640,3,Men,Sants-Montjuïc,la Marina de Port,13,21,Foral Community of Navarre
+2641,3,Men,Sants-Montjuïc,la Font de la Guatlla,14,12,Foral Community of Navarre
+2642,3,Men,Sants-Montjuïc,Hostafrancs,15,21,Foral Community of Navarre
+2643,3,Men,Sants-Montjuïc,la Bordeta,16,19,Foral Community of Navarre
+2644,3,Men,Sants-Montjuïc,Sants - Badal,17,17,Foral Community of Navarre
+2645,3,Men,Sants-Montjuïc,Sants,18,35,Foral Community of Navarre
+2646,4,Men,Les Corts,les Corts,19,46,Foral Community of Navarre
+2647,4,Men,Les Corts,la Maternitat i Sant Ramon,20,40,Foral Community of Navarre
+2648,4,Men,Les Corts,Pedralbes,21,12,Foral Community of Navarre
+2649,5,Men,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",22,5,Foral Community of Navarre
+2650,5,Men,Sarrià-Sant Gervasi,Sarrià,23,33,Foral Community of Navarre
+2651,5,Men,Sarrià-Sant Gervasi,les Tres Torres,24,23,Foral Community of Navarre
+2652,5,Men,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,25,31,Foral Community of Navarre
+2653,5,Men,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,26,59,Foral Community of Navarre
+2654,5,Men,Sarrià-Sant Gervasi,el Putxet i el Farró,27,31,Foral Community of Navarre
+2655,6,Men,Gràcia,Vallcarca i els Penitents,28,16,Foral Community of Navarre
+2656,6,Men,Gràcia,el Coll,29,8,Foral Community of Navarre
+2657,6,Men,Gràcia,la Salut,30,9,Foral Community of Navarre
+2658,6,Men,Gràcia,la Vila de Gràcia,31,52,Foral Community of Navarre
+2659,6,Men,Gràcia,el Camp d'en Grassot i Gràcia Nova,32,29,Foral Community of Navarre
+2660,7,Men,Horta-Guinardó,el Baix Guinardó,33,16,Foral Community of Navarre
+2661,7,Men,Horta-Guinardó,Can Baró,34,7,Foral Community of Navarre
+2662,7,Men,Horta-Guinardó,el Guinardó,35,31,Foral Community of Navarre
+2663,7,Men,Horta-Guinardó,la Font d'en Fargues,36,3,Foral Community of Navarre
+2664,7,Men,Horta-Guinardó,el Carmel,37,14,Foral Community of Navarre
+2665,7,Men,Horta-Guinardó,la Teixonera,38,6,Foral Community of Navarre
+2666,7,Men,Horta-Guinardó,Sant Genís dels Agudells,39,7,Foral Community of Navarre
+2667,7,Men,Horta-Guinardó,Montbau,40,5,Foral Community of Navarre
+2668,7,Men,Horta-Guinardó,la Vall d'Hebron,41,20,Foral Community of Navarre
+2669,7,Men,Horta-Guinardó,la Clota,42,2,Foral Community of Navarre
+2670,7,Men,Horta-Guinardó,Horta,43,16,Foral Community of Navarre
+2671,8,Men,Nou Barris,Vilapicina i la Torre Llobeta,44,20,Foral Community of Navarre
+2672,8,Men,Nou Barris,Porta,45,14,Foral Community of Navarre
+2673,8,Men,Nou Barris,el Turó de la Peira,46,9,Foral Community of Navarre
+2674,8,Men,Nou Barris,Can Peguera,47,1,Foral Community of Navarre
+2675,8,Men,Nou Barris,la Guineueta,48,11,Foral Community of Navarre
+2676,8,Men,Nou Barris,Canyelles,49,4,Foral Community of Navarre
+2677,8,Men,Nou Barris,les Roquetes,50,8,Foral Community of Navarre
+2678,8,Men,Nou Barris,Verdun,51,4,Foral Community of Navarre
+2679,8,Men,Nou Barris,la Prosperitat,52,6,Foral Community of Navarre
+2680,8,Men,Nou Barris,la Trinitat Nova,53,0,Foral Community of Navarre
+2681,8,Men,Nou Barris,Torre Baró,54,0,Foral Community of Navarre
+2682,8,Men,Nou Barris,Ciutat Meridiana,55,5,Foral Community of Navarre
+2683,8,Men,Nou Barris,Vallbona,56,1,Foral Community of Navarre
+2684,9,Men,Sant Andreu,la Trinitat Vella,57,5,Foral Community of Navarre
+2685,9,Men,Sant Andreu,Baró de Viver,58,2,Foral Community of Navarre
+2686,9,Men,Sant Andreu,el Bon Pastor,59,8,Foral Community of Navarre
+2687,9,Men,Sant Andreu,Sant Andreu,60,37,Foral Community of Navarre
+2688,9,Men,Sant Andreu,la Sagrera,61,14,Foral Community of Navarre
+2689,9,Men,Sant Andreu,el Congrés i els Indians,62,10,Foral Community of Navarre
+2690,9,Men,Sant Andreu,Navas,63,19,Foral Community of Navarre
+2691,10,Men,Sant Martí,el Camp de l'Arpa del Clot,64,25,Foral Community of Navarre
+2692,10,Men,Sant Martí,el Clot,65,24,Foral Community of Navarre
+2693,10,Men,Sant Martí,el Parc i la Llacuna del Poblenou,66,16,Foral Community of Navarre
+2694,10,Men,Sant Martí,la Vila Olímpica del Poblenou,67,13,Foral Community of Navarre
+2695,10,Men,Sant Martí,el Poblenou,68,24,Foral Community of Navarre
+2696,10,Men,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,69,10,Foral Community of Navarre
+2697,10,Men,Sant Martí,el Besòs i el Maresme,70,12,Foral Community of Navarre
+2698,10,Men,Sant Martí,Provençals del Poblenou,71,15,Foral Community of Navarre
+2699,10,Men,Sant Martí,Sant Martí de Provençals,72,14,Foral Community of Navarre
+2700,10,Men,Sant Martí,la Verneda i la Pau,73,16,Foral Community of Navarre
+2701,1,Men,Ciutat Vella,el Raval,1,79,Basque Country
+2702,1,Men,Ciutat Vella,el Barri Gòtic,2,51,Basque Country
+2703,1,Men,Ciutat Vella,la Barceloneta,3,30,Basque Country
+2704,1,Men,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",4,68,Basque Country
+2705,2,Men,Eixample,el Fort Pienc,5,84,Basque Country
+2706,2,Men,Eixample,la Sagrada Família,6,141,Basque Country
+2707,2,Men,Eixample,la Dreta de l'Eixample,7,132,Basque Country
+2708,2,Men,Eixample,l'Antiga Esquerra de l'Eixample,8,124,Basque Country
+2709,2,Men,Eixample,la Nova Esquerra de l'Eixample,9,167,Basque Country
+2710,2,Men,Eixample,Sant Antoni,10,97,Basque Country
+2711,3,Men,Sants-Montjuïc,el Poble Sec,11,94,Basque Country
+2712,3,Men,Sants-Montjuïc,la Marina del Prat Vermell,12,0,Basque Country
+2713,3,Men,Sants-Montjuïc,la Marina de Port,13,44,Basque Country
+2714,3,Men,Sants-Montjuïc,la Font de la Guatlla,14,21,Basque Country
+2715,3,Men,Sants-Montjuïc,Hostafrancs,15,45,Basque Country
+2716,3,Men,Sants-Montjuïc,la Bordeta,16,40,Basque Country
+2717,3,Men,Sants-Montjuïc,Sants - Badal,17,30,Basque Country
+2718,3,Men,Sants-Montjuïc,Sants,18,96,Basque Country
+2719,4,Men,Les Corts,les Corts,19,109,Basque Country
+2720,4,Men,Les Corts,la Maternitat i Sant Ramon,20,59,Basque Country
+2721,4,Men,Les Corts,Pedralbes,21,39,Basque Country
+2722,5,Men,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",22,11,Basque Country
+2723,5,Men,Sarrià-Sant Gervasi,Sarrià,23,73,Basque Country
+2724,5,Men,Sarrià-Sant Gervasi,les Tres Torres,24,68,Basque Country
+2725,5,Men,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,25,78,Basque Country
+2726,5,Men,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,26,151,Basque Country
+2727,5,Men,Sarrià-Sant Gervasi,el Putxet i el Farró,27,56,Basque Country
+2728,6,Men,Gràcia,Vallcarca i els Penitents,28,24,Basque Country
+2729,6,Men,Gràcia,el Coll,29,12,Basque Country
+2730,6,Men,Gràcia,la Salut,30,34,Basque Country
+2731,6,Men,Gràcia,la Vila de Gràcia,31,147,Basque Country
+2732,6,Men,Gràcia,el Camp d'en Grassot i Gràcia Nova,32,89,Basque Country
+2733,7,Men,Horta-Guinardó,el Baix Guinardó,33,49,Basque Country
+2734,7,Men,Horta-Guinardó,Can Baró,34,22,Basque Country
+2735,7,Men,Horta-Guinardó,el Guinardó,35,82,Basque Country
+2736,7,Men,Horta-Guinardó,la Font d'en Fargues,36,18,Basque Country
+2737,7,Men,Horta-Guinardó,el Carmel,37,24,Basque Country
+2738,7,Men,Horta-Guinardó,la Teixonera,38,12,Basque Country
+2739,7,Men,Horta-Guinardó,Sant Genís dels Agudells,39,5,Basque Country
+2740,7,Men,Horta-Guinardó,Montbau,40,9,Basque Country
+2741,7,Men,Horta-Guinardó,la Vall d'Hebron,41,11,Basque Country
+2742,7,Men,Horta-Guinardó,la Clota,42,1,Basque Country
+2743,7,Men,Horta-Guinardó,Horta,43,35,Basque Country
+2744,8,Men,Nou Barris,Vilapicina i la Torre Llobeta,44,32,Basque Country
+2745,8,Men,Nou Barris,Porta,45,27,Basque Country
+2746,8,Men,Nou Barris,el Turó de la Peira,46,14,Basque Country
+2747,8,Men,Nou Barris,Can Peguera,47,2,Basque Country
+2748,8,Men,Nou Barris,la Guineueta,48,14,Basque Country
+2749,8,Men,Nou Barris,Canyelles,49,7,Basque Country
+2750,8,Men,Nou Barris,les Roquetes,50,4,Basque Country
+2751,8,Men,Nou Barris,Verdun,51,9,Basque Country
+2752,8,Men,Nou Barris,la Prosperitat,52,25,Basque Country
+2753,8,Men,Nou Barris,la Trinitat Nova,53,5,Basque Country
+2754,8,Men,Nou Barris,Torre Baró,54,3,Basque Country
+2755,8,Men,Nou Barris,Ciutat Meridiana,55,5,Basque Country
+2756,8,Men,Nou Barris,Vallbona,56,2,Basque Country
+2757,9,Men,Sant Andreu,la Trinitat Vella,57,6,Basque Country
+2758,9,Men,Sant Andreu,Baró de Viver,58,2,Basque Country
+2759,9,Men,Sant Andreu,el Bon Pastor,59,7,Basque Country
+2760,9,Men,Sant Andreu,Sant Andreu,60,67,Basque Country
+2761,9,Men,Sant Andreu,la Sagrera,61,46,Basque Country
+2762,9,Men,Sant Andreu,el Congrés i els Indians,62,19,Basque Country
+2763,9,Men,Sant Andreu,Navas,63,27,Basque Country
+2764,10,Men,Sant Martí,el Camp de l'Arpa del Clot,64,86,Basque Country
+2765,10,Men,Sant Martí,el Clot,65,54,Basque Country
+2766,10,Men,Sant Martí,el Parc i la Llacuna del Poblenou,66,51,Basque Country
+2767,10,Men,Sant Martí,la Vila Olímpica del Poblenou,67,38,Basque Country
+2768,10,Men,Sant Martí,el Poblenou,68,90,Basque Country
+2769,10,Men,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,69,28,Basque Country
+2770,10,Men,Sant Martí,el Besòs i el Maresme,70,16,Basque Country
+2771,10,Men,Sant Martí,Provençals del Poblenou,71,46,Basque Country
+2772,10,Men,Sant Martí,Sant Martí de Provençals,72,33,Basque Country
+2773,10,Men,Sant Martí,la Verneda i la Pau,73,22,Basque Country
+2774,1,Men,Ciutat Vella,el Raval,1,19,The Rioja
+2775,1,Men,Ciutat Vella,el Barri Gòtic,2,6,The Rioja
+2776,1,Men,Ciutat Vella,la Barceloneta,3,5,The Rioja
+2777,1,Men,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",4,8,The Rioja
+2778,2,Men,Eixample,el Fort Pienc,5,37,The Rioja
+2779,2,Men,Eixample,la Sagrada Família,6,38,The Rioja
+2780,2,Men,Eixample,la Dreta de l'Eixample,7,31,The Rioja
+2781,2,Men,Eixample,l'Antiga Esquerra de l'Eixample,8,31,The Rioja
+2782,2,Men,Eixample,la Nova Esquerra de l'Eixample,9,49,The Rioja
+2783,2,Men,Eixample,Sant Antoni,10,29,The Rioja
+2784,3,Men,Sants-Montjuïc,el Poble Sec,11,20,The Rioja
+2785,3,Men,Sants-Montjuïc,la Marina del Prat Vermell,12,0,The Rioja
+2786,3,Men,Sants-Montjuïc,la Marina de Port,13,16,The Rioja
+2787,3,Men,Sants-Montjuïc,la Font de la Guatlla,14,5,The Rioja
+2788,3,Men,Sants-Montjuïc,Hostafrancs,15,14,The Rioja
+2789,3,Men,Sants-Montjuïc,la Bordeta,16,7,The Rioja
+2790,3,Men,Sants-Montjuïc,Sants - Badal,17,10,The Rioja
+2791,3,Men,Sants-Montjuïc,Sants,18,38,The Rioja
+2792,4,Men,Les Corts,les Corts,19,41,The Rioja
+2793,4,Men,Les Corts,la Maternitat i Sant Ramon,20,22,The Rioja
+2794,4,Men,Les Corts,Pedralbes,21,8,The Rioja
+2795,5,Men,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",22,2,The Rioja
+2796,5,Men,Sarrià-Sant Gervasi,Sarrià,23,13,The Rioja
+2797,5,Men,Sarrià-Sant Gervasi,les Tres Torres,24,4,The Rioja
+2798,5,Men,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,25,16,The Rioja
+2799,5,Men,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,26,22,The Rioja
+2800,5,Men,Sarrià-Sant Gervasi,el Putxet i el Farró,27,16,The Rioja
+2801,6,Men,Gràcia,Vallcarca i els Penitents,28,5,The Rioja
+2802,6,Men,Gràcia,el Coll,29,4,The Rioja
+2803,6,Men,Gràcia,la Salut,30,8,The Rioja
+2804,6,Men,Gràcia,la Vila de Gràcia,31,35,The Rioja
+2805,6,Men,Gràcia,el Camp d'en Grassot i Gràcia Nova,32,14,The Rioja
+2806,7,Men,Horta-Guinardó,el Baix Guinardó,33,15,The Rioja
+2807,7,Men,Horta-Guinardó,Can Baró,34,3,The Rioja
+2808,7,Men,Horta-Guinardó,el Guinardó,35,26,The Rioja
+2809,7,Men,Horta-Guinardó,la Font d'en Fargues,36,5,The Rioja
+2810,7,Men,Horta-Guinardó,el Carmel,37,7,The Rioja
+2811,7,Men,Horta-Guinardó,la Teixonera,38,6,The Rioja
+2812,7,Men,Horta-Guinardó,Sant Genís dels Agudells,39,5,The Rioja
+2813,7,Men,Horta-Guinardó,Montbau,40,8,The Rioja
+2814,7,Men,Horta-Guinardó,la Vall d'Hebron,41,6,The Rioja
+2815,7,Men,Horta-Guinardó,la Clota,42,0,The Rioja
+2816,7,Men,Horta-Guinardó,Horta,43,12,The Rioja
+2817,8,Men,Nou Barris,Vilapicina i la Torre Llobeta,44,20,The Rioja
+2818,8,Men,Nou Barris,Porta,45,9,The Rioja
+2819,8,Men,Nou Barris,el Turó de la Peira,46,10,The Rioja
+2820,8,Men,Nou Barris,Can Peguera,47,0,The Rioja
+2821,8,Men,Nou Barris,la Guineueta,48,10,The Rioja
+2822,8,Men,Nou Barris,Canyelles,49,6,The Rioja
+2823,8,Men,Nou Barris,les Roquetes,50,8,The Rioja
+2824,8,Men,Nou Barris,Verdun,51,3,The Rioja
+2825,8,Men,Nou Barris,la Prosperitat,52,10,The Rioja
+2826,8,Men,Nou Barris,la Trinitat Nova,53,0,The Rioja
+2827,8,Men,Nou Barris,Torre Baró,54,1,The Rioja
+2828,8,Men,Nou Barris,Ciutat Meridiana,55,2,The Rioja
+2829,8,Men,Nou Barris,Vallbona,56,0,The Rioja
+2830,9,Men,Sant Andreu,la Trinitat Vella,57,0,The Rioja
+2831,9,Men,Sant Andreu,Baró de Viver,58,0,The Rioja
+2832,9,Men,Sant Andreu,el Bon Pastor,59,4,The Rioja
+2833,9,Men,Sant Andreu,Sant Andreu,60,28,The Rioja
+2834,9,Men,Sant Andreu,la Sagrera,61,13,The Rioja
+2835,9,Men,Sant Andreu,el Congrés i els Indians,62,10,The Rioja
+2836,9,Men,Sant Andreu,Navas,63,11,The Rioja
+2837,10,Men,Sant Martí,el Camp de l'Arpa del Clot,64,18,The Rioja
+2838,10,Men,Sant Martí,el Clot,65,12,The Rioja
+2839,10,Men,Sant Martí,el Parc i la Llacuna del Poblenou,66,11,The Rioja
+2840,10,Men,Sant Martí,la Vila Olímpica del Poblenou,67,6,The Rioja
+2841,10,Men,Sant Martí,el Poblenou,68,15,The Rioja
+2842,10,Men,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,69,8,The Rioja
+2843,10,Men,Sant Martí,el Besòs i el Maresme,70,7,The Rioja
+2844,10,Men,Sant Martí,Provençals del Poblenou,71,15,The Rioja
+2845,10,Men,Sant Martí,Sant Martí de Provençals,72,15,The Rioja
+2846,10,Men,Sant Martí,la Verneda i la Pau,73,13,The Rioja
+2847,1,Men,Ciutat Vella,el Raval,1,20,Ceuta
+2848,1,Men,Ciutat Vella,el Barri Gòtic,2,3,Ceuta
+2849,1,Men,Ciutat Vella,la Barceloneta,3,5,Ceuta
+2850,1,Men,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",4,7,Ceuta
+2851,2,Men,Eixample,el Fort Pienc,5,5,Ceuta
+2852,2,Men,Eixample,la Sagrada Família,6,9,Ceuta
+2853,2,Men,Eixample,la Dreta de l'Eixample,7,12,Ceuta
+2854,2,Men,Eixample,l'Antiga Esquerra de l'Eixample,8,7,Ceuta
+2855,2,Men,Eixample,la Nova Esquerra de l'Eixample,9,12,Ceuta
+2856,2,Men,Eixample,Sant Antoni,10,6,Ceuta
+2857,3,Men,Sants-Montjuïc,el Poble Sec,11,7,Ceuta
+2858,3,Men,Sants-Montjuïc,la Marina del Prat Vermell,12,0,Ceuta
+2859,3,Men,Sants-Montjuïc,la Marina de Port,13,11,Ceuta
+2860,3,Men,Sants-Montjuïc,la Font de la Guatlla,14,0,Ceuta
+2861,3,Men,Sants-Montjuïc,Hostafrancs,15,2,Ceuta
+2862,3,Men,Sants-Montjuïc,la Bordeta,16,5,Ceuta
+2863,3,Men,Sants-Montjuïc,Sants - Badal,17,4,Ceuta
+2864,3,Men,Sants-Montjuïc,Sants,18,7,Ceuta
+2865,4,Men,Les Corts,les Corts,19,11,Ceuta
+2866,4,Men,Les Corts,la Maternitat i Sant Ramon,20,5,Ceuta
+2867,4,Men,Les Corts,Pedralbes,21,5,Ceuta
+2868,5,Men,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",22,0,Ceuta
+2869,5,Men,Sarrià-Sant Gervasi,Sarrià,23,0,Ceuta
+2870,5,Men,Sarrià-Sant Gervasi,les Tres Torres,24,0,Ceuta
+2871,5,Men,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,25,1,Ceuta
+2872,5,Men,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,26,1,Ceuta
+2873,5,Men,Sarrià-Sant Gervasi,el Putxet i el Farró,27,2,Ceuta
+2874,6,Men,Gràcia,Vallcarca i els Penitents,28,1,Ceuta
+2875,6,Men,Gràcia,el Coll,29,1,Ceuta
+2876,6,Men,Gràcia,la Salut,30,2,Ceuta
+2877,6,Men,Gràcia,la Vila de Gràcia,31,9,Ceuta
+2878,6,Men,Gràcia,el Camp d'en Grassot i Gràcia Nova,32,6,Ceuta
+2879,7,Men,Horta-Guinardó,el Baix Guinardó,33,5,Ceuta
+2880,7,Men,Horta-Guinardó,Can Baró,34,3,Ceuta
+2881,7,Men,Horta-Guinardó,el Guinardó,35,12,Ceuta
+2882,7,Men,Horta-Guinardó,la Font d'en Fargues,36,1,Ceuta
+2883,7,Men,Horta-Guinardó,el Carmel,37,10,Ceuta
+2884,7,Men,Horta-Guinardó,la Teixonera,38,4,Ceuta
+2885,7,Men,Horta-Guinardó,Sant Genís dels Agudells,39,0,Ceuta
+2886,7,Men,Horta-Guinardó,Montbau,40,4,Ceuta
+2887,7,Men,Horta-Guinardó,la Vall d'Hebron,41,3,Ceuta
+2888,7,Men,Horta-Guinardó,la Clota,42,0,Ceuta
+2889,7,Men,Horta-Guinardó,Horta,43,7,Ceuta
+2890,8,Men,Nou Barris,Vilapicina i la Torre Llobeta,44,7,Ceuta
+2891,8,Men,Nou Barris,Porta,45,12,Ceuta
+2892,8,Men,Nou Barris,el Turó de la Peira,46,4,Ceuta
+2893,8,Men,Nou Barris,Can Peguera,47,0,Ceuta
+2894,8,Men,Nou Barris,la Guineueta,48,3,Ceuta
+2895,8,Men,Nou Barris,Canyelles,49,1,Ceuta
+2896,8,Men,Nou Barris,les Roquetes,50,4,Ceuta
+2897,8,Men,Nou Barris,Verdun,51,9,Ceuta
+2898,8,Men,Nou Barris,la Prosperitat,52,9,Ceuta
+2899,8,Men,Nou Barris,la Trinitat Nova,53,1,Ceuta
+2900,8,Men,Nou Barris,Torre Baró,54,0,Ceuta
+2901,8,Men,Nou Barris,Ciutat Meridiana,55,1,Ceuta
+2902,8,Men,Nou Barris,Vallbona,56,0,Ceuta
+2903,9,Men,Sant Andreu,la Trinitat Vella,57,3,Ceuta
+2904,9,Men,Sant Andreu,Baró de Viver,58,1,Ceuta
+2905,9,Men,Sant Andreu,el Bon Pastor,59,3,Ceuta
+2906,9,Men,Sant Andreu,Sant Andreu,60,16,Ceuta
+2907,9,Men,Sant Andreu,la Sagrera,61,3,Ceuta
+2908,9,Men,Sant Andreu,el Congrés i els Indians,62,2,Ceuta
+2909,9,Men,Sant Andreu,Navas,63,1,Ceuta
+2910,10,Men,Sant Martí,el Camp de l'Arpa del Clot,64,3,Ceuta
+2911,10,Men,Sant Martí,el Clot,65,7,Ceuta
+2912,9,Men,Sant Andreu,Baró de Viver,58,0,Melilla
+2913,10,Men,Sant Martí,el Parc i la Llacuna del Poblenou,66,5,Ceuta
+2914,10,Men,Sant Martí,la Vila Olímpica del Poblenou,67,4,Ceuta
+2915,10,Men,Sant Martí,el Poblenou,68,15,Ceuta
+2916,10,Men,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,69,2,Ceuta
+2917,10,Men,Sant Martí,el Besòs i el Maresme,70,5,Ceuta
+2918,10,Men,Sant Martí,Provençals del Poblenou,71,3,Ceuta
+2919,10,Men,Sant Martí,Sant Martí de Provençals,72,9,Ceuta
+2920,10,Men,Sant Martí,la Verneda i la Pau,73,16,Ceuta
+2921,1,Men,Ciutat Vella,el Raval,1,22,Melilla
+2922,1,Men,Ciutat Vella,el Barri Gòtic,2,9,Melilla
+2923,1,Men,Ciutat Vella,la Barceloneta,3,6,Melilla
+2924,1,Men,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",4,7,Melilla
+2925,2,Men,Eixample,el Fort Pienc,5,11,Melilla
+2926,2,Men,Eixample,la Sagrada Família,6,20,Melilla
+2927,2,Men,Eixample,la Dreta de l'Eixample,7,11,Melilla
+2928,2,Men,Eixample,l'Antiga Esquerra de l'Eixample,8,9,Melilla
+2929,2,Men,Eixample,la Nova Esquerra de l'Eixample,9,20,Melilla
+2930,2,Men,Eixample,Sant Antoni,10,8,Melilla
+2931,3,Men,Sants-Montjuïc,el Poble Sec,11,14,Melilla
+2932,3,Men,Sants-Montjuïc,la Marina del Prat Vermell,12,0,Melilla
+2933,3,Men,Sants-Montjuïc,la Marina de Port,13,16,Melilla
+2934,3,Men,Sants-Montjuïc,la Font de la Guatlla,14,2,Melilla
+2935,3,Men,Sants-Montjuïc,Hostafrancs,15,4,Melilla
+2936,3,Men,Sants-Montjuïc,la Bordeta,16,8,Melilla
+2937,3,Men,Sants-Montjuïc,Sants - Badal,17,8,Melilla
+2938,3,Men,Sants-Montjuïc,Sants,18,17,Melilla
+2939,4,Men,Les Corts,les Corts,19,20,Melilla
+2940,4,Men,Les Corts,la Maternitat i Sant Ramon,20,3,Melilla
+2941,4,Men,Les Corts,Pedralbes,21,7,Melilla
+2942,5,Men,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",22,0,Melilla
+2943,5,Men,Sarrià-Sant Gervasi,Sarrià,23,5,Melilla
+2944,5,Men,Sarrià-Sant Gervasi,les Tres Torres,24,5,Melilla
+2945,5,Men,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,25,3,Melilla
+2946,5,Men,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,26,14,Melilla
+2947,5,Men,Sarrià-Sant Gervasi,el Putxet i el Farró,27,5,Melilla
+2948,6,Men,Gràcia,Vallcarca i els Penitents,28,2,Melilla
+2949,6,Men,Gràcia,el Coll,29,3,Melilla
+2950,6,Men,Gràcia,la Salut,30,4,Melilla
+2951,6,Men,Gràcia,la Vila de Gràcia,31,8,Melilla
+2952,6,Men,Gràcia,el Camp d'en Grassot i Gràcia Nova,32,12,Melilla
+2953,7,Men,Horta-Guinardó,el Baix Guinardó,33,13,Melilla
+2954,7,Men,Horta-Guinardó,Can Baró,34,4,Melilla
+2955,7,Men,Horta-Guinardó,el Guinardó,35,11,Melilla
+2956,7,Men,Horta-Guinardó,la Font d'en Fargues,36,1,Melilla
+2957,7,Men,Horta-Guinardó,el Carmel,37,10,Melilla
+2958,7,Men,Horta-Guinardó,la Teixonera,38,5,Melilla
+2959,7,Men,Horta-Guinardó,Sant Genís dels Agudells,39,2,Melilla
+2960,7,Men,Horta-Guinardó,Montbau,40,4,Melilla
+2961,7,Men,Horta-Guinardó,la Vall d'Hebron,41,3,Melilla
+2962,7,Men,Horta-Guinardó,la Clota,42,0,Melilla
+2963,7,Men,Horta-Guinardó,Horta,43,10,Melilla
+2964,8,Men,Nou Barris,Vilapicina i la Torre Llobeta,44,9,Melilla
+2965,8,Men,Nou Barris,Porta,45,17,Melilla
+2966,8,Men,Nou Barris,el Turó de la Peira,46,2,Melilla
+2967,8,Men,Nou Barris,Can Peguera,47,1,Melilla
+2968,8,Men,Nou Barris,la Guineueta,48,15,Melilla
+2969,8,Men,Nou Barris,Canyelles,49,7,Melilla
+2970,8,Men,Nou Barris,les Roquetes,50,4,Melilla
+2971,8,Men,Nou Barris,Verdun,51,5,Melilla
+2972,8,Men,Nou Barris,la Prosperitat,52,12,Melilla
+2973,8,Men,Nou Barris,la Trinitat Nova,53,4,Melilla
+2974,8,Men,Nou Barris,Torre Baró,54,2,Melilla
+2975,8,Men,Nou Barris,Ciutat Meridiana,55,10,Melilla
+2976,8,Men,Nou Barris,Vallbona,56,2,Melilla
+2977,9,Men,Sant Andreu,la Trinitat Vella,57,10,Melilla
+2978,9,Men,Sant Andreu,el Bon Pastor,59,4,Melilla
+2979,9,Men,Sant Andreu,Sant Andreu,60,33,Melilla
+2980,9,Men,Sant Andreu,la Sagrera,61,13,Melilla
+2981,9,Men,Sant Andreu,el Congrés i els Indians,62,3,Melilla
+2982,9,Men,Sant Andreu,Navas,63,14,Melilla
+2983,10,Men,Sant Martí,el Camp de l'Arpa del Clot,64,15,Melilla
+2984,10,Men,Sant Martí,el Clot,65,5,Melilla
+2985,10,Men,Sant Martí,el Parc i la Llacuna del Poblenou,66,10,Melilla
+2986,10,Men,Sant Martí,la Vila Olímpica del Poblenou,67,7,Melilla
+2987,10,Men,Sant Martí,el Poblenou,68,7,Melilla
+2988,10,Men,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,69,6,Melilla
+2989,10,Men,Sant Martí,el Besòs i el Maresme,70,19,Melilla
+2990,10,Men,Sant Martí,Provençals del Poblenou,71,14,Melilla
+2991,10,Men,Sant Martí,Sant Martí de Provençals,72,15,Melilla
+2992,10,Men,Sant Martí,la Verneda i la Pau,73,19,Melilla
+2993,1,Men,Ciutat Vella,el Raval,1,16509,Foreign
+2994,1,Men,Ciutat Vella,el Barri Gòtic,2,9486,Foreign
+2995,1,Men,Ciutat Vella,la Barceloneta,3,3699,Foreign
+2996,1,Men,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",4,6389,Foreign
+2997,2,Men,Eixample,el Fort Pienc,5,5340,Foreign
+2998,2,Men,Eixample,la Sagrada Família,6,7309,Foreign
+2999,2,Men,Eixample,la Dreta de l'Eixample,7,6419,Foreign
+3000,2,Men,Eixample,l'Antiga Esquerra de l'Eixample,8,6694,Foreign
+3001,2,Men,Eixample,la Nova Esquerra de l'Eixample,9,7583,Foreign
+3002,2,Men,Eixample,Sant Antoni,10,6015,Foreign
+3003,3,Men,Sants-Montjuïc,el Poble Sec,11,8796,Foreign
+3004,3,Men,Sants-Montjuïc,la Marina del Prat Vermell,12,117,Foreign
+3005,3,Men,Sants-Montjuïc,la Marina de Port,13,3636,Foreign
+3006,3,Men,Sants-Montjuïc,la Font de la Guatlla,14,1485,Foreign
+3007,3,Men,Sants-Montjuïc,Hostafrancs,15,2524,Foreign
+3008,3,Men,Sants-Montjuïc,la Bordeta,16,2091,Foreign
+3009,3,Men,Sants-Montjuïc,Sants - Badal,17,3303,Foreign
+3010,3,Men,Sants-Montjuïc,Sants,18,6631,Foreign
+3011,4,Men,Les Corts,les Corts,19,3977,Foreign
+3012,4,Men,Les Corts,la Maternitat i Sant Ramon,20,2087,Foreign
+3013,4,Men,Les Corts,Pedralbes,21,1235,Foreign
+3014,5,Men,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",22,413,Foreign
+3015,5,Men,Sarrià-Sant Gervasi,Sarrià,23,2169,Foreign
+3016,5,Men,Sarrià-Sant Gervasi,les Tres Torres,24,1066,Foreign
+3017,5,Men,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,25,2132,Foreign
+3018,5,Men,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,26,3919,Foreign
+3019,5,Men,Sarrià-Sant Gervasi,el Putxet i el Farró,27,2978,Foreign
+3020,6,Men,Gràcia,Vallcarca i els Penitents,28,1628,Foreign
+3021,6,Men,Gràcia,el Coll,29,819,Foreign
+3022,6,Men,Gràcia,la Salut,30,1364,Foreign
+3023,6,Men,Gràcia,la Vila de Gràcia,31,6642,Foreign
+3024,6,Men,Gràcia,el Camp d'en Grassot i Gràcia Nova,32,3768,Foreign
+3025,7,Men,Horta-Guinardó,el Baix Guinardó,33,2794,Foreign
+3026,7,Men,Horta-Guinardó,Can Baró,34,1014,Foreign
+3027,7,Men,Horta-Guinardó,el Guinardó,35,4230,Foreign
+3028,7,Men,Horta-Guinardó,la Font d'en Fargues,36,511,Foreign
+3029,7,Men,Horta-Guinardó,el Carmel,37,3854,Foreign
+3030,7,Men,Horta-Guinardó,la Teixonera,38,1392,Foreign
+3031,7,Men,Horta-Guinardó,Sant Genís dels Agudells,39,989,Foreign
+3032,7,Men,Horta-Guinardó,Montbau,40,510,Foreign
+3033,7,Men,Horta-Guinardó,la Vall d'Hebron,41,409,Foreign
+3034,7,Men,Horta-Guinardó,la Clota,42,81,Foreign
+3035,7,Men,Horta-Guinardó,Horta,43,2743,Foreign
+3036,8,Men,Nou Barris,Vilapicina i la Torre Llobeta,44,2762,Foreign
+3037,8,Men,Nou Barris,Porta,45,4041,Foreign
+3038,8,Men,Nou Barris,el Turó de la Peira,46,2619,Foreign
+3039,8,Men,Nou Barris,Can Peguera,47,164,Foreign
+3040,8,Men,Nou Barris,la Guineueta,48,1035,Foreign
+3041,8,Men,Nou Barris,Canyelles,49,316,Foreign
+3042,8,Men,Nou Barris,les Roquetes,50,2458,Foreign
+3043,8,Men,Nou Barris,Verdun,51,1809,Foreign
+3044,8,Men,Nou Barris,la Prosperitat,52,3039,Foreign
+3045,8,Men,Nou Barris,la Trinitat Nova,53,1189,Foreign
+3046,8,Men,Nou Barris,Torre Baró,54,386,Foreign
+3047,8,Men,Nou Barris,Ciutat Meridiana,55,2320,Foreign
+3048,8,Men,Nou Barris,Vallbona,56,161,Foreign
+3049,9,Men,Sant Andreu,la Trinitat Vella,57,2267,Foreign
+3050,9,Men,Sant Andreu,Baró de Viver,58,258,Foreign
+3051,9,Men,Sant Andreu,el Bon Pastor,59,1897,Foreign
+3052,9,Men,Sant Andreu,Sant Andreu,60,3821,Foreign
+3053,9,Men,Sant Andreu,la Sagrera,61,3140,Foreign
+3054,9,Men,Sant Andreu,el Congrés i els Indians,62,1591,Foreign
+3055,9,Men,Sant Andreu,Navas,63,2488,Foreign
+3056,10,Men,Sant Martí,el Camp de l'Arpa del Clot,64,5083,Foreign
+3057,10,Men,Sant Martí,el Clot,65,3000,Foreign
+3058,10,Men,Sant Martí,el Parc i la Llacuna del Poblenou,66,2392,Foreign
+3059,10,Men,Sant Martí,la Vila Olímpica del Poblenou,67,1096,Foreign
+3060,10,Men,Sant Martí,el Poblenou,68,4314,Foreign
+3061,10,Men,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,69,1566,Foreign
+3062,10,Men,Sant Martí,el Besòs i el Maresme,70,5860,Foreign
+3063,10,Men,Sant Martí,Provençals del Poblenou,71,2336,Foreign
+3064,10,Men,Sant Martí,Sant Martí de Provençals,72,2384,Foreign
+3065,10,Men,Sant Martí,la Verneda i la Pau,73,2677,Foreign
