@@ -1,40 +1,40 @@
-# Lab | Avila Bible
+# Open Data BCN Project
 
 <img src="https://media.giphy.com/media/h8HgkqabhYyq8iRSp0/giphy.gif" alt="alt text" width="200" height="200">
 
 
 ## Introduction
 
-Avila bible is one of the largest and most spectacular codices in the Spanish National Library. The ornamentation features contrasting Italian and Spanish styles. The Italian decoration depicts the authors of the books and contains numerous capitals, either illuminated or coloured in red, blue, yellow and dark green on lighter backgrounds in the same tone. The colours change in the Spanish decoration, which also has exceptional intertwined initials and whole-page figurative illustrations of subjects such as Noah's Ark, the symbols of the evangelists and scenes from the life of Christ.
+Open Data or Public Sector Information Openness is a movement driven by public administrations with the main objective of maximizing available public resources, exposing the information generated or guarded by public bodies, allowing its access and use for the common good and the benefit of anyone and any entity interested.
 
-![avila-bible](https://cadenaser.com/emisora/imagenes/2016/12/20/ser_avila/1482250694_869096_1482253032_noticia_normal.jpg)
+Open Data BCN, a project that was born in 2010, implementing the portal in 2011, has evolved and is now part of the Barcelona Ciutat Digital strategy, fostering a pluralistic digital economy and developing a new model of urban innovation based on the transformation and digital innovation of the public sector and the implication among companies, administrations, the academic world, organizations, communities and people, with clear public and citizen leadership. 
+
+Nevertheless, it is in continuous evolution and there is a massive potential for interrelating different online resources for data consultation and its visualization without the need for diving deep into the data. In other words, this large amount of information could always be present but in a more convenient, illustrative and interactive way to catch and retain the attention of the data consumer, while providing powerful insights.
+
+After exploring one of the online resources (https://www.barcelona.cat/es/vivir-en-bcn/vive-el-barrio), it was clear that the user experience overall was quite exceptional as it incorporates an interactive map of the city of Barcelona which directs the user to the description page of each neighbourhood. However, this could improve by adding some general information and present it through multiple dashboards that provide relevant indicators of the socio-economical reality of the population located there.
+
+## Objective
+
+Based on tthe previous assumption, I have chosen 5 datasets provided by Barcelona's City Hall Open Data Service, which includes relevant information updated to 2020 segregated by the district and neighbourhood of the population of the city of Barcelona they live in, on subjects such as:
+
+Academic qualifications
+Employment and unemployment demand registered by month
+Nationality, origin region and age 
+
+After an ETL process, the ultimate goal is to create multiple dashboards in Tableau to present a dynamic and interactive digital product that they could be incorporated in each description page to maximize the value provided to the final user.
 
 ## Data Description
 
-The Avila data set has been extracted from 800 images of the the "Avila Bible", a giant Latin copy of the whole Bible produced during the XII century between Italy and Spain.  
-The palaeographic analysis of the  manuscript has  individuated the presence of 12 copyists. The pages written by each copyist are not equally numerous. 
-Each pattern contains 10 features and corresponds to a group of 4 consecutive rows.
+The datasets used for this project are:
 
-The prediction task consists in associating each pattern to one of the 12 copyists (labeled as:  Marcus, Clarius, Philippus, Coronavirucus, Mongucus, Paithonius, Ubuntius, Esequlius).
-The data have has been normalized, by using the Z-normalization method, and divided in two data sets: a training set and a test set.
+- Population of the city of Barcelona by sex and academic level
+- Population of the city of Barcelona according to sex, five-year age and nationality
+- Population of the city of Barcelona according to sex and place of birth
+- Population of the city of Barcelona according to sex and nationality
+- Registered unemployement in the city of Barcelona.
 
-## Getting Started
-
-Open the `main.ipynb`. Read the instructions carefully and provide your answer beneath it.
+The data extracted were in Catalan and has been translated to English for a universal purpose. There are approximately more than 21800 records in total to nurture this project, after cleaning and normalizing the variables, it has been collected in just one single table to facilitate the visualization task.
 
 ## Deliverables
 
-- `main.ipynb` including the requirements below. 
-
-## Requirements
-
-- Train a minimum of 4 different models
-- Must contain a summary of the machine learning tools and algorithms
-- And the results or the score obtained with each of them
-
-## Citation
-
-If you want to refer to the Avila data set in a publication, please cite the following paper:
-
-C. De Stefano, M. Maniaci, F. Fontanella, A. Scotto di Freca,
-Reliable writer identification in medieval manuscripts through page layout features: The "Avila" Bible case, Engineering Applications of Artificial Intelligence, Volume 72, 2018, pp. 99-110.
+- 6 interactive Dashboards that presents the information in a clear and user-friendly way to the final consumer.
