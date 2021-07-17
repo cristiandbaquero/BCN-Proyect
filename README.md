@@ -15,13 +15,15 @@ After exploring one of the online resources (https://www.barcelona.cat/es/vivir-
 
 ## Objective
 
-Based on tthe previous assumption, I have chosen 5 datasets provided by Barcelona's City Hall Open Data Service, which includes relevant information updated to 2020 segregated by the district and neighbourhood of the population of the city of Barcelona they live in, on subjects such as:
+By taking advantage of the Open Data BCN innitiative, I have chosen 5 datasets provided by Barcelona's City Hall Open Data Service, which includes relevant information updated to 2020 segregated by the district and neighbourhood of the population of the city of Barcelona they live in, on subjects such as:
 
-Academic qualifications
-Employment and unemployment demand registered by month
-Nationality, origin region and age 
+- Academic qualifications
+- Employment and unemployment demand registered by month
+- Nationality, origin region and age 
 
 After an ETL process, the ultimate goal is to create multiple dashboards in Tableau to present a dynamic and interactive digital product that they could be incorporated in each description page to maximize the value provided to the final user.
+
+This public information, offers great potential value, being relatively reliable in search of efficiency in governance through the analysis of this data, transformation and its visualization on Tableau. As the administration desings policies for the wellness of its citizens as a whole entity with the clear objetive to improve their life standars, and have a possitive impact on their lifes. Nevertheless, by diving deep into the granularity of the data, the configuration of this strategy could be modified and adapt to answer the real needs and demands of specific segments of the citizens.
 
 ## Data Description
 
